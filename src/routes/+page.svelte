@@ -12,7 +12,7 @@
 		<img
 			src="{base}/svgs/espaco_de_dialogo.svg"
 			alt="Espaço de diálogo sobre o novo aeroporto de Lisboa"
-			class="pb-4 pr-20 max-w-4xl"
+			class="pb-4 max-w-4xl"
 		/>
 	</div>
 </div>
@@ -67,7 +67,7 @@
 					diretrizes. Recomendações para a decisão.
 				</p>
 			</div>
-			<img src="{base}/svgs/fases.svg" alt="Fases" class="py-14" />
+			<img src="{base}/images/faseamento_aae.png" alt="Fases" class="py-8" />
 			<ArrowLink label="Saber mais" />
 		</div>
 	</div>

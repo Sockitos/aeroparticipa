@@ -1,4 +1,5 @@
-<script>
+<script lang="ts">
+	import { base } from '$app/paths';
 	import PageContainer from '@/components/PageContainer.svelte';
 	import PageHeader from '@/components/PageHeader.svelte';
 </script>
@@ -34,9 +35,11 @@
 		figura 1).
 	</p>
 	<div class="py-8">
-		<div class="w-full aspect-video bg-grey flex">
-			<p class="m-auto text-grey-dark text-xl font-bold">Figure 1</p>
-		</div>
+		<img
+			src="{base}/images/dimensoes_estrategicas.png"
+			alt="Dimensões estratégicas que informam a AAE"
+			class="w-full"
+		/>
 		<p class="text-center pt-4">Figura 1 - Dimensões estratégicas que informam a AAE</p>
 	</div>
 </PageContainer>

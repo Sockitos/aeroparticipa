@@ -30,7 +30,7 @@ const config = {
 			sans: ['Sofia Sans', 'sans-serif'],
 		},
 		backgroundImage: {
-			'plane': "url('/images/plane.jpg')",
+			'plane': "url('/images/plane.jpeg')",
 		},
 		extend: {}
 	},
