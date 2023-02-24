@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { navigating } from '$app/stores';
 	import { clickOutside } from '@/utils/clickOutside';
 
 	export let label: string = '';
@@ -8,6 +9,8 @@
 	const handleDropdown = () => {
 		hidden = !hidden;
 	};
+
+	$: if ($navigating && !hidden) hidden = !hidden;
 </script>
 
 <li use:clickOutside={() => !hidden && handleDropdown()} class="relative">

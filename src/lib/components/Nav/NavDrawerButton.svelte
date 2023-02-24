@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { base } from '$app/paths';
+	import { navigating } from '$app/stores';
 	import NavDrawerGroup from './NavDrawerGroup.svelte';
 	import NavDrawerItem from './NavDrawerItem.svelte';
 
@@ -8,6 +9,8 @@
 	const handleDropdown = () => {
 		hidden = !hidden;
 	};
+
+	$: if ($navigating && !hidden) hidden = !hidden;
 </script>
 
 <button on:click={() => handleDropdown()}>
