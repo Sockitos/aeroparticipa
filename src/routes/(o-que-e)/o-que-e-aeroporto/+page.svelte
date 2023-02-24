@@ -169,7 +169,7 @@
 		</li>
 	</ul>
 	<div class="py-8">
-		<img src="{base}/images/redes_aereas.png" alt="Redes Aéreas" class="w-full" />
+		<img src="{base}/images/redes_aereas.png" alt="Redes Aéreas" class="w-full p-4 bg-grey" />
 		<p class="text-center pt-4">Figura 1 - Tipos de redes exploradas pelas companhias aéreas</p>
 	</div>
 	<p>

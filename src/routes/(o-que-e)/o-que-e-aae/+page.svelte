@@ -38,7 +38,7 @@
 		<img
 			src="{base}/images/dimensoes_estrategicas.png"
 			alt="Dimensões estratégicas que informam a AAE"
-			class="w-full"
+			class="w-full p-4 bg-grey"
 		/>
 		<p class="text-center pt-4">Figura 1 - Dimensões estratégicas que informam a AAE</p>
 	</div>

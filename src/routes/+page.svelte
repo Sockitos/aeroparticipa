@@ -18,7 +18,7 @@
 </div>
 <div class="bg-plane bg-cover bg-center bg-blue bg-blend-multiply">
 	<div class="container py-10 md:py-16">
-		<img src="{base}/svgs/opiniao.svg" alt="Queremos a sua opinião" class="max-w-2xl pb-10" />
+		<img src="{base}/svgs/opiniao.svg" alt="Queremos a sua opinião" class="max-w-xl pb-10" />
 		<p class="max-w-3xl text-white text-xl">
 			Os estudos técnico-científicos dão-nos factos e evidências, mas a percepção sobre os
 			problemas, as preferências, as prioridades exprimem-se frequentemente pela opinião dos
@@ -33,7 +33,7 @@
 </div>
 <div class="bg-background">
 	<div class="container py-12 lg:py-20">
-		<div class="bg-grey p-12 md:p-16 lg:p-20 flex flex-col">
+		<div class="bg-grey p-8 md:p-16 lg:p-20 flex flex-col">
 			<img
 				src="{base}/svgs/participacao.svg"
 				alt="Processo de Participação"
@@ -68,7 +68,7 @@
 				</p>
 			</div>
 			<img src="{base}/images/faseamento_aae.png" alt="Fases" class="py-8" />
-			<ArrowLink label="Saber mais" />
+			<ArrowLink label="Saber mais" href="{base}/o-que-e-aae" />
 		</div>
 	</div>
 </div>
