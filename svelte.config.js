@@ -12,10 +12,15 @@ const config = {
 	],
 
 	kit: {
-		adapter: adapter(),
+		adapter: adapter({
+			pages: "build",
+			assets: "build",
+			fallback: null,
+		}),
 		alias: {
 			"@": "src/lib",
 		},
+		paths: { base: "/aeroparticipa" }
 	}
 };
 

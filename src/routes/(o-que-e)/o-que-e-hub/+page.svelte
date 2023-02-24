@@ -1,4 +1,5 @@
 <script>
+	import { base } from '$app/paths';
 	import PageContainer from '@/components/PageContainer.svelte';
 	import PageHeader from '@/components/PageHeader.svelte';
 </script>
@@ -14,7 +15,7 @@
 		comerciais, num determinado período de tempo.
 	</p>
 	<div class="py-8">
-		<img src="images/hub_1.jpg" alt="Esquema representativo de um hub" class="w-full" />
+		<img src="{base}/images/hub_1.jpg" alt="Esquema representativo de um hub" class="w-full" />
 		<p class="text-center pt-4">Figura 1 - Esquema representativo de um hub</p>
 	</div>
 	<h3 class="text-2xl font-bold pt-6">
@@ -48,7 +49,7 @@
 		ondas de transferência de tráfego ao longo do dia. A imagem 2 tenta mostrar esse efeito.
 	</p>
 	<div class="py-8">
-		<img src="images/hub_2.jpg" alt="" class="w-full" />
+		<img src="{base}/images/hub_2.jpg" alt="" class="w-full" />
 		<p class="text-center pt-4">Figura 2 -</p>
 	</div>
 	<p>

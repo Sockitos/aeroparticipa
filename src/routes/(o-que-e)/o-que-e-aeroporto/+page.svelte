@@ -1,4 +1,5 @@
 <script>
+	import { base } from '$app/paths';
 	import PageContainer from '@/components/PageContainer.svelte';
 	import PageHeader from '@/components/PageHeader.svelte';
 </script>
@@ -168,7 +169,7 @@
 		</li>
 	</ul>
 	<div class="py-8">
-		<img src="images/redes_aereas.png" alt="Redes Aéreas" class="w-full" />
+		<img src="{base}/images/redes_aereas.png" alt="Redes Aéreas" class="w-full" />
 		<p class="text-center pt-4">Figura 1 - Tipos de redes exploradas pelas companhias aéreas</p>
 	</div>
 	<p>

@@ -1,4 +1,5 @@
 <script>
+	import { base } from '$app/paths';
 	import ArrowLink from './ArrowLink.svelte';
 </script>
 
@@ -8,8 +9,8 @@
 			<div
 				class="flex flex-col space-y-10 md:flex-row items-center md:justify-between md:space-x-10"
 			>
-				<img src="svgs/logo_alt.svg" alt="AeroParticipa" class="h-24" />
-				<img src="svgs/cti_logo.svg" alt="CTI" class="h-14" />
+				<img src="{base}/svgs/logo_alt.svg" alt="AeroParticipa" class="h-24" />
+				<img src="{base}/svgs/cti_logo.svg" alt="CTI" class="h-14" />
 			</div>
 			<div
 				class="flex flex-col space-y-4 items-center md:flex-row md:items-end md:justify-between md:space-x-10"
