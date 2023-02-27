@@ -6,20 +6,16 @@
 
 	let hidden = true;
 
-	const handleDropdown = () => {
-		hidden = !hidden;
-	};
-
 	$: if ($navigating && !hidden) hidden = !hidden;
 </script>
 
-<button on:click={() => handleDropdown()}>
+<button on:click={() => (hidden = false)}>
 	<svg class="h-8 fill-white" viewBox="0 96 960 960" xmlns="http://www.w3.org/2000/svg"
 		><path d="M120 816v-60h720v60H120Zm0-210v-60h720v60H120Zm0-210v-60h720v60H120Z" />
 	</svg>
 </button>
 <div class:hidden class="fixed top-0 left-0 w-screen h-screen z-20 bg-blue-dark ">
-	<button on:click={() => handleDropdown()} class="container h-16 flex items-center justify-end">
+	<button on:click={() => (hidden = true)} class="container h-16 flex items-center justify-end">
 		<svg class="h-8 fill-white" viewBox="0 96 960 960" xmlns="http://www.w3.org/2000/svg">
 			<path
 				d="m249 849-42-42 231-231-231-231 42-42 231 231 231-231 42 42-231 231 231 231-42 42-231-231-231 231Z"
