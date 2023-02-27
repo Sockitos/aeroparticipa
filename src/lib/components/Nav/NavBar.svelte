@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import { base } from '$app/paths';
 	import NavBarDropdown from './NavBarDropdown.svelte';
 	import NavBarDropdownItem from './NavBarDropdownItem.svelte';
