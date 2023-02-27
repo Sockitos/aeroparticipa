@@ -6,15 +6,14 @@
 <PageHeader>Participação<br />Pública</PageHeader>
 <PageContainer>
 	<p>
-		Visando um processo de decisão transparente democratico e informativo procuramos que, desde o
-		início e até ao término dos trabalhos, haja participação pública, começando por abrir espaços de
-		diálogo e com interlocutores relevantes.
+		A CTI pretende assegurar um processo participado, transparente, democrático e informativo até ao
+		final do ano. Por isso começámos logo em Janeiro com espaços de diálogo com os interlocutores
+		relevantes para auscultar perspetivas e prioridades. Também estamos a realizar reuniões de
+		reflexão - mesas temáticas - que são também espaços de diálogo.
 	</p>
 	<p>
-		Utilizaremos a presente plataforma digital como meio de comunicação, procurando o seu contributo
-		por via do separador PARTICIPE!. Será ainda, em período próprio, dinamizado um site interativo
-		com as diferentes opções estratégicas e as suas características, conseguindo assim o utilizador
-		identificar quais as opções viáveis e que cumprem os critérios de viabilidade técnico-científica
-		anteriormente identificados.
+		A presente plataforma digital é o meio de comunicação da CTI com o público mais alargado.
+		Acompanhe as novidades por aqui e contribuir a sua opinião, respondendo às questões que vamos
+		colocando no separador PARTICIPE!.
 	</p>
 </PageContainer>

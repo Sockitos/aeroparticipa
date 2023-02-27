@@ -3,7 +3,7 @@
 	import PageHeader from '@/components/PageHeader.svelte';
 </script>
 
-<PageHeader>O que é<br />segurança?</PageHeader>
+<PageHeader>O que é a Segurança<br />na Aviação Comercial?</PageHeader>
 <PageContainer>
 	<p>
 		O transporte aéreo desempenha um papel importante na atividade económica e no desenvolvimento

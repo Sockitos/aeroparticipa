@@ -27,15 +27,16 @@
 		</svg>
 	</button>
 	<ul class="flex flex-col space-y-4 px-20 pt-4 text-white text-2xl">
-		<NavDrawerItem href="{base}/participe" label="Participe!" />
+		<NavDrawerItem href="https://aeroparticipa.eu.consider.it/" label="Participe!" />
 		<NavDrawerGroup label="Estratégia de Participação">
-			<NavDrawerItem href="{base}/mesas-tematicas" label="Mesas temáticas" />
-			<NavDrawerItem href="{base}/participacao-publica" label="Participação pública" />
+			<NavDrawerItem href="{base}/participacao-publica" label="Participação Pública" />
+			<NavDrawerItem href="{base}/processo-de-participacao" label="Processo de Participação" />
+			<NavDrawerItem href="{base}/mesas-tematicas" label="Mesas Temáticas" />
 		</NavDrawerGroup>
 		<NavDrawerGroup label="O que é...">
+			<NavDrawerItem href="{base}/o-que-e-aae" label="AAE" />
 			<NavDrawerItem href="{base}/o-que-e-aeroporto" label="Aeroporto" />
 			<NavDrawerItem href="{base}/o-que-e-hub" label="HUB" />
-			<NavDrawerItem href="{base}/o-que-e-aae" label="AAE" />
 			<NavDrawerItem href="{base}/o-que-e-seguranca" label="Segurança" />
 		</NavDrawerGroup>
 		<NavDrawerItem href="{base}/sobre-a-cti" label="Sobre a CTI" />

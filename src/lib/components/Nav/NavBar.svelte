@@ -14,16 +14,20 @@
 				<NavDrawerButton />
 			</div>
 			<div class="w-full hidden md:block md:w-auto">
-				<ul class="flex space-x-4 text-white text-lg">
-					<NavBarItem href="{base}/participe" label="Participe!" />
+				<ul class="flex space-x-4 text-white text-lg whitespace-nowrap">
+					<NavBarItem href="https://aeroparticipa.eu.consider.it/" label="Participe!" />
 					<NavBarDropdown label="Estratégia de Participação">
-						<NavBarDropdownItem href="{base}/mesas-tematicas" label="Mesas temáticas" />
-						<NavBarDropdownItem href="{base}/participacao-publica" label="Participação pública" />
+						<NavBarDropdownItem href="{base}/participacao-publica" label="Participação Pública" />
+						<NavBarDropdownItem
+							href="{base}/processo-de-participacao"
+							label="Processo de Participação"
+						/>
+						<NavBarDropdownItem href="{base}/mesas-tematicas" label="Mesas Temáticas" />
 					</NavBarDropdown>
 					<NavBarDropdown label="O que é...">
+						<NavBarDropdownItem href="{base}/o-que-e-aae" label="AAE" />
 						<NavBarDropdownItem href="{base}/o-que-e-aeroporto" label="Aeroporto" />
 						<NavBarDropdownItem href="{base}/o-que-e-hub" label="HUB" />
-						<NavBarDropdownItem href="{base}/o-que-e-aae" label="AAE" />
 						<NavBarDropdownItem href="{base}/o-que-e-seguranca" label="Segurança" />
 					</NavBarDropdown>
 					<NavBarItem href="{base}/sobre-a-cti" label="Sobre a CTI" />

@@ -27,17 +27,17 @@
 	</p>
 	<p>
 		No caso da avaliação das opções estratégicas para aumento da capacidade aeroportuária da região
-		de Lisboa, a AAE vai considerar dimensões estratégicas que deverão influenciar essa decisão.
-		Estas dimensões estratégicas incluem a importância do novo aeroporto para o desenvolvimento
-		nacional, a articulação de um novo aeroporto no sistema e rede de transportes, designadamente
-		com a ferrovia, os riscos naturais e tecnológicos que podem condicionar a localização de um
-		aeroporto e a reflexão sobre que modelo de aeroporto se pretende para a região de Lisboa (ver
-		figura 1).
+		de Lisboa, a AAE tem vindo a discutir em mesas temáticas dimensões que são estratégicas para a
+		decisão. Estas dimensões estratégicas incluem a importância do novo aeroporto para o
+		desenvolvimento nacional, a articulação de um novo aeroporto no sistema e rede de transportes,
+		designadamente com a ferrovia, os riscos naturais e tecnológicos que podem condicionar a
+		localização de um aeroporto e a reflexão sobre que modelo de aeroporto se pretende para a região
+		de Lisboa (ver figura 1).
 	</p>
 	<div class="py-8">
 		<img
 			src="{base}/images/dimensoes_estrategicas.png"
-			alt="Dimensões estratégicas que informam a AAE"
+			alt="Dimensões estratégicas para esta AAE discutidas nas mesas temáticas"
 			class="w-full p-4 bg-grey"
 		/>
 		<p class="text-center pt-4">Figura 1 - Dimensões estratégicas que informam a AAE</p>

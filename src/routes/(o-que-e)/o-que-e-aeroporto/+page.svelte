@@ -4,7 +4,7 @@
 	import PageHeader from '@/components/PageHeader.svelte';
 </script>
 
-<PageHeader>O que é<br />um aeroporto?</PageHeader>
+<PageHeader>O que é<br />um Aeroporto?</PageHeader>
 <PageContainer>
 	<p>
 		De um ponto de técnico, um aeroporto é um aeródromo. Um aeródromo é um local que oferece as
@@ -21,9 +21,10 @@
 	</p>
 	<ul class="marker:text-blue-accent list-disc list-inside pl-5">
 		<li>
-			<span class="text-blue-accent font-bold">Check-in –</span> é onde os passageiros entregam a bagagem
-			e obtêm os cartões de embarque antes de embarcar no avião. O check-in está tipicamente numa zona
-			de livre acesso a todos, incluindo pessoas que não vão viajar, os acompanhantes dos viajantes.
+			<span class="text-blue-accent font-bold"><i>Check-in</i> –</span> é onde os passageiros
+			entregam a bagagem e obtêm os cartões de embarque antes de embarcar no avião. O
+			<i>check-in</i> está tipicamente numa zona de livre acesso a todos, incluindo pessoas que não vão
+			viajar, os acompanhantes dos viajantes.
 		</li>
 		<li>
 			<span class="text-blue-accent font-bold">Segurança –</span> é o local por onde os passageiros,
@@ -39,11 +40,11 @@
 		</li>
 		<li>
 			<span class="text-blue-accent font-bold">Embarque –</span> consiste na entrada dos passageiros
-			no avião. Tipicamente existe uma sala de espera, na qual os passageiros aguardam enquanto são chamados
-			para entrar no avião. Antes de entrar, os passageiros passam por um último momento de verificação,
-			tendo de apresentar o cartão de embarque e o documento de identificação. A entrada no avião é muitas
-			vezes feita através de uma estrutura metálica que liga o avião ao edifício (terminal). Esta estrutura
-			chama-se ponte, ou finger.
+			no avião. Tipicamente existe uma sala de espera, na qual os passageiros aguardam enquanto são
+			chamados para entrar no avião. Antes de entrar, os passageiros passam por um último momento de
+			verificação, tendo de apresentar o cartão de embarque e o documento de identificação. A
+			entrada no avião é muitas vezes feita através de uma estrutura metálica que liga o avião ao
+			edifício (terminal). Esta estrutura chama-se ponte, ou <i>finger</i>.
 		</li>
 		<li>
 			<span class="text-blue-accent font-bold">Desembarque –</span> consiste na saída dos passageiros
@@ -175,37 +176,37 @@
 	<p>
 		Cada categoria tem as suas vantagens e desvantagens. Resumidamente: a rede Ponto a Ponto oferece
 		voos com maior comodidade e tempos de viagem mais curtos pois não há a necessidade de realizar
-		transbordo no aeroporto hub. A rede ponto a ponto é mais fácil de gerir do ponto de vista
+		transbordo no aeroporto <i>hub</i>. A rede ponto a ponto é mais fácil de gerir do ponto de vista
 		operacional. Por exemplo, o tratamento da bagagem é simplificado pois não é preciso movimentar
-		as malas entre aviões no aeroporto hub. Mas, neste tipo de rede as rotas com poucos passageiros
-		são geradores de prejuízos.
+		as malas entre aviões no aeroporto <i>hub</i>. Mas, neste tipo de rede as rotas com poucos
+		passageiros são geradores de prejuízos.
 	</p>
 	<p>
-		A rede Hub and Spoke requer menos aviões do que a rede Ponto a Ponto. Portanto, com o mesmo
-		número de aviões, numa rede hub and spoke, é possível voar para mais destinos ou aumentar o
-		número de voos. Uma outra vantagem da rede hub and spoke é conseguir aumentar o número de
-		passageiros por rota. Desta forma voos que não são rentáveis numa rede Ponto a Ponto passam a
-		sê-lo numa rede Hub and Spoke.
+		A rede <i>Hub and Spoke</i> requer menos aviões do que a rede Ponto a Ponto. Portanto, com o
+		mesmo número de aviões, numa rede <i>Hub and Spoke</i>, é possível voar para mais destinos ou
+		aumentar o número de voos. Uma outra vantagem da rede <i>Hub and Spoke</i> é conseguir aumentar
+		o número de passageiros por rota. Desta forma voos que não são rentáveis numa rede Ponto a Ponto
+		passam a sê-lo numa rede <i>Hub and Spoke</i>.
 	</p>
 	<p>
 		Exemplificamos com o apoio da figura 1. Se houver poucos passageiros entre os aeroportos E, F, G
 		ou H e o aeroporto A, então não haverá justificação económica para a existência dos voos. Pelo
-		contrário, a rede Hub and Spoke concentra os passageiros no aeroporto hub. Ao juntar os poucos
-		passageiros dos aeroportos E, F, G e H no aeroporto hub, será possível atingir a quantidade
-		mínima de passageiros para garantir a rentabilidade do voo.
+		contrário, a rede <i>Hub and Spoke</i> concentra os passageiros no aeroporto <i>hub</i>. Ao
+		juntar os poucos passageiros dos aeroportos E, F, G e H no aeroporto <i>hub</i>, será possível
+		atingir a quantidade mínima de passageiros para garantir a rentabilidade do voo.
 	</p>
 	<p>
-		A rede Hub and Spoke tem assim a grande vantagem de concentrar passageiros fazendo com que os
-		voos sejam mais rentáveis.
+		A rede <i>Hub and Spoke</i> tem assim a grande vantagem de concentrar passageiros fazendo com que
+		os voos sejam mais rentáveis.
 	</p>
 	<p>
 		Aliás, esta é a razão pela qual as companhias de voos intercontinentais utilizam este tipo de
 		rede. Os aviões de longo curso são maiores e exigem uma grande quantidade de passageiros para
 		serem rentáveis. A forma encontrada foi a de concentrar todos os passageiros num único voo que
-		sai do aeroporto hub. Por exemplo, a TAP concentra no aeroporto em Lisboa todos os passageiros
-		de Portugal e da Europa que queiram viajar para o Brasil. A alternativa, que seria ter voos
-		diretos de cada um dos aeroportos para o Brasil, poderia não reunir suficientes passageiros para
-		rentabilizar a ligação.
+		sai do aeroporto <i>hub</i>. Por exemplo, a TAP concentra no aeroporto em Lisboa todos os
+		passageiros de Portugal e da Europa que queiram viajar para o Brasil. A alternativa, que seria
+		ter voos diretos de cada um dos aeroportos para o Brasil, poderia não reunir suficientes
+		passageiros para rentabilizar a ligação.
 	</p>
-	<p>Recomendação: leia de seguida “O que é um Hub aeroportuário ?”</p>
+	<p>Recomendação: leia de seguida “O que é um Hub Aeroportuário?”</p>
 </PageContainer>

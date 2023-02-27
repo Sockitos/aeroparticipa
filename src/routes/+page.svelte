@@ -19,56 +19,40 @@
 <div class="bg-plane bg-cover bg-center bg-blue bg-blend-multiply">
 	<div class="container py-10 md:py-16">
 		<img src="{base}/svgs/opiniao.svg" alt="Queremos a sua opinião" class="max-w-xl pb-10" />
-		<p class="max-w-3xl text-white text-xl">
-			Os estudos técnico-científicos dão-nos factos e evidências, mas a percepção sobre os
-			problemas, as preferências, as prioridades exprimem-se frequentemente pela opinião dos
-			interessados. E são igualmente importantes quando se trata de decisões estratégicas. Este
-			espaço de diálogo é para falarmos consigo! Contribua! Responda às perguntas para nos ajudar a
-			identificar as principais preocupações e prioridades.
-		</p>
+		<div class="max-w-3xl text-white text-xl space-y-5">
+			<p>
+				Os estudos técnico-científicos dão-nos factos e evidências, mas a percepção sobre os
+				problemas, as preferências, as prioridades exprimem-se frequentemente pela opinião dos
+				interessados. E são igualmente importantes quando se trata de decisões estratégicas.
+			</p>
+			<p>
+				Este espaço de diálogo é para falarmos consigo! Contribua! Responda às perguntas para nos
+				ajudar a identificar as principais preocupações e prioridades.
+			</p>
+		</div>
+
 		<div class="pt-10 pb-8 flex justify-start">
-			<ArrowLink label="Quero participar" href="{base}/participe" isLight />
+			<ArrowLink label="Quero participar" href="https://aeroparticipa.eu.consider.it/" isLight />
 		</div>
 	</div>
 </div>
-<div class="bg-background">
-	<div class="container py-12 lg:py-20">
-		<div class="bg-grey p-8 md:p-16 lg:p-20 flex flex-col">
-			<img
-				src="{base}/svgs/participacao.svg"
-				alt="Processo de Participação"
-				class="max-w-2xl pb-10"
-			/>
-			<div class="max-w-3xl text-black text-xl space-y-2 pb-10">
-				<p>Convidamos à participação neste processo, em três fases com objetivos distintos.</p>
-				<p class="font-bold pt-4">
-					<span class="text-blue-accent">Fase 1 –</span> Contribuir para selecionar as opções estratégicas
-					mais viáveis
-				</p>
-				<p>
-					Os vossos contributos, preocupações e prioridades serão considerados pela Comissão Técnica
-					Independente na construção de critérios de viabilidade técnico-científica, os quais vão
-					identificar as opções estratégicas a avaliar mais aprofundadamente.
-				</p>
-				<p class="font-bold pt-4">
-					<span class="text-blue-accent">Fase 2 –</span> Definir fatores críticos de decisão e respectivo
-					quadro de avaliação estratégico
-				</p>
-				<p>
-					Priorizar os temas que devem ser centrais na decisão, que definem os fatores críticos de
-					decisão e que vão estruturar o quadro de avaliação estratégica
-				</p>
-				<p class="font-bold pt-4">
-					<span class="text-blue-accent">Fase 3 –</span> Avaliação das opções estratégicas
-				</p>
-				<p>
-					Aplicação do quadro de avaliação estratégica para avaliar as opções estratégias em relação
-					às oportunidades e riscos para o ambiente e para a sustentabilidade e estabelecimento de
-					diretrizes. Recomendações para a decisão.
-				</p>
-			</div>
-			<img src="{base}/images/faseamento_aae.png" alt="Fases" class="py-8" />
-			<ArrowLink label="Saber mais" href="{base}/o-que-e-aae" />
+<div class="bg-grey">
+	<div class="container py-10 md:py-16">
+		<img
+			src="{base}/svgs/participacao.svg"
+			alt="Processo de Participação"
+			class="max-w-2xl pb-10"
+		/>
+		<p class="max-w-3xl text-black text-xl">
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+			labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+			laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+			voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+			non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+		</p>
+
+		<div class="pt-10 pb-8 flex justify-start">
+			<ArrowLink label="Saber mais" href="{base}/processo-de-participacao" />
 		</div>
 	</div>
 </div>

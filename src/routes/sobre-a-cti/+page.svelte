@@ -15,7 +15,7 @@
 			imageSrc="{base}/images/cti/MRP.png"
 			title="Coordenação-Geral"
 			name="Professora Maria do Rosário Partidário"
-			description="Professora Catedrática do IST-UL em Planeamento, Urbanismo e Ambiente no Departamento de Engenharia Civil, especialista em avaliação ambiental estratégica (AAE), autora da metodologia de pensamento estratégico para a sustentabilidade - ST4S (Strategic thinking for sustainability), recebeu o Life-Time Achievement Award da International Association for Impact Assessment em 2015 pelos seus contributos internacionais para o desenvolvimento da AAE."
+			description="Professora Catedrática do IST-UL em Planeamento, Urbanismo e Ambiente no Departamento de Engenharia Civil, especialista em avaliação ambiental estratégica (AAE), autora da metodologia de pensamento estratégico para a sustentabilidade - ST4S (<i>Strategic thinking for sustainability</i>), recebeu o <i>Life-Time Achievement Award</i> da <i>International Association for Impact Assessment</i> em 2015 pelos seus contributos internacionais para o desenvolvimento da AAE."
 		/>
 		<TeamMember
 			imageSrc="{base}/images/cti/NMC.png"
