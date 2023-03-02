@@ -15,8 +15,7 @@ const config = {
 		adapter: adapter(),
 		alias: {
 			"@": "src/lib",
-		},
-		paths: { base: "/aeroparticipa" }
+		}
 	}
 };
 
