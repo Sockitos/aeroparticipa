@@ -15,7 +15,7 @@
 			</div>
 			<div class="w-full hidden md:block md:w-auto">
 				<ul class="flex space-x-4 text-white text-lg whitespace-nowrap">
-					<NavBarItem href="https://aeroparticipa.eu.consider.it/" label="Participe!" />
+					<NavBarItem href="https://aeroparticipa.eu.consider.it/" label="PARTICIPE!" />
 					<NavBarDropdown label="Estratégia de Participação">
 						<NavBarDropdownItem href="{base}/participacao-publica" label="Participação Pública" />
 						<NavBarDropdownItem
@@ -30,7 +30,10 @@
 						<NavBarDropdownItem href="{base}/o-que-e-hub" label="HUB" />
 						<NavBarDropdownItem href="{base}/o-que-e-seguranca" label="Segurança" />
 					</NavBarDropdown>
-					<NavBarItem href="{base}/sobre-a-cti" label="Sobre a CTI" />
+					<NavBarDropdown label="Sobre a CTI">
+						<NavBarDropdownItem href="{base}/composicao-da-cti" label="Composição" />
+						<NavBarDropdownItem href="{base}/regulamento-da-cti" label="Regulamento" />
+					</NavBarDropdown>
 				</ul>
 			</div>
 		</div>

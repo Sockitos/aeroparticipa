@@ -5,11 +5,8 @@
 	import TeamMember from '@/components/TeamMember.svelte';
 </script>
 
-<PageHeader>Sobre a CTI</PageHeader>
+<PageHeader>Composição da<br />Comissão Técnica Independente</PageHeader>
 <PageContainer>
-	<h3 class="text-3xl font-bold text-center pt-2 pb-14">
-		Composição da Comissão Técnica Independente (CTI)
-	</h3>
 	<div class="space-y-14">
 		<TeamMember
 			imageSrc="{base}/images/cti/MRP.png"

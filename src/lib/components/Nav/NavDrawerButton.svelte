@@ -35,6 +35,9 @@
 			<NavDrawerItem href="{base}/o-que-e-hub" label="HUB" />
 			<NavDrawerItem href="{base}/o-que-e-seguranca" label="Segurança" />
 		</NavDrawerGroup>
-		<NavDrawerItem href="{base}/sobre-a-cti" label="Sobre a CTI" />
+		<NavDrawerGroup label="Sobre a CTI">
+			<NavDrawerItem href="{base}/composicao-da-cti" label="Composição" />
+			<NavDrawerItem href="{base}/regulamento-da-cti" label="Regulamento" />
+		</NavDrawerGroup>
 	</ul>
 </div>

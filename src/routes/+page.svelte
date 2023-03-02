@@ -21,14 +21,11 @@
 		<img src="{base}/svgs/opiniao.svg" alt="Queremos a sua opinião" class="max-w-xl pb-10" />
 		<div class="max-w-3xl text-white text-xl space-y-5">
 			<p>
-				Os estudos técnico-científicos dão-nos factos e evidências, mas a percepção sobre os
-				problemas, as preferências, as prioridades exprimem-se frequentemente pela opinião dos
-				interessados. E são igualmente importantes quando se trata de decisões estratégicas.
+				Os estudos técnico-científicos dão-nos factos e evidências, mas a percepção dos problemas,
+				as preferências e as prioridades exprimem-se frequentemente pela opinião dos interessados,
+				que são igualmente importantes quando se trata de decisões estratégicas.
 			</p>
-			<p>
-				Este espaço de diálogo é para falarmos consigo! Contribua! Responda às perguntas para nos
-				ajudar a identificar as principais preocupações e prioridades.
-			</p>
+			<p>Este espaço de diálogo é para falarmos consigo! Dê-nos a sua opinião, participe!</p>
 		</div>
 
 		<div class="pt-10 pb-8 flex justify-start">
