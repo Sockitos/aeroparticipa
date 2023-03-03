@@ -49,13 +49,13 @@
 			alt="Processo de Participação"
 			class="max-w-2xl pb-10"
 		/>
-		<p class="max-w-3xl text-black text-xl">
+		<p class="max-w-3xl text-black text-xl pb-8">
 			Convidamos à participação neste processo, ao longo de três fases.
 		</p>
 		<img
-			src="{base}/images/faseamento_aae.png"
-			alt="Faseamento do processo de participaçã"
-			class="w-full max-w-4xl p-4"
+			src="{base}/images/faseamento_aae_min.png"
+			alt="Faseamento do processo de participação"
+			class="w-full max-w-4xl"
 		/>
 		<div class="pt-10 pb-8 flex justify-start">
 			<ArrowLink label="Saber mais" href="{base}/processo-de-participacao" />
