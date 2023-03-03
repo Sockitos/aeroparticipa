@@ -9,8 +9,8 @@
 
 <div class="relative">
 	<div class="absolute w-full h-full flex flex-row ">
-		<div class="bg-background grow" />
-		<img src="{base}/svgs/header_decoration.svg" alt="" class="bg-white h-full p-2" />
+		<div class="bg-grey grow" />
+		<img src="{base}/svgs/header_decoration.svg" alt="" class="h-full p-2" />
 	</div>
 	<div class="relative container py-10 md:py-16 pr-24 md:pr-32">
 		<img
