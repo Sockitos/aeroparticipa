@@ -4,6 +4,10 @@
 	import PageHeader from '@/components/PageHeader.svelte';
 </script>
 
+<svelte:head>
+	<title>AeroParticipa - O que é um Aeroporto?</title>
+</svelte:head>
+
 <PageHeader>O que é<br />um Aeroporto?</PageHeader>
 <PageContainer>
 	<p>

@@ -3,6 +3,10 @@
 	import PageHeader from '@/components/PageHeader.svelte';
 </script>
 
+<svelte:head>
+	<title>AeroParticipa - O que é a Segurança na Aviação Comercial</title>
+</svelte:head>
+
 <PageHeader>O que é a Segurança<br />na Aviação Comercial?</PageHeader>
 <PageContainer>
 	<p>

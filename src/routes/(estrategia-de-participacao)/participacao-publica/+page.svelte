@@ -4,6 +4,10 @@
 	import PageHeader from '@/components/PageHeader.svelte';
 </script>
 
+<svelte:head>
+	<title>AeroParticipa - Participação Pública</title>
+</svelte:head>
+
 <PageHeader>Participação<br />Pública</PageHeader>
 <PageContainer>
 	<p>

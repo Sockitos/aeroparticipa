@@ -3,6 +3,10 @@
 	import ArrowLink from '@/components/ArrowLink.svelte';
 </script>
 
+<svelte:head>
+	<title>AeroParticipa</title>
+</svelte:head>
+
 <div class="relative">
 	<div class="absolute w-full h-full flex flex-row ">
 		<div class="bg-background grow" />

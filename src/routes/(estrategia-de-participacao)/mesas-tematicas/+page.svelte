@@ -3,6 +3,10 @@
 	import PageHeader from '@/components/PageHeader.svelte';
 </script>
 
+<svelte:head>
+	<title>AeroParticipa - Mesas Temáticas</title>
+</svelte:head>
+
 <PageHeader>Mesas<br />Temáticas</PageHeader>
 <PageContainer>
 	<p>

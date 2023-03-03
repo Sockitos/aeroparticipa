@@ -5,6 +5,10 @@
 	import TeamMember from '@/components/TeamMember.svelte';
 </script>
 
+<svelte:head>
+	<title>AeroParticipa - Composição da Comissão Técnica Independente</title>
+</svelte:head>
+
 <PageHeader>Composição da<br />Comissão Técnica Independente</PageHeader>
 <PageContainer>
 	<div class="space-y-14">

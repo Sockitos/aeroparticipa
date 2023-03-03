@@ -4,6 +4,10 @@
 	import PageHeader from '@/components/PageHeader.svelte';
 </script>
 
+<svelte:head>
+	<title>AeroParticipa - O que é a Avaliação Ambiental Estratégica?</title>
+</svelte:head>
+
 <PageHeader>O que é a<br />Avaliação Ambiental Estratégica?</PageHeader>
 <PageContainer>
 	<p>

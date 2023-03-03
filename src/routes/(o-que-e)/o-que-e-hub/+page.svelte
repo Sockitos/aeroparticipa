@@ -4,6 +4,10 @@
 	import PageHeader from '@/components/PageHeader.svelte';
 </script>
 
+<svelte:head>
+	<title>AeroParticipa - O que é um hub Aeroportuário?</title>
+</svelte:head>
+
 <PageHeader>O que é<br />um <i>hub</i> Aeroportuário?</PageHeader>
 <PageContainer>
 	<p>

@@ -4,6 +4,10 @@
 	import PageHeader from '@/components/PageHeader.svelte';
 </script>
 
+<svelte:head>
+	<title>AeroParticipa - Processo de Participação</title>
+</svelte:head>
+
 <PageHeader>Processo de<br />Participação</PageHeader>
 <PageContainer>
 	<p>Convidamos à participação neste processo, ao longo de três fases, com objetivos distintos.</p>
