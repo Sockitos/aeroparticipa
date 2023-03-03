@@ -49,7 +49,7 @@
 		A Avaliação Ambiental Estratégica (AAE) tem como objetivo explorar, entender e avaliar as opções
 		estratégicas para o aumento da capacidade aeroportuária da região de Lisboa.
 	</p>
-	<p>Este processo de AAE estrutura-se em três fases (figura 1):</p>
+	<p>Este processo de AAE estrutura-se em três fases (figura 2):</p>
 	<ul class="marker:text-blue-accent list-disc list-inside pl-5">
 		<li>
 			<span class="text-blue-accent font-bold">Fase 1 –</span> Reconhecimento e triagem: destina-se a
@@ -68,6 +68,14 @@
 			definido na fase 2.
 		</li>
 	</ul>
+	<div class="py-8">
+		<img
+			src="{base}/images/faseamento_aae_alt.png"
+			alt="Faseamento da AAE"
+			class="w-full p-4 bg-grey"
+		/>
+		<p class="text-center pt-4">Figura 2 - Faseamento da AAE</p>
+	</div>
 	<p>
 		No final das fases 2 e 3 serão cumpridos os procedimentos legais constantes do decreto-lei nº
 		232/2007 com a preparação de relatórios que serão objeto de consulta pública e institucional. No

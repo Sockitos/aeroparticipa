@@ -54,8 +54,12 @@
 		várias ondas de transferência de tráfego ao longo do dia. A figura 2 pretende mostrar esse efeito.
 	</p>
 	<div class="py-8">
-		<img src="{base}/images/hub_2.png" alt="" class="w-full p-4 bg-grey" />
-		<p class="text-center pt-4">Figura 2 -</p>
+		<img
+			src="{base}/images/hub_2.png"
+			alt="Pontos de concentração de tráfego num hub"
+			class="w-full p-4 bg-grey"
+		/>
+		<p class="text-center pt-4">Figura 2 - Pontos de concentração de tráfego num <i>hub</i></p>
 	</div>
 	<p>
 		Durante essas ondas do <i>hub</i> a pressão sobre os serviços é muito elevada. O aeroporto tem

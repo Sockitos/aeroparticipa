@@ -32,7 +32,7 @@
 					</NavBarDropdown>
 					<NavBarDropdown label="Sobre a CTI">
 						<NavBarDropdownItem href="{base}/composicao-da-cti" label="Composição" />
-						<NavBarDropdownItem href="{base}/regulamento-da-cti" label="Regulamento" />
+						<NavBarDropdownItem href="{base}/regimento-da-cti" label="Regimento" />
 					</NavBarDropdown>
 				</ul>
 			</div>
