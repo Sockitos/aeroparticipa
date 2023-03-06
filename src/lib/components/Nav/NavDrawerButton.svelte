@@ -23,7 +23,7 @@
 		</svg>
 	</button>
 	<ul class="flex flex-col space-y-4 px-20 pt-4 text-white text-2xl">
-		<NavDrawerItem href="https://aeroparticipa.eu.consider.it/" label="PARTICIPE!" />
+		<NavDrawerItem href="https://participe.aeroparticipa.pt/" label="PARTICIPE!" />
 		<NavDrawerGroup label="Estratégia de Participação">
 			<NavDrawerItem href="{base}/participacao-publica" label="Participação Pública" />
 			<NavDrawerItem href="{base}/processo-de-participacao" label="Processo de Participação" />

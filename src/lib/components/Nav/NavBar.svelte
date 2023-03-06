@@ -15,7 +15,7 @@
 			</div>
 			<div class="w-full hidden md:block md:w-auto">
 				<ul class="flex space-x-4 text-white text-lg whitespace-nowrap">
-					<NavBarItem href="https://aeroparticipa.eu.consider.it/" label="PARTICIPE!" />
+					<NavBarItem href="https://participe.aeroparticipa.pt/" label="PARTICIPE!" />
 					<NavBarDropdown label="Estratégia de Participação">
 						<NavBarDropdownItem href="{base}/participacao-publica" label="Participação Pública" />
 						<NavBarDropdownItem
