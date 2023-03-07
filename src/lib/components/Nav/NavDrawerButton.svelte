@@ -25,19 +25,19 @@
 	<ul class="flex flex-col space-y-4 px-20 pt-4 text-white text-2xl">
 		<NavDrawerItem href="https://participe.aeroparticipa.pt/" label="PARTICIPE!" />
 		<NavDrawerGroup label="Estratégia de Participação">
-			<NavDrawerItem href="{base}/participacao-publica" label="Participação Pública" />
-			<NavDrawerItem href="{base}/processo-de-participacao" label="Processo de Participação" />
-			<NavDrawerItem href="{base}/mesas-tematicas" label="Mesas Temáticas" />
+			<NavDrawerItem href="{base}/participacao-publica/" label="Participação Pública" />
+			<NavDrawerItem href="{base}/processo-de-participacao/" label="Processo de Participação" />
+			<NavDrawerItem href="{base}/mesas-tematicas/" label="Mesas Temáticas" />
 		</NavDrawerGroup>
 		<NavDrawerGroup label="O que é...">
-			<NavDrawerItem href="{base}/o-que-e-aae" label="AAE" />
-			<NavDrawerItem href="{base}/o-que-e-aeroporto" label="Aeroporto" />
-			<NavDrawerItem href="{base}/o-que-e-hub" label="HUB" />
-			<NavDrawerItem href="{base}/o-que-e-seguranca" label="Segurança" />
+			<NavDrawerItem href="{base}/o-que-e-aae/" label="AAE" />
+			<NavDrawerItem href="{base}/o-que-e-aeroporto/" label="Aeroporto" />
+			<NavDrawerItem href="{base}/o-que-e-hub/" label="HUB" />
+			<NavDrawerItem href="{base}/o-que-e-seguranca/" label="Segurança" />
 		</NavDrawerGroup>
 		<NavDrawerGroup label="Sobre a CTI">
-			<NavDrawerItem href="{base}/composicao-da-cti" label="Composição" />
-			<NavDrawerItem href="{base}/regimento-da-cti" label="Regimento" />
+			<NavDrawerItem href="{base}/composicao-da-cti/" label="Composição" />
+			<NavDrawerItem href="{base}/regimento-da-cti/" label="Regimento" />
 		</NavDrawerGroup>
 	</ul>
 </div>
