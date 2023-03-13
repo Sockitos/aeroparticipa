@@ -12,9 +12,9 @@
 		<div class="bg-grey grow" />
 		<img
 			src="{base}/svgs/header_decoration.svg"
+			alt=""
 			height="649.89"
 			width="190.06"
-			alt=""
 			class="h-full w-auto p-2"
 		/>
 	</div>
@@ -22,18 +22,28 @@
 		<img
 			src="{base}/svgs/espaco_de_dialogo.svg"
 			alt="Espaço de diálogo sobre o novo aeroporto de Lisboa"
+			height="392.93"
+			width="1538.89"
 			class="pb-4 max-w-4xl hidden md:block"
 		/>
 		<img
 			src="{base}/svgs/espaco_de_dialogo_alt.svg"
 			alt="Espaço de diálogo sobre o novo aeroporto de Lisboa"
+			height="511.93"
+			width="1172.16"
 			class="pb-4 max-w-4xl md:hidden"
 		/>
 	</div>
 </div>
 <div class="bg-plane bg-cover bg-center bg-blue bg-blend-multiply">
 	<div class="container py-10 md:py-16">
-		<img src="{base}/svgs/opiniao.svg" alt="Queremos a sua opinião" class="max-w-xl pb-10" />
+		<img
+			src="{base}/svgs/opiniao.svg"
+			alt="Queremos a sua opinião"
+			height="148.33"
+			width="765.08"
+			class="max-w-xl pb-10"
+		/>
 		<div class="max-w-3xl text-white text-xl space-y-5">
 			<p>
 				Os estudos técnico-científicos dão-nos factos e evidências, mas a percepção dos problemas,
@@ -53,6 +63,8 @@
 		<img
 			src="{base}/svgs/participacao.svg"
 			alt="Processo de Participação"
+			height="78.01"
+			width="697.5"
 			class="max-w-2xl pb-10"
 		/>
 		<p class="max-w-3xl text-black text-xl pb-8">
