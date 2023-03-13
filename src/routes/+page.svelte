@@ -10,7 +10,13 @@
 <div class="relative">
 	<div class="absolute w-full h-full flex flex-row ">
 		<div class="bg-grey grow" />
-		<img src="{base}/svgs/header_decoration.svg" alt="" class="h-full p-2" />
+		<img
+			src="{base}/svgs/header_decoration.svg"
+			height="649.89"
+			width="190.06"
+			alt=""
+			class="h-full w-auto p-2"
+		/>
 	</div>
 	<div class="relative container py-10 md:py-16 pr-24 md:pr-32">
 		<img
