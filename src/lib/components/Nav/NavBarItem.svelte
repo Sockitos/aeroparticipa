@@ -4,6 +4,6 @@
 	export let label: string = '';
 </script>
 
-<li class:underline={$page.url.pathname === href} class="underline-offset-8">
-	<a {href}>{label}</a>
+<li class:underlinex={$page.url.pathname === href}>
+	<a {href} class="hover:text-blue-light">{label}</a>
 </li>
