@@ -9,8 +9,20 @@
 			<div
 				class="flex flex-col space-y-10 md:flex-row items-center md:justify-between md:space-x-10"
 			>
-				<img src="{base}/svgs/logo_alt.svg" alt="AeroParticipa" class="h-24" />
-				<img src="{base}/svgs/cti_logo.svg" alt="CTI" class="h-14" />
+				<img
+					src="{base}/svgs/logo_alt.svg"
+					alt="AeroParticipa"
+					height="126.67"
+					width="384.04"
+					class="h-24 w-auto"
+				/>
+				<img
+					src="{base}/svgs/cti_logo.svg"
+					alt="CTI"
+					height="61.15"
+					width="228.06"
+					class="h-14 w-auto"
+				/>
 			</div>
 			<div
 				class="flex flex-col space-y-4 items-center md:flex-row md:items-end md:justify-between md:space-x-10"

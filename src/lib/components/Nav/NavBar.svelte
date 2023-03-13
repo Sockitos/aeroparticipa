@@ -9,7 +9,15 @@
 <nav>
 	<div class="bg-blue-dark">
 		<div class="container py-2 flex items-center justify-between">
-			<a href="{base}/"><img src="{base}/svgs/logo.svg" alt="AeroParticipa" class="h-12 pb-1" /></a>
+			<a href="{base}/"
+				><img
+					src="{base}/svgs/logo.svg"
+					alt="AeroParticipa"
+					height="78.08"
+					width="314.94"
+					class="h-12 w-auto mb-1"
+				/></a
+			>
 			<div class="md:hidden h-8">
 				<NavDrawerButton />
 			</div>

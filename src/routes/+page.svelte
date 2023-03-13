@@ -55,7 +55,9 @@
 		<img
 			src="{base}/images/faseamento_aae_min.png"
 			alt="Faseamento do processo de participação"
-			class="w-full max-w-4xl"
+			height="773"
+			width="2002"
+			class="w-full h-auto max-w-4xl"
 		/>
 		<div class="pt-10 pb-8 flex justify-start">
 			<ArrowLink label="Saber mais" href="{base}/processo-de-participacao" />

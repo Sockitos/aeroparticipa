@@ -1,5 +1,6 @@
 <script>
 	import { base } from '$app/paths';
+	import FramedImage from '@/components/FramedImage.svelte';
 	import PageContainer from '@/components/PageContainer.svelte';
 	import PageHeader from '@/components/PageHeader.svelte';
 </script>
@@ -19,12 +20,14 @@
 		num determinado período de tempo.
 	</p>
 	<div class="py-8">
-		<img
+		<FramedImage
 			src="{base}/images/hub_1.png"
 			alt="Esquema representativo de um hub"
-			class="w-full p-4 bg-grey"
+			height="1141"
+			width="1652"
+			index="1"
+			caption="Esquema representativo de um <i>hub</i>"
 		/>
-		<p class="text-center pt-4">Figura 1 - Esquema representativo de um <i>hub</i></p>
 	</div>
 	<h3 class="text-2xl font-bold pt-6">
 		Como se define a estrutura funcional de um <i>hub</i> aeroportuário?
@@ -58,12 +61,14 @@
 		várias ondas de transferência de tráfego ao longo do dia. A figura 2 pretende mostrar esse efeito.
 	</p>
 	<div class="py-8">
-		<img
-			src="{base}/images/hub_2.png"
+		<FramedImage
+			src="{base}/images/hub_1.png"
 			alt="Pontos de concentração de tráfego num hub"
-			class="w-full p-4 bg-grey"
+			height="1381"
+			width="2080"
+			index="2"
+			caption="Pontos de concentração de tráfego num <i>hub</i>"
 		/>
-		<p class="text-center pt-4">Figura 2 - Pontos de concentração de tráfego num <i>hub</i></p>
 	</div>
 	<p>
 		Durante essas ondas do <i>hub</i> a pressão sobre os serviços é muito elevada. O aeroporto tem

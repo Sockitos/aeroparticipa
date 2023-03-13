@@ -1,5 +1,6 @@
 <script>
 	import { base } from '$app/paths';
+	import FramedImage from '@/components/FramedImage.svelte';
 	import PageContainer from '@/components/PageContainer.svelte';
 	import PageHeader from '@/components/PageHeader.svelte';
 </script>
@@ -174,8 +175,14 @@
 		</li>
 	</ul>
 	<div class="py-8">
-		<img src="{base}/images/redes_aereas.png" alt="Redes Aéreas" class="w-full p-4 bg-grey" />
-		<p class="text-center pt-4">Figura 1 - Tipos de redes exploradas pelas companhias aéreas</p>
+		<FramedImage
+			src="{base}/images/redes_aereas.png"
+			alt="Tipos de redes exploradas pelas companhias aéreas"
+			height="1183"
+			width="1946"
+			index="1"
+			caption="Tipos de redes exploradas pelas companhias aéreas"
+		/>
 	</div>
 	<p>
 		Cada categoria tem as suas vantagens e desvantagens. Resumidamente: a rede Ponto a Ponto oferece

@@ -1,5 +1,6 @@
 <script>
 	import { base } from '$app/paths';
+	import FramedImage from '@/components/FramedImage.svelte';
 	import PageContainer from '@/components/PageContainer.svelte';
 	import PageHeader from '@/components/PageHeader.svelte';
 </script>
@@ -37,11 +38,13 @@
 		poderá vir a colaborar nesta fase mais avançada da avaliação.
 	</p>
 	<div class="py-8">
-		<img
+		<FramedImage
 			src="{base}/images/faseamento_aae.png"
-			alt="Faseamento do processo de participaçã"
-			class="w-full p-4 bg-grey"
+			alt="Faseamento do processo de participação"
+			height="1129"
+			width="2002"
+			index="1"
+			caption="Faseamento do processo de participação"
 		/>
-		<p class="text-center pt-4">Figura 1 - Faseamento do processo de participação</p>
 	</div>
 </PageContainer>

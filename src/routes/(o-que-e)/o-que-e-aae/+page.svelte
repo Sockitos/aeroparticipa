@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { base } from '$app/paths';
+	import FramedImage from '@/components/FramedImage.svelte';
 	import PageContainer from '@/components/PageContainer.svelte';
 	import PageHeader from '@/components/PageHeader.svelte';
 </script>
@@ -39,14 +40,14 @@
 		para a região de Lisboa (ver figura 1).
 	</p>
 	<div class="py-8">
-		<img
+		<FramedImage
 			src="{base}/images/dimensoes_estrategicas.png"
 			alt="Dimensões estratégicas para esta AAE discutidas nas mesas temáticas"
-			class="w-full p-4 bg-grey"
+			height="1051"
+			width="1764"
+			index="1"
+			caption="Dimensões estratégicas para esta AAE discutidas nas mesas temáticas"
 		/>
-		<p class="text-center pt-4">
-			Figura 1 - Dimensões estratégicas nesta AAE discutidas nas mesas temáticas
-		</p>
 	</div>
 	<h3 class="text-2xl font-bold pt-6">Processo e metodologia de AAE</h3>
 	<p>
@@ -73,12 +74,14 @@
 		</li>
 	</ul>
 	<div class="py-8">
-		<img
+		<FramedImage
 			src="{base}/images/faseamento_aae_alt.png"
 			alt="Faseamento da AAE"
-			class="w-full p-4 bg-grey"
+			height="1120"
+			width="2002"
+			index="2"
+			caption="Faseamento da AAE"
 		/>
-		<p class="text-center pt-4">Figura 2 - Faseamento da AAE</p>
 	</div>
 	<p>
 		No final das fases 2 e 3 serão cumpridos os procedimentos legais constantes do decreto-lei nº
