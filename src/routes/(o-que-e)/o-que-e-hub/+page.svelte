@@ -62,7 +62,7 @@
 	</p>
 	<div class="py-8">
 		<FramedImage
-			src="{base}/images/hub_1.png"
+			src="{base}/images/hub_2.png"
 			alt="Pontos de concentração de tráfego num hub"
 			height="1381"
 			width="2080"
