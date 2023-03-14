@@ -12,7 +12,9 @@
 			: 'fill-blue-accent hover:fill-blue-light text-blue-accent hover:text-blue-light'}"
 	>
 		<span
-			class="underline {isSmall ? 'text-lg underline-offset-4' : 'text-2xl underline-offset-8'}"
+			class="underline {isSmall
+				? 'text-lg font-bold underline-offset-4'
+				: 'text-2xl font-bold underline-offset-8'}"
 		>
 			{label}
 		</span>
