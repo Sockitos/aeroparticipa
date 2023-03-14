@@ -24,14 +24,14 @@
 			alt="Espaço de diálogo sobre o novo aeroporto de Lisboa"
 			height="392.93"
 			width="1538.89"
-			class="pb-4 max-w-4xl hidden md:block"
+			class="pb-4 max-w-4xl w-full h-auto hidden md:block"
 		/>
 		<img
 			src="{base}/svgs/espaco_de_dialogo_alt.svg"
 			alt="Espaço de diálogo sobre o novo aeroporto de Lisboa"
 			height="511.93"
 			width="1172.16"
-			class="pb-4 max-w-4xl md:hidden"
+			class="pb-4 max-w-4xl w-full h-auto md:hidden"
 		/>
 	</div>
 </div>
@@ -42,7 +42,7 @@
 			alt="Queremos a sua opinião"
 			height="148.33"
 			width="765.08"
-			class="max-w-xl pb-10"
+			class="max-w-xl w-full h-auto pb-10"
 		/>
 		<div class="max-w-3xl text-white text-xl space-y-5">
 			<p>
@@ -65,7 +65,7 @@
 			alt="Processo de Participação"
 			height="78.01"
 			width="697.5"
-			class="max-w-2xl pb-10"
+			class="max-w-2xl w-full h-auto pb-10"
 		/>
 		<p class="max-w-3xl text-black text-xl pb-8">
 			Convidamos à participação neste processo, ao longo de três fases.
