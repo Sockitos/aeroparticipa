@@ -31,6 +31,7 @@ const config = {
 		},
 		backgroundImage: {
 			'plane': "url('/images/plane.jpeg')",
+			'popup': "url('/images/popup.png')",
 		},
 		extend: {}
 	},
