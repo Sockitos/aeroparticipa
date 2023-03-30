@@ -1,4 +1,5 @@
 <script>
+	import { base } from '$app/paths';
 	import PageContainer from '@/components/PageContainer.svelte';
 	import PageHeader from '@/components/PageHeader.svelte';
 </script>
@@ -16,24 +17,35 @@
 	</p>
 	<ol class="marker:text-blue-accent marker:font-bold list-decimal list-outside pl-10">
 		<li>
-			<span class="text-blue-accent font-bold"
-				>Que estratégia de desenvolvimento o aeroporto vai servir?</span
+			<a
+				href="{base}/mesas-tematicas/1/"
+				class="text-blue-accent font-bold underline underline-offset-2"
+				>Que estratégia de desenvolvimento o aeroporto vai servir?</a
 			><br />Coordenador: Fernando Alexandre, UMInho
 		</li>
 		<li>
-			<span class="text-blue-accent font-bold"
-				>Como articular os principais sistemas de transporte na região de Lisboa?</span
+			<a
+				href="{base}/mesas-tematicas/2/"
+				class="text-blue-accent font-bold underline underline-offset-2"
+				>Como articular os principais sistemas de transporte na região de Lisboa?</a
 			>
 			<br />Coordenador: Paulo Pinho, FEUPorto
 		</li>
 		<li>
-			<span class="text-blue-accent font-bold"
+			<a
+				href="{base}/mesas-tematicas/3/"
+				class="text-blue-accent font-bold underline underline-offset-2"
 				>Que fatores ambientais e climáticos condicionam a expansão aeroportuária na região de
-				Lisboa?
-			</span><br />Coordenador: Teresa Fidélis, UAveiro
+				Lisboa?</a
+			>
+			<br />Coordenador: Teresa Fidélis, UAveiro
 		</li>
 		<li>
-			<span class="text-blue-accent font-bold">Que modelo de aeroporto queremos?</span>
+			<a
+				href="{base}/mesas-tematicas/4/"
+				class="text-blue-accent font-bold underline underline-offset-2"
+				>Que modelo de aeroporto queremos?</a
+			>
 			<br />Coordenador: Rosário Macário, IST-ULisboa
 		</li>
 	</ol>
@@ -53,5 +65,20 @@
 		temáticas deverão contribuir para a definição e consolidação dos critérios de viabilidade
 		técnico-científica que irão permitir a triagem das opções estratégicas, concluindo a fase 1 da
 		AAE.
+	</p>
+	<p>
+		<b>Participantes:</b> Acácio Pires, Ana Cristina Dourado, António Menezes, António Ramos Andrade,
+		Augusto Mateus, Cabaço Martins, Carlos Antunes, Carlos Fernandes, Carlos Gaspar, Carlos Matias Ramos,
+		Sergio Morais, Cristina Branquinho, Cristina Laginha, Daniel Traça, Duarte Silva, Emanuel Valpaços,
+		Ernesto Martins de Brito, Faustino Gomes, Fernanda do Carmo, Fernando Marques, Fernando Santo, Filipe
+		Moura, Francisco Calheiros, Francisco Ferreira, Francisco Furtado, Gonçalo Matos, Isabel Colher,
+		Jaime Rodrigues Valadares, Joana Silva, João Amador, João Cabral, João Dias Coelho, João Moutinho,
+		João Seixas, Joaquim Teodósio, Jorge Cancela, Jorge Palmeirim, José Alberto Rio Fernandes, José António
+		Cortez, José Encarnação, José Félix Ribeiro, José Figueiredo, José Lopes, José Luís Zêzere, José
+		Mendes, Luís Araújo, Luís Castro Henriques, Luís Picado Santos, Maria Albuquerque Silva, Maria Teresa
+		Almeida, Marina Ferreira, Miguel Laranjeiro, Miguel Miranda, Nuno Bento, Paulo Teixeira, Pedro Ginjeira,
+		Pedro Guedes Moreira, Ramiro Sequeira, Rodrigo Proença de Oliveira, Roger Vickerman, Rosário Oliveira,
+		Rui Nobre Sequeira, Rui Ramos, Sérgio Barroso, Sofia Kalakou, Tomás Ribeiro, Tomaz Leiria Pinto,
+		Vítor Domingues dos Santos, Vítor Pelado.
 	</p>
 </PageContainer>

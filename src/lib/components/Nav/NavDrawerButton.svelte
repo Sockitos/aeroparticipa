@@ -17,7 +17,7 @@
 		><path d="M120 816v-60h720v60H120Zm0-210v-60h720v60H120Zm0-210v-60h720v60H120Z" />
 	</svg>
 </button>
-<div class:hidden class="fixed top-0 left-0 w-screen h-screen z-20 bg-blue-dark ">
+<div class:hidden class="fixed top-0 left-0 w-screen h-screen z-20 bg-blue-dark">
 	<button on:click={() => (hidden = true)} class="container h-16 flex items-center justify-end">
 		<svg
 			class="h-8 fill-white hover:fill-blue-light"
@@ -35,6 +35,7 @@
 			<NavDrawerItem href="{base}/participacao-publica/" label="Participação Pública" />
 			<NavDrawerItem href="{base}/processo-de-participacao/" label="Processo de Participação" />
 			<NavDrawerItem href="{base}/mesas-tematicas/" label="Mesas Temáticas" />
+			<NavDrawerItem href="{base}/lista-de-entidades/" label="Lista de Entidades" />
 		</NavDrawerGroup>
 		<NavDrawerGroup label="O que é...">
 			<NavDrawerItem href="{base}/o-que-e-aae/" label="AAE" />
