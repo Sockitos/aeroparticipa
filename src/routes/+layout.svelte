@@ -7,8 +7,9 @@
 </script>
 
 <div class="min-h-screen flex flex-col">
+	<a href="#main" class="sr-only">Saltar para o conteúdo principal da página</a>
 	<Header />
-	<div class="grow bg-background"><slot /></div>
+	<main id="main" class="grow bg-background"><slot /></main>
 	<Footer />
 </div>
 {#if $page.url.pathname != '/'}
