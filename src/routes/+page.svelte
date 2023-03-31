@@ -19,20 +19,22 @@
 		/>
 	</div>
 	<div class="relative container py-10 md:py-16 pr-24 md:pr-32">
-		<img
-			src="{base}/svgs/espaco_de_dialogo.svg"
-			alt="Espaço de diálogo sobre o novo aeroporto de Lisboa"
-			height="392.93"
-			width="1538.89"
-			class="pb-4 max-w-4xl w-full h-auto hidden md:block"
-		/>
-		<img
-			src="{base}/svgs/espaco_de_dialogo_alt.svg"
-			alt="Espaço de diálogo sobre o novo aeroporto de Lisboa"
-			height="511.93"
-			width="1172.16"
-			class="pb-4 max-w-4xl w-full h-auto md:hidden"
-		/>
+		<h1>
+			<img
+				src="{base}/svgs/espaco_de_dialogo.svg"
+				alt="Espaço de diálogo sobre o novo aeroporto de Lisboa"
+				height="392.93"
+				width="1538.89"
+				class="pb-4 max-w-4xl w-full h-auto hidden md:block"
+			/>
+			<img
+				src="{base}/svgs/espaco_de_dialogo_alt.svg"
+				alt="Espaço de diálogo sobre o novo aeroporto de Lisboa"
+				height="511.93"
+				width="1172.16"
+				class="pb-4 max-w-4xl w-full h-auto md:hidden"
+			/>
+		</h1>
 	</div>
 </div>
 <div class="bg-plane bg-cover bg-center bg-blue bg-blend-multiply">
