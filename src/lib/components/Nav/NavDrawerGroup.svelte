@@ -2,7 +2,7 @@
 	export let label: string = '';
 </script>
 
-<div>
+<li>
 	<span>{label}</span>
-	<div class="ml-6 mt-2 space-y-2"><slot /></div>
-</div>
+	<ul class="ml-6 mt-2 space-y-2"><slot /></ul>
+</li>
