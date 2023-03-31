@@ -7,7 +7,7 @@
 		<div class="grow" />
 		<img
 			src="{base}/svgs/header_decoration_alt.svg"
-			alt=""
+			alt="decoration"
 			height="334.89"
 			width="116.07"
 			class="h-full w-auto p-2"

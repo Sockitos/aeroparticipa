@@ -8,11 +8,11 @@
 </svelte:head>
 
 <div class="relative">
-	<div class="absolute w-full h-full flex flex-row ">
+	<div class="absolute w-full h-full flex flex-row">
 		<div class="bg-grey grow" />
 		<img
 			src="{base}/svgs/header_decoration.svg"
-			alt=""
+			alt="decoration"
 			height="649.89"
 			width="190.06"
 			class="h-full w-auto p-2"
