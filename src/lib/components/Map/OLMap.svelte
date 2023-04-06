@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { defaults as defaultControls } from 'ol/control/defaults';
+	import { boundingExtent } from 'ol/extent';
 	import { defaults as defaultInteraction } from 'ol/interaction/defaults';
 	import TileLayer from 'ol/layer/Tile';
 	import Map from 'ol/Map';
@@ -7,6 +8,7 @@
 	import OSM from 'ol/source/OSM';
 	import View from 'ol/View';
 	import { setContext } from 'svelte';
+	import { aeros } from './constants';
 	import { key, type OLMapContext } from './olmap';
 
 	let map: Map | undefined;
@@ -25,12 +27,16 @@
 			target: node,
 			view: new View({
 				center: [-992500.3646622685, 4710230.728908487],
-				zoom: 9,
-				minZoom: 7.5,
+				zoom: 7,
+				minZoom: 7,
 				maxZoom: 15
 			}),
 			interactions: defaultInteraction({ mouseWheelZoom: false }),
 			controls: defaultControls()
+		});
+		map.getView().fit(boundingExtent(aeros.map((a) => a.coords.getCoordinates())), {
+			padding: [200, 200, 200, 400],
+			maxZoom: 12
 		});
 
 		return {

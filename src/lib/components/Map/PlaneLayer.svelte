@@ -1,5 +1,6 @@
 <script lang="ts">
 	import Feature, { type FeatureLike } from 'ol/Feature';
+	import { boundingExtent } from 'ol/extent';
 	import VectorLayer from 'ol/layer/Vector';
 	import VectorSource from 'ol/source/Vector';
 	import { Fill, Icon, Stroke, Style, Text as TextStyle } from 'ol/style';
@@ -67,6 +68,20 @@
 			layer = vectorLayer;
 			getMap()?.addLayer(layer);
 		}
+		getMap()
+			?.getView()
+			.fit(
+				boundingExtent(
+					(aerosIds ? aeros.filter((a) => aerosIds?.includes(a.id)) : aeros).map((a) =>
+						a.coords.getCoordinates()
+					)
+				),
+				{
+					padding: aerosIds ? [400, 400, 400, 800] : [200, 200, 200, 400],
+					maxZoom: 12,
+					duration: 200
+				}
+			);
 		layer?.changed();
 	}
 
