@@ -65,6 +65,174 @@ export const aeros: MapAero[] = [
 export const options: MapOption[] = [
     {
         id: 1,
+        label: 'Montijo + Portela',
+        isDual: true,
+        isOfficial: true,
+        info: [
+            {
+                label: 'Ferrovia',
+                info: [
+                    { label: 'Frequência num sentido', value: 'Não Existe' },
+                    { label: 'Tempo a Lisboa (atual)', value: 'Não Existe' },
+                    { label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: 'Não existe' }
+                ]
+            },
+            {
+                label: 'Rodovia (nas principais vias)',
+                info: [
+                    { label: 'Distância a Lisboa', value: '26 km' },
+                    { label: 'Tempo a Lisboa', value: '30 mins' }
+                ]
+            },
+            {
+                label: 'Aeroporto',
+                info: [
+                    { label: 'Nº de pistas', value: '2+1' },
+                    { label: 'Capacidade de Movimentos / Hora', value: '60+20' },
+                    { label: 'Capacidade de Expansão', value: 'Não' }
+                ]
+            },
+            {
+                label: 'População Afetada pelo Ruído',
+                info: [
+                    { label: 'População total', value: 'Em Análise' },
+                    { label: 'População residente', value: '~835000' }
+                ]
+            }
+        ],
+        layers: [
+            { id: 'ca3', label: 'Cones de Aproximação', url: 'layers/cones3-4.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), stroke: 'rgba(50, 50, 50, 1)', fill: 'rgba(50, 50, 50, 0.2)' },
+        ],
+        aeros: [5, 6],
+    },
+    {
+        id: 2,
+        label: 'Portela + Montijo',
+        isDual: true,
+        isOfficial: true,
+        info: [
+            {
+                label: 'Ferrovia',
+                info: [
+                    { label: 'Frequência num sentido', value: 'Não Existe' },
+                    { label: 'Tempo a Lisboa (atual)', value: 'Não Existe' },
+                    { label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: 'Não existe' }
+                ]
+            },
+            {
+                label: 'Rodovia (nas principais vias)',
+                info: [
+                    { label: 'Distância a Lisboa', value: '26 km' },
+                    { label: 'Tempo a Lisboa', value: '30 mins' }
+                ]
+            },
+            {
+                label: 'Aeroporto',
+                info: [
+                    { label: 'Nº de pistas', value: '1+1' },
+                    { label: 'Capacidade de Movimentos / Hora', value: '48+26' },
+                    { label: 'Capacidade de Expansão', value: 'Não' }
+                ]
+            },
+            {
+                label: 'População Afetada pelo Ruído',
+                info: [
+                    { label: 'População total', value: 'Em Análise' },
+                    { label: 'População residente', value: '~835000' }
+                ]
+            }
+        ],
+        layers: [
+            { id: 'ca4', label: 'Cones de Aproximação', url: 'layers/cones3-4.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), stroke: 'rgba(50, 50, 50, 1)', fill: 'rgba(50, 50, 50, 0.2)' },
+        ],
+        aeros: [6, 5],
+    },
+    {
+        id: 3,
+        label: 'CT-Alcochete',
+        isDual: false,
+        isOfficial: true,
+        info: [
+            {
+                label: 'Ferrovia',
+                info: [
+                    { label: 'Frequência num sentido', value: 'Não Existe' },
+                    { label: 'Tempo a Lisboa (atual)', value: 'Não Existe' },
+                    { label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: '22 mins' }
+                ]
+            },
+            {
+                label: 'Rodovia (nas principais vias)',
+                info: [
+                    { label: 'Distância a Lisboa', value: '38 km' },
+                    { label: 'Tempo a Lisboa', value: '39 mins' }
+                ]
+            },
+            {
+                label: 'Aeroporto',
+                info: [
+                    { label: 'Nº de pistas', value: '2' },
+                    { label: 'Capacidade de Movimentos / Hora', value: '80' },
+                    { label: 'Capacidade de Expansão', value: 'Sim (até 4)' }
+                ]
+            },
+            {
+                label: 'População Afetada pelo Ruído',
+                info: [
+                    { label: 'População total', value: 'Em Análise' },
+                    { label: 'População residente', value: '~6000' }
+                ]
+            }
+        ],
+        layers: [
+            { id: 'ca6', label: 'Cones de Aproximação', url: 'layers/cones6.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), stroke: 'rgba(50, 50, 50, 1)', fill: 'rgba(50, 50, 50, 0.2)' },
+        ],
+        aeros: [1],
+    },
+    {
+        id: 4,
+        label: 'Portela + Santarém',
+        isDual: true,
+        isOfficial: true,
+        info: [
+            {
+                label: 'Ferrovia',
+                info: [
+                    { label: 'Frequência num sentido', value: '93 mov/dia' },
+                    { label: 'Tempo a Lisboa (atual)', value: '1h 23 mins' },
+                    { label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: '29 mins' }
+                ]
+            },
+            {
+                label: 'Rodovia (nas principais vias)',
+                info: [
+                    { label: 'Distância a Lisboa', value: '91 km' },
+                    { label: 'Tempo a Lisboa', value: '1h 01 mins' }
+                ]
+            },
+            {
+                label: 'Aeroporto',
+                info: [
+                    { label: 'Nº de pistas', value: '1+1' },
+                    { label: 'Capacidade de Movimentos / Hora', value: '20+40' },
+                    { label: 'Capacidade de Expansão', value: 'Sim (até 1+3)' }
+                ]
+            },
+            {
+                label: 'População Afetada pelo Ruído',
+                info: [
+                    { label: 'População total', value: 'Em Análise' },
+                    { label: 'População residente', value: '~607500' }
+                ]
+            }
+        ],
+        layers: [
+            { id: 'ca2', label: 'Cones de Aproximação', url: 'layers/cones2.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), stroke: 'rgba(50, 50, 50, 1)', fill: 'rgba(50, 50, 50, 0.2)' },
+        ],
+        aeros: [7, 6],
+    },
+    {
+        id: 5,
         label: 'Santarém',
         isDual: false,
         isOfficial: true,
@@ -87,8 +255,50 @@ export const options: MapOption[] = [
             {
                 label: 'Aeroporto',
                 info: [
-                    { label: 'Nº de pistas', value: '3' },
-                    { label: 'Capacidade de Movimentos', value: '52' },
+                    { label: 'Nº de pistas', value: '2' },
+                    { label: 'Capacidade de Movimentos / Hora', value: '60' },
+                    { label: 'Capacidade de Expansão', value: 'Sim (até 3)' }
+                ]
+            },
+            {
+                label: 'População Afetada pelo Ruído',
+                info: [
+                    { label: 'População total', value: 'Em Análise' },
+                    { label: 'População residente', value: '~13200' }
+                ]
+            }
+        ],
+        layers: [
+            { id: 'ca1', label: 'Cones de Aproximação', url: 'layers/cones1.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), stroke: 'rgba(50, 50, 50, 1)', fill: 'rgba(50, 50, 50, 0.2)' },
+        ],
+        aeros: [7],
+    },
+    {
+        id: 6,
+        label: 'CT-Alcochete + Portela',
+        isDual: true,
+        isOfficial: false,
+        info: [
+            {
+                label: 'Ferrovia',
+                info: [
+                    { label: 'Frequência num sentido', value: 'Não Existe' },
+                    { label: 'Tempo a Lisboa (atual)', value: 'Não Existe' },
+                    { label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: '22 mins' }
+                ]
+            },
+            {
+                label: 'Rodovia (nas principais vias)',
+                info: [
+                    { label: 'Distância a Lisboa', value: '38 km' },
+                    { label: 'Tempo a Lisboa', value: '39 mins' }
+                ]
+            },
+            {
+                label: 'Aeroporto',
+                info: [
+                    { label: 'Nº de pistas', value: '1+1' },
+                    { label: 'Capacidade de Movimentos / Hora', value: '40+20' },
                     { label: 'Capacidade de Expansão', value: 'Sim' }
                 ]
             },
@@ -96,146 +306,20 @@ export const options: MapOption[] = [
                 label: 'População Afetada pelo Ruído',
                 info: [
                     { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '13176' }
+                    { label: 'População residente', value: '~604000' }
                 ]
             }
         ],
         layers: [
-            { id: 'ca1', label: 'Cones de Aproximação', url: 'layers/cones1.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), },
+            { id: 'ca7', label: 'Cones de Aproximação', url: 'layers/cones7.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), stroke: 'rgba(50, 50, 50, 1)', fill: 'rgba(50, 50, 50, 0.2)' },
         ],
-        aeros: [7],
+        aeros: [1, 6],
     },
     {
-        id: 2,
-        label: 'Santarém + Portela',
-        isDual: true,
-        isOfficial: true,
-        info: [
-            {
-                label: 'Ferrovia',
-                info: [
-                    { label: 'Frequência num sentido', value: '93 mov/dia' },
-                    { label: 'Tempo a Lisboa (atual)', value: '1h 23 mins' },
-                    { label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: '29 mins' }
-                ]
-            },
-            {
-                label: 'Rodovia (nas principais vias)',
-                info: [
-                    { label: 'Distância a Lisboa', value: '91 km' },
-                    { label: 'Tempo a Lisboa', value: '1h 01 mins' }
-                ]
-            },
-            {
-                label: 'Aeroporto',
-                info: [
-                    { label: 'Nº de pistas', value: '3+1' },
-                    { label: 'Capacidade de Movimentos', value: '100' },
-                    { label: 'Capacidade de Expansão', value: 'sim' }
-                ]
-            },
-            {
-                label: 'População Afetada pelo Ruído',
-                info: [
-                    { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '607491' }
-                ]
-            }
-        ],
-        layers: [
-            { id: 'ca2', label: 'Cones de Aproximação', url: 'layers/cones2.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), },
-        ],
-        aeros: [7, 6],
-    },
-    {
-        id: 3,
-        label: 'Montijo + Portela',
-        isDual: true,
-        isOfficial: true,
-        info: [
-            {
-                label: 'Ferrovia',
-                info: [
-                    { label: 'Frequência num sentido', value: 'Não Existe' },
-                    { label: 'Tempo a Lisboa (atual)', value: 'Não Existe' },
-                    { label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: '25 mins' }
-                ]
-            },
-            {
-                label: 'Rodovia (nas principais vias)',
-                info: [
-                    { label: 'Distância a Lisboa', value: '26 km' },
-                    { label: 'Tempo a Lisboa', value: '30 mins' }
-                ]
-            },
-            {
-                label: 'Aeroporto',
-                info: [
-                    { label: 'Nº de pistas', value: '1+1' },
-                    { label: 'Capacidade de Movimentos', value: '80' },
-                    { label: 'Capacidade de Expansão', value: 'Não' }
-                ]
-            },
-            {
-                label: 'População Afetada pelo Ruído',
-                info: [
-                    { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '834884' }
-                ]
-            }
-        ],
-        layers: [
-            { id: 'ca3', label: 'Cones de Aproximação', url: 'layers/cones3-4.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), },
-        ],
-        aeros: [5, 6],
-    },
-    {
-        id: 4,
-        label: 'Portela + Montijo',
-        isDual: true,
-        isOfficial: true,
-        info: [
-            {
-                label: 'Ferrovia',
-                info: [
-                    { label: 'Frequência num sentido', value: 'Não Existe' },
-                    { label: 'Tempo a Lisboa (atual)', value: 'Não Existe' },
-                    { label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: '25 mins' }
-                ]
-            },
-            {
-                label: 'Rodovia (nas principais vias)',
-                info: [
-                    { label: 'Distância a Lisboa', value: '26 km' },
-                    { label: 'Tempo a Lisboa', value: '30 mins' }
-                ]
-            },
-            {
-                label: 'Aeroporto',
-                info: [
-                    { label: 'Nº de pistas', value: '1+1' },
-                    { label: 'Capacidade de Movimentos', value: '72' },
-                    { label: 'Capacidade de Expansão', value: 'Não' }
-                ]
-            },
-            {
-                label: 'População Afetada pelo Ruído',
-                info: [
-                    { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '834884' }
-                ]
-            }
-        ],
-        layers: [
-            { id: 'ca4', label: 'Cones de Aproximação', url: 'layers/cones3-4.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), },
-        ],
-        aeros: [6, 5],
-    },
-    {
-        id: 5,
+        id: 7,
         label: 'Alverca + Portela',
         isDual: true,
-        isOfficial: true,
+        isOfficial: false,
         info: [
             {
                 label: 'Ferrovia',
@@ -256,7 +340,7 @@ export const options: MapOption[] = [
                 label: 'Aeroporto',
                 info: [
                     { label: 'Nº de pistas', value: '1+1' },
-                    { label: 'Capacidade de Movimentos', value: '50' },
+                    { label: 'Capacidade de Movimentos / Hora', value: '30+20' },
                     { label: 'Capacidade de Expansão', value: 'Não' }
                 ]
             },
@@ -264,104 +348,22 @@ export const options: MapOption[] = [
                 label: 'População Afetada pelo Ruído',
                 info: [
                     { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '862322' }
+                    { label: 'População residente', value: '~862000' }
                 ]
             }
         ],
         layers: [
-            { id: 'ca5', label: 'Cones de Aproximação', url: 'layers/cones5.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), },
+            { id: 'ca5', label: 'Cones de Aproximação', url: 'layers/cones5.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), stroke: 'rgba(50, 50, 50, 1)', fill: 'rgba(50, 50, 50, 0.2)' },
         ],
         aeros: [2, 6],
     },
-    {
-        id: 6,
-        label: 'Alcochete',
-        isDual: false,
-        isOfficial: true,
-        info: [
-            {
-                label: 'Ferrovia',
-                info: [
-                    { label: 'Frequência num sentido', value: 'Não Existe' },
-                    { label: 'Tempo a Lisboa (atual)', value: 'Não Existe' },
-                    { label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: '22 mins' }
-                ]
-            },
-            {
-                label: 'Rodovia (nas principais vias)',
-                info: [
-                    { label: 'Distância a Lisboa', value: '38 km' },
-                    { label: 'Tempo a Lisboa', value: '39 mins' }
-                ]
-            },
-            {
-                label: 'Aeroporto',
-                info: [
-                    { label: 'Nº de pistas', value: '4' },
-                    { label: 'Capacidade de Movimentos', value: '100' },
-                    { label: 'Capacidade de Expansão', value: 'Sim' }
-                ]
-            },
-            {
-                label: 'População Afetada pelo Ruído',
-                info: [
-                    { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '6027' }
-                ]
-            }
-        ],
-        layers: [
-            { id: 'ca6', label: 'Cones de Aproximação', url: 'layers/cones6.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), },
-        ],
-        aeros: [1],
-    },
-    {
-        id: 7,
-        label: 'Alcochete + Portela',
-        isDual: true,
-        isOfficial: true,
-        info: [
-            {
-                label: 'Ferrovia',
-                info: [
-                    { label: 'Frequência num sentido', value: 'Não Existe' },
-                    { label: 'Tempo a Lisboa (atual)', value: 'Não Existe' },
-                    { label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: '22 mins' }
-                ]
-            },
-            {
-                label: 'Rodovia (nas principais vias)',
-                info: [
-                    { label: 'Distância a Lisboa', value: '38 km' },
-                    { label: 'Tempo a Lisboa', value: '39 mins' }
-                ]
-            },
-            {
-                label: 'Aeroporto',
-                info: [
-                    { label: 'Nº de pistas', value: '4+1' },
-                    { label: 'Capacidade de Movimentos', value: '100' },
-                    { label: 'Capacidade de Expansão', value: 'Sim' }
-                ]
-            },
-            {
-                label: 'População Afetada pelo Ruído',
-                info: [
-                    { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '603810' }
-                ]
-            }
-        ],
-        layers: [
-            { id: 'ca7', label: 'Cones de Aproximação', url: 'layers/cones7.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), },
-        ],
-        aeros: [1, 6],
-    },
+
+
     {
         id: 8,
         label: 'Beja',
         isDual: false,
-        isOfficial: true,
+        isOfficial: false,
         info: [
             {
                 label: 'Ferrovia',
@@ -381,21 +383,21 @@ export const options: MapOption[] = [
             {
                 label: 'Aeroporto',
                 info: [
-                    { label: 'Nº de pistas', value: '4' },
-                    { label: 'Capacidade de Movimentos', value: '40' },
-                    { label: 'Capacidade de Expansão', value: 'Sim' }
+                    { label: 'Nº de pistas', value: '2' },
+                    { label: 'Capacidade de Movimentos / Hora', value: '80' },
+                    { label: 'Capacidade de Expansão', value: 'Sim (até 4)' }
                 ]
             },
             {
                 label: 'População Afetada pelo Ruído',
                 info: [
                     { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '4945' }
+                    { label: 'População residente', value: '~5000' }
                 ]
             }
         ],
         layers: [
-            { id: 'ca8', label: 'Cones de Aproximação', url: 'layers/cones8.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), },
+            { id: 'ca8', label: 'Cones de Aproximação', url: 'layers/cones8.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), stroke: 'rgba(50, 50, 50, 1)', fill: 'rgba(50, 50, 50, 0.2)' },
         ],
         aeros: [3],
     },
@@ -423,22 +425,22 @@ export const options: MapOption[] = [
             {
                 label: 'Aeroporto',
                 info: [
-                    { label: 'Nº de pistas', value: 'Em Análise' },
-                    { label: 'Capacidade de Movimentos', value: 'Em Análise' },
-                    { label: 'Capacidade de Expansão', value: 'Em Análise' }
+                    { label: 'Nº de pistas', value: '1' },
+                    { label: 'Capacidade de Movimentos / Hora', value: '40' },
+                    { label: 'Capacidade de Expansão', value: 'Não' }
                 ]
             },
             {
                 label: 'População Afetada pelo Ruído',
                 info: [
                     { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '54441' }
+                    { label: 'População residente', value: '~54000' }
                 ],
 
             }
         ],
         layers: [
-            { id: 'ca9', label: 'Cones de Aproximação', url: 'layers/cones9.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), },
+            { id: 'ca9', label: 'Cones de Aproximação', url: 'layers/cones9.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), stroke: 'rgba(50, 50, 50, 1)', fill: 'rgba(50, 50, 50, 0.2)' },
         ],
         aeros: [4],
     }
@@ -448,35 +450,26 @@ export const layerGroups: MapLayerGroup[] = [
     {
         label: 'Zonas Protegidas',
         layers: [
-            { id: 'rnap', label: 'Rede Nacional de Áreas Protegidas', url: 'layers/rnap.json', style: new Style({ stroke: new Stroke({ color: 'rgba(16, 92, 6, 1)' }), fill: new Fill({ color: 'rgba(16, 92, 6, 0.2)' }), }), },
-            { id: 'zpe', label: 'Zona de proteção especial', url: 'layers/zpe.json', style: new Style({ stroke: new Stroke({ color: 'rgba(53, 138, 20, 1)' }), fill: new Fill({ color: 'rgba(53, 138, 20, 0.2)' }), }), },
-            { id: 'zec', label: 'Zona especial de conservação', url: 'layers/sic.json', style: new Style({ stroke: new Stroke({ color: 'rgba(245, 174, 20, 1)' }), fill: new Fill({ color: 'rgba(245, 174, 20, 0.2)' }), }), },
-            { id: 'ramsar', label: 'Sítios RAMSAR', url: 'layers/ramsar.json', style: new Style({ stroke: new Stroke({ color: 'rgba(10, 183, 209, 1)' }), fill: new Fill({ color: 'rgba(10, 183, 209, 0.2)' }), }), },
-            { id: 'rb', label: 'Reserva de Biosfera', url: 'layers/biosfera.json', style: new Style({ stroke: new Stroke({ color: 'rgba(117, 66, 6, 1)' }), fill: new Fill({ color: 'rgba(117, 66, 6, 0.2)' }), }), }
+            { id: 'rnap', label: 'Rede Nacional de Áreas Protegidas', url: 'layers/rnap.json', style: new Style({ stroke: new Stroke({ color: 'rgba(16, 92, 6, 1)' }), fill: new Fill({ color: 'rgba(16, 92, 6, 0.2)' }), }), stroke: 'rgba(16, 92, 6, 1)', fill: 'rgba(16, 92, 6, 0.2)' },
+            { id: 'zpe', label: 'Zona de proteção especial', url: 'layers/zpe.json', style: new Style({ stroke: new Stroke({ color: 'rgba(53, 138, 20, 1)' }), fill: new Fill({ color: 'rgba(53, 138, 20, 0.2)' }), }), stroke: 'rgba(53, 138, 20, 1)', fill: 'rgba(53, 138, 20, 0.2)' },
+            { id: 'zec', label: 'Zona especial de conservação', url: 'layers/sic.json', style: new Style({ stroke: new Stroke({ color: 'rgba(245, 174, 20, 1)' }), fill: new Fill({ color: 'rgba(245, 174, 20, 0.2)' }), }), stroke: 'rgba(245, 174, 20, 1)', fill: 'rgba(245, 174, 20, 0.2)' },
+            { id: 'ramsar', label: 'Sítios RAMSAR', url: 'layers/ramsar.json', style: new Style({ stroke: new Stroke({ color: 'rgba(10, 183, 209, 1)' }), fill: new Fill({ color: 'rgba(10, 183, 209, 0.2)' }), }), stroke: 'rgba(10, 183, 209, 1)', fill: 'rgba(10, 183, 209, 0.2)' },
+            { id: 'rb', label: 'Reserva de Biosfera', url: 'layers/biosfera.json', style: new Style({ stroke: new Stroke({ color: 'rgba(117, 66, 6, 1)' }), fill: new Fill({ color: 'rgba(117, 66, 6, 0.2)' }), }), stroke: 'rgba(117, 66, 6, 1)', fill: 'rgba(117, 66, 6, 0.2)' },
         ]
     },
     {
         label: 'Transportes',
         layers: [
-            { id: 'rodo', label: 'Rodovia', url: 'layers/rodovia.json', style: new Style({ stroke: new Stroke({ color: '#000000' }), }), },
-            { id: 'ferro', label: 'Ferrovia', url: 'layers/ferrovia.json', style: new Style({ stroke: new Stroke({ color: '#0000ff' }), }), }
+            { id: 'rodo', label: 'Rodovia', url: 'layers/rodovia.json', style: new Style({ stroke: new Stroke({ color: '#000000' }), }), stroke: '#000000', },
+            { id: 'ferro', label: 'Ferrovia', url: 'layers/ferrovia.json', style: new Style({ stroke: new Stroke({ color: '#0000ff' }), }), stroke: '#0000ff', },
         ]
     },
     {
         label: 'Restrição aérea',
         layers: [
-            { id: 'ra', label: 'Restrição aérea', url: 'layers/restricao.json', style: new Style({ stroke: new Stroke({ color: 'rgba(231, 92, 0, 1)' }), fill: new Fill({ color: 'rgba(231, 92, 0, 0.1)' }), }), },
+            { id: 'ra', label: 'Restrição aérea', url: 'layers/restricao.json', style: new Style({ stroke: new Stroke({ color: 'rgba(231, 92, 0, 1)' }), fill: new Fill({ color: 'rgba(231, 92, 0, 0.1)' }), }), stroke: 'rgba(231, 92, 0, 1)', fill: 'rgba(231, 92, 0, 0.2)' },
         ]
     },
-    // {
-    //     label: 'Uso e ocupação do solo',
-    //     layers: [
-    //         { id: 'en', label: 'Espaços Naturais', url: 'layers/test.json', style: new Style({ stroke: new Stroke({ color: 'rgba(255, 165, 0, 1)' }), fill: new Fill({ color: 'rgba(255, 165, 0, 0.1)' }), }), },
-    //         { id: 'ma', label: 'Massas de água', url: 'layers/test.json', style: new Style({ stroke: new Stroke({ color: 'rgba(255, 165, 0, 1)' }), fill: new Fill({ color: 'rgba(255, 165, 0, 0.1)' }), }), },
-    //         { id: 'ui', label: 'Urbano Industrial', url: 'layers/urb.json', style: new Style({ stroke: new Stroke({ color: 'rgba(255, 165, 0, 1)' }), fill: new Fill({ color: 'rgba(255, 165, 0, 0.1)' }), }), },
-    //         { id: 'agro', label: 'Agroflorestal', url: 'layers/test.json', style: new Style({ stroke: new Stroke({ color: 'rgba(255, 165, 0, 1)' }), fill: new Fill({ color: 'rgba(255, 165, 0, 0.1)' }), }), }
-    //     ]
-    // }
 ];
 
 export const icons = new Map<string, string>([

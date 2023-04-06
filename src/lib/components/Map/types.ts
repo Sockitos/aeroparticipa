@@ -36,6 +36,8 @@ export type MapLayer = {
     label: string;
     url: string;
     style: StyleLike;
+    stroke: string;
+    fill?: string;
 }
 
 export type MapLayerGroup = {

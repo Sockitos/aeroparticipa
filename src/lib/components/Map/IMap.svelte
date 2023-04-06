@@ -80,16 +80,18 @@
 			<AccordionItem label={'Visualização'} key={'visualizations'}>
 				{#each layerGroups as group}
 					<div>
-						<div class="flex flex-row items-center space-x-2 ml-7">
-							<svg
-								id="Layer_1"
-								xmlns="http://www.w3.org/2000/svg"
-								viewBox="0 0 24 24"
-								class="h-5 fill-blue-light mb-1"
-								>{@html icons.get(group.label)}
-							</svg>
-							<span class="font-bold">{group.label}</span>
-						</div>
+						{#if group.layers.length != 1}
+							<div class="flex flex-row items-center space-x-2 ml-7">
+								<svg
+									id="Layer_1"
+									xmlns="http://www.w3.org/2000/svg"
+									viewBox="0 0 24 24"
+									class="h-5 fill-blue-light mb-1"
+									>{@html icons.get(group.label)}
+								</svg>
+								<span class="font-bold">{group.label}</span>
+							</div>
+						{/if}
 						{#each group.layers as l}
 							<label class="flex flex-row items-center space-x-2">
 								<div class="p-1 border-blue border-2 rounded-full">
@@ -101,8 +103,17 @@
 									/>
 									<div class="h-2 w-2 rounded-full peer-checked:bg-blue" />
 								</div>
-								<div class="h-5 w-5 border-black border-2 rounded-full" />
-								<span>{l.label}</span>
+								{#if l.fill}
+									<div
+										class="h-5 w-5 border-2 rounded-full"
+										style="background-color: {l.fill};border-color: {l.stroke}"
+									/>
+								{:else}
+									<div class="h-5 w-5">
+										<div class="h-full w-1 mx-auto" style="background-color: {l.stroke}" />
+									</div>
+								{/if}
+								<span class:font-bold={group.layers.length == 1}>{l.label}</span>
 							</label>
 						{/each}
 					</div>
@@ -182,7 +193,16 @@
 									/>
 									<div class="h-2 w-2 rounded-full peer-checked:bg-blue" />
 								</div>
-								<div class="h-5 w-5 border-black border-2 rounded-full" />
+								{#if l.fill}
+									<div
+										class="h-5 w-5 border-2 rounded-full"
+										style="background-color: {l.fill};border-color: {l.stroke}"
+									/>
+								{:else}
+									<div class="h-5 w-5">
+										<div class="h-full w-1 mx-auto" style="background-color: {l.stroke}" />
+									</div>
+								{/if}
 								<span>{l.label}</span>
 							</label>
 						{/each}
