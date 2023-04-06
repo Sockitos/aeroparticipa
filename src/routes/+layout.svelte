@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import { page } from '$app/stores';
 	import Footer from '@/components/Footer.svelte';
 	import Header from '@/components/Header.svelte';
@@ -12,6 +13,6 @@
 	<main id="main" class="grow bg-background"><slot /></main>
 	<Footer />
 </div>
-{#if $page.url.pathname != '/'}
+{#if $page.url.pathname != base + '/'}
 	<Popup />
 {/if}
