@@ -1,6 +1,7 @@
 <script>
 	import { base } from '$app/paths';
 	import ArrowLink from '@/components/ArrowLink.svelte';
+	import IMap from '@/components/Map/IMap.svelte';
 </script>
 
 <svelte:head>
@@ -37,6 +38,12 @@
 		</h1>
 	</div>
 </div>
+<div class="bg-blue">
+	<h2 class="text-3xl font-bold text-center text-white p-6">
+		Conheça as opções estratégicas em debate
+	</h2>
+	<IMap />
+</div>
 <div class="bg-plane bg-cover bg-center bg-blue bg-blend-multiply">
 	<div class="container py-10 md:py-16">
 		<img
@@ -57,30 +64,6 @@
 
 		<div class="pt-10 pb-8 flex justify-start">
 			<ArrowLink label="Quero participar" href="https://aeroparticipa.eu.consider.it/" isLight />
-		</div>
-	</div>
-</div>
-<div class="bg-grey">
-	<div class="container py-10 md:py-16">
-		<img
-			src="{base}/svgs/participacao.svg"
-			alt="Processo de Participação"
-			height="78.01"
-			width="697.5"
-			class="max-w-2xl w-full h-auto pb-10"
-		/>
-		<p class="max-w-3xl text-black text-xl pb-8">
-			Convidamos à participação neste processo, ao longo de três fases.
-		</p>
-		<img
-			src="{base}/images/faseamento_aae_min.png"
-			alt="Faseamento do processo de participação"
-			height="773"
-			width="2002"
-			class="w-full h-auto max-w-4xl"
-		/>
-		<div class="pt-10 pb-8 flex justify-start">
-			<ArrowLink label="Saber mais" href="{base}/processo-de-participacao" />
 		</div>
 	</div>
 </div>

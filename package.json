@@ -39,5 +39,8 @@
 		"vite": "^4.2.1",
 		"vitest": "^0.29.8"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"ol": "^7.3.0"
+	}
 }

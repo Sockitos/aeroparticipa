@@ -137,3 +137,9 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.ol-zoom {
+    top: 1rem !important;
+    left: auto !important;
+    right: 1rem !important;
+}
