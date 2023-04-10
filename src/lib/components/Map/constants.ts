@@ -149,7 +149,7 @@ export const options: MapOption[] = [
     },
     {
         id: 3,
-        label: 'CT-Alcochete',
+        label: 'CT Alcochete',
         isDual: false,
         isOfficial: true,
         info: [
@@ -275,7 +275,7 @@ export const options: MapOption[] = [
     },
     {
         id: 6,
-        label: 'CT-Alcochete + Portela',
+        label: 'CT Alcochete + Portela',
         isDual: true,
         isOfficial: false,
         info: [
