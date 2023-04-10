@@ -47,5 +47,6 @@
 			<NavDrawerItem href="{base}/composicao-da-cti/" label="Composição" />
 			<NavDrawerItem href="{base}/regimento-da-cti/" label="Regimento" />
 		</NavDrawerGroup>
+		<NavDrawerItem href="/desmistificar/" label="Desmistificar" />
 	</ul>
 </div>

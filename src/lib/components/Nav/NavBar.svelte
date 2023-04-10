@@ -43,6 +43,7 @@
 						<NavBarDropdownItem href="{base}/composicao-da-cti/" label="Composição" />
 						<NavBarDropdownItem href="{base}/regimento-da-cti/" label="Regimento" />
 					</NavBarDropdown>
+					<NavBarItem href="/desmistificar/" label="Desmistificar" />
 				</ul>
 			</div>
 		</div>
