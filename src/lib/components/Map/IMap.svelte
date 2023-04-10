@@ -120,7 +120,7 @@
 				{/each}
 				<div class="pb-4" />
 			</AccordionItem>
-			<AccordionItem label={'Opções de localização'} key={'options'}
+			<AccordionItem label={'Opções Estratégicas'} key={'options'}
 				>{#each options as o}
 					<button
 						on:click={() => {

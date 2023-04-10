@@ -66,6 +66,7 @@
 		técnico-científica que irão permitir a triagem das opções estratégicas, concluindo a fase 1 da
 		AAE.
 	</p>
+	<h3 class="text-2xl font-bold pt-6">Lista de participantes de todas as mesas temáticas</h3>
 	<p>
 		<b>Participantes:</b> Acácio Pires, Ana Cristina Dourado, António Menezes, António Ramos Andrade,
 		Augusto Mateus, Cabaço Martins, Carlos Antunes, Carlos Fernandes, Carlos Gaspar, Carlos Matias Ramos,
