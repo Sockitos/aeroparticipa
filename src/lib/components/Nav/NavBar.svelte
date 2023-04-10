@@ -24,6 +24,7 @@
 			<div class="w-full hidden md:block md:w-auto">
 				<ul class="flex space-x-4 text-white text-lg whitespace-nowrap">
 					<NavBarItem href="https://participe.aeroparticipa.pt/" label="PARTICIPE!" />
+					<NavBarItem href="/desmistificar/" label="Desmistificar" />
 					<NavBarDropdown label="Estratégia de Participação">
 						<NavBarDropdownItem href="{base}/participacao-publica/" label="Participação Pública" />
 						<NavBarDropdownItem
@@ -43,7 +44,6 @@
 						<NavBarDropdownItem href="{base}/composicao-da-cti/" label="Composição" />
 						<NavBarDropdownItem href="{base}/regimento-da-cti/" label="Regimento" />
 					</NavBarDropdown>
-					<NavBarItem href="/desmistificar/" label="Desmistificar" />
 				</ul>
 			</div>
 		</div>

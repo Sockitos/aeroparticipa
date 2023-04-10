@@ -31,6 +31,7 @@
 	</button>
 	<ul class="flex flex-col space-y-4 px-20 pt-4 text-white text-2xl">
 		<NavDrawerItem href="https://participe.aeroparticipa.pt/" label="PARTICIPE!" />
+		<NavDrawerItem href="/desmistificar/" label="Desmistificar" />
 		<NavDrawerGroup label="Estratégia de Participação">
 			<NavDrawerItem href="{base}/participacao-publica/" label="Participação Pública" />
 			<NavDrawerItem href="{base}/processo-de-participacao/" label="Processo de Participação" />
@@ -47,6 +48,5 @@
 			<NavDrawerItem href="{base}/composicao-da-cti/" label="Composição" />
 			<NavDrawerItem href="{base}/regimento-da-cti/" label="Regimento" />
 		</NavDrawerGroup>
-		<NavDrawerItem href="/desmistificar/" label="Desmistificar" />
 	</ul>
 </div>
