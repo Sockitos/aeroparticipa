@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-	<title>AeroParticipa - Desmistificar</title>
+	<title>AeroParticipa - Mitos</title>
 </svelte:head>
 
 <PageHeader>Mitos que têm marcado<br />a opinião pública</PageHeader>

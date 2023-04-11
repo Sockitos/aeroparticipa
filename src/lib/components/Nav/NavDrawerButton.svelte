@@ -31,7 +31,7 @@
 	</button>
 	<ul class="flex flex-col space-y-4 px-20 pt-4 text-white text-2xl">
 		<NavDrawerItem href="https://participe.aeroparticipa.pt/" label="PARTICIPE!" />
-		<NavDrawerItem href="{base}/desmistificar/" label="Desmistificar" />
+		<NavDrawerItem href="{base}/mitos/" label="Mitos" />
 		<NavDrawerGroup label="Estratégia de Participação">
 			<NavDrawerItem href="{base}/participacao-publica/" label="Participação Pública" />
 			<NavDrawerItem href="{base}/processo-de-participacao/" label="Processo de Participação" />
