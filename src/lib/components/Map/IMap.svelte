@@ -110,7 +110,13 @@
 									/>
 								{:else}
 									<div class="h-5 w-5">
-										<div class="h-full w-1 mx-auto" style="background-color: {l.stroke}" />
+										{#if l.dashed}
+											<div class="h-1 mb-1 w-1 mx-auto" style="background-color: {l.stroke}" />
+											<div class="h-1 mb-1 w-1 mx-auto" style="background-color: {l.stroke}" />
+											<div class="h-1 w-1 mx-auto" style="background-color: {l.stroke}" />
+										{:else}
+											<div class="h-full w-1 mx-auto" style="background-color: {l.stroke}" />
+										{/if}
 									</div>
 								{/if}
 								<span class:font-bold={group.layers.length == 1}>{l.label}</span>

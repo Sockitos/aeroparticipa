@@ -37,6 +37,7 @@ export type MapLayer = {
     url: string;
     style: StyleLike;
     stroke: string;
+    dashed?: boolean;
     fill?: string;
 }
 

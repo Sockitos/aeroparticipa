@@ -462,6 +462,7 @@ export const layerGroups: MapLayerGroup[] = [
         layers: [
             { id: 'rodo', label: 'Rodovia', url: 'layers/rodovia.json', style: new Style({ stroke: new Stroke({ color: '#000000', width: 2 }), }), stroke: '#000000', },
             { id: 'ferro', label: 'Ferrovia', url: 'layers/ferrovia.json', style: new Style({ stroke: new Stroke({ color: '#0000ff', width: 2 }), }), stroke: '#0000ff', },
+            { id: 'ferrop', label: 'Ferrovia prevista', url: 'layers/ferrovia_prev.json', style: new Style({ stroke: new Stroke({ color: '#0000ff', width: 2, lineDash: [5, 5], }), }), stroke: '#0000ff', dashed: true },
         ]
     },
     {
