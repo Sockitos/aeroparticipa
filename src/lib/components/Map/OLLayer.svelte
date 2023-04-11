@@ -1,5 +1,5 @@
 <script lang="ts">
-	import GeoJSON from 'ol/format/GeoJSON';
+	import TopoJSON from 'ol/format/TopoJSON';
 	import VectorLayer from 'ol/layer/Vector';
 	import VectorSource from 'ol/source/Vector';
 	import type { StyleLike } from 'ol/style/Style';
@@ -15,7 +15,7 @@
 	const vectorLayer = new VectorLayer({
 		source: new VectorSource({
 			url: url,
-			format: new GeoJSON()
+			format: new TopoJSON()
 		}),
 		visible: visiblity,
 		style: style
