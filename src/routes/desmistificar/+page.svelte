@@ -11,7 +11,9 @@
 <PageContainer>
 	<ol class="marker:text-blue-accent marker:font-bold list-decimal list-outside space-y-5">
 		<li>
-			<p class="pb-2">Portugal não tem capacidade económica para ter um grande aeroporto</p>
+			<p class="pb-2 font-bold">
+				Portugal não tem capacidade económica para ter um grande aeroporto
+			</p>
 			<p>
 				<b>Porquê um mito?</b> A posição geográfica de Portugal torna essencial a sua ligação por via
 				aérea à Europa e ao mundo. O crescimento da economia portuguesa passa por uma maior integração
@@ -20,7 +22,7 @@
 			</p>
 		</li>
 		<li>
-			<p class="pb-2">
+			<p class="pb-2 font-bold">
 				O aeroporto internacional tem que ser localizado onde exista uma maior presença populacional
 			</p>
 			<p>
@@ -31,7 +33,7 @@
 			</p>
 		</li>
 		<li>
-			<p class="pb-2">
+			<p class="pb-2 font-bold">
 				O aeroporto é para chegar e partir da cidade de Lisboa e é mais atrativo quanto mais perto
 				estiver do centro da cidade
 			</p>
@@ -42,7 +44,7 @@
 			</p>
 		</li>
 		<li>
-			<p class="pb-2">
+			<p class="pb-2 font-bold">
 				As viagens aéreas devem ser substituídas por viagens em ferrovia por isso não vale a pena
 				aumentar a capacidade aeroportuária e sair do AHD
 			</p>
@@ -52,7 +54,7 @@
 			</p>
 		</li>
 		<li>
-			<p class="pb-2">O aeroporto tem que usar infraestruturas viárias existentes</p>
+			<p class="pb-2 font-bold">O aeroporto tem que usar infraestruturas viárias existentes</p>
 			<p>
 				<b>Porquê um mito?</b> Há diversas infraestruturas relevantes previstas no Plano Nacional de
 				Investimentos e no Plano Ferroviário Nacional que são compromissos nacionais e internacionais.
