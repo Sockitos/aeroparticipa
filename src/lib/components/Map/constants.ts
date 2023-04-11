@@ -96,7 +96,7 @@ export const options: MapOption[] = [
                 label: 'População Afetada pelo Ruído',
                 info: [
                     { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '~835000' }
+                    { label: 'População residente', value: '≈1293000' }
                 ]
             }
         ],
@@ -138,7 +138,7 @@ export const options: MapOption[] = [
                 label: 'População Afetada pelo Ruído',
                 info: [
                     { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '~835000' }
+                    { label: 'População residente', value: '≈1293000' }
                 ]
             }
         ],
@@ -180,7 +180,7 @@ export const options: MapOption[] = [
                 label: 'População Afetada pelo Ruído',
                 info: [
                     { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '~6000' }
+                    { label: 'População residente', value: '≈15000' }
                 ]
             }
         ],
@@ -222,7 +222,7 @@ export const options: MapOption[] = [
                 label: 'População Afetada pelo Ruído',
                 info: [
                     { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '~607500' }
+                    { label: 'População residente', value: '≈1041500' }
                 ]
             }
         ],
@@ -264,7 +264,7 @@ export const options: MapOption[] = [
                 label: 'População Afetada pelo Ruído',
                 info: [
                     { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '~13200' }
+                    { label: 'População residente', value: '≈21200' }
                 ]
             }
         ],
@@ -306,7 +306,7 @@ export const options: MapOption[] = [
                 label: 'População Afetada pelo Ruído',
                 info: [
                     { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '~604000' }
+                    { label: 'População residente', value: '≈647500' }
                 ]
             }
         ],
@@ -348,7 +348,7 @@ export const options: MapOption[] = [
                 label: 'População Afetada pelo Ruído',
                 info: [
                     { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '~862000' }
+                    { label: 'População residente', value: '≈1312500' }
                 ]
             }
         ],
@@ -392,7 +392,7 @@ export const options: MapOption[] = [
                 label: 'População Afetada pelo Ruído',
                 info: [
                     { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '~5000' }
+                    { label: 'População residente', value: '≈7700' }
                 ]
             }
         ],
@@ -434,7 +434,7 @@ export const options: MapOption[] = [
                 label: 'População Afetada pelo Ruído',
                 info: [
                     { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '~54000' }
+                    { label: 'População residente', value: '≈70000' }
                 ],
 
             }
