@@ -95,8 +95,8 @@ export const options: MapOption[] = [
             {
                 label: 'População Afetada pelo Ruído',
                 info: [
-                    { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '≈1293000' }
+                    { label: 'População total', value: '≈1293000' },
+                    { label: 'População residente', value: '≈835000' }
                 ]
             }
         ],
@@ -137,8 +137,8 @@ export const options: MapOption[] = [
             {
                 label: 'População Afetada pelo Ruído',
                 info: [
-                    { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '≈1293000' }
+                    { label: 'População total', value: '≈1293000' },
+                    { label: 'População residente', value: '≈835000' }
                 ]
             }
         ],
@@ -179,8 +179,8 @@ export const options: MapOption[] = [
             {
                 label: 'População Afetada pelo Ruído',
                 info: [
-                    { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '≈15000' }
+                    { label: 'População total', value: '≈15000' },
+                    { label: 'População residente', value: '≈6000' }
                 ]
             }
         ],
@@ -221,8 +221,8 @@ export const options: MapOption[] = [
             {
                 label: 'População Afetada pelo Ruído',
                 info: [
-                    { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '≈1041500' }
+                    { label: 'População total', value: '≈1041500' },
+                    { label: 'População residente', value: '≈607500' }
                 ]
             }
         ],
@@ -263,8 +263,8 @@ export const options: MapOption[] = [
             {
                 label: 'População Afetada pelo Ruído',
                 info: [
-                    { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '≈21200' }
+                    { label: 'População total', value: '≈21200' },
+                    { label: 'População residente', value: '≈13200' }
                 ]
             }
         ],
@@ -305,8 +305,8 @@ export const options: MapOption[] = [
             {
                 label: 'População Afetada pelo Ruído',
                 info: [
-                    { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '≈647500' }
+                    { label: 'População total', value: '≈647500' },
+                    { label: 'População residente', value: '≈604000' }
                 ]
             }
         ],
@@ -347,8 +347,8 @@ export const options: MapOption[] = [
             {
                 label: 'População Afetada pelo Ruído',
                 info: [
-                    { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '≈1312500' }
+                    { label: 'População total', value: '≈1312500' },
+                    { label: 'População residente', value: '≈862000' }
                 ]
             }
         ],
@@ -357,8 +357,6 @@ export const options: MapOption[] = [
         ],
         aeros: [2, 6],
     },
-
-
     {
         id: 8,
         label: 'Beja',
@@ -391,8 +389,8 @@ export const options: MapOption[] = [
             {
                 label: 'População Afetada pelo Ruído',
                 info: [
-                    { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '≈7700' }
+                    { label: 'População total', value: '≈7700' },
+                    { label: 'População residente', value: '≈5000' }
                 ]
             }
         ],
@@ -433,8 +431,8 @@ export const options: MapOption[] = [
             {
                 label: 'População Afetada pelo Ruído',
                 info: [
-                    { label: 'População total', value: 'Em Análise' },
-                    { label: 'População residente', value: '≈70000' }
+                    { label: 'População total', value: '≈70000' },
+                    { label: 'População residente', value: '≈54000' }
                 ],
 
             }
