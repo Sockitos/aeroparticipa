@@ -4,7 +4,6 @@
 	import AccordionItem from './Accordion/AccordionItem.svelte';
 	import OlLayer from './OLLayer.svelte';
 	import OlMap from './OLMap.svelte';
-	import OlMarker from './OLMarker.svelte';
 	import PlaneLayer from './PlaneLayer.svelte';
 	import { icons, layerGroups, options } from './constants';
 	import type { MapOption } from './types';
@@ -17,7 +16,7 @@
 	let selectedOption: MapOption | undefined;
 	let selectedLayers: string[] = [];
 	let selectedOLayers: string[] = [];
-	let voteCoords: Coordinate | undefined;
+	// let voteCoords: Coordinate | undefined;
 	let expandedPanel: string | undefined;
 
 	$: if (expandedPanel == 'options') selectedOption = undefined;
@@ -36,9 +35,9 @@
 			{/each}
 		{/if}
 		<PlaneLayer aerosIds={selectedOption?.aeros} />
-		<OlMarker bind:coords={voteCoords} />
+		<!-- <OlMarker bind:coords={voteCoords} /> -->
 	</OlMap>
-	<div
+	<!-- <div
 		class="absolute z-10 right-0 bottom-5 w-64 bg-blue-light p-4 flex flex-col space-y-2 rounded-l-2xl"
 	>
 		<span class="text-xl font-bold text-white">Quer sugerir outra opção estratégica viável?</span>
@@ -74,7 +73,7 @@
 				{/if}
 			</span>
 		</div>
-	</div>
+	</div> -->
 	<div class="absolute z-10 top-0 md:top-[10%] w-[26rem] max-w-full">
 		<Accordion bind:expanded={expandedPanel}>
 			<AccordionItem label={'Visualização'} key={'visualizations'}>
