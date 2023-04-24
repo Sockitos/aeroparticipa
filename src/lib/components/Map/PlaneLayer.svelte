@@ -16,6 +16,7 @@
 		(a) =>
 			new Feature({
 				id: a.id,
+				suggestion: a.suggestion,
 				geometry: a.coords,
 				name: a.label,
 				offsetX: a.offsetX,
@@ -30,7 +31,7 @@
 		return show
 			? new Style({
 					image: new Icon({
-						src: 'svgs/plane.svg',
+						src: feature.getProperties().suggestion ? 'svgs/plane_alt.svg' : 'svgs/plane.svg',
 						height: 50
 					}),
 					text: new TextStyle({

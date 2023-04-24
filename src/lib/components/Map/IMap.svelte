@@ -5,7 +5,7 @@
 	import OlLayer from './OLLayer.svelte';
 	import OlMap from './OLMap.svelte';
 	import PlaneLayer from './PlaneLayer.svelte';
-	import { icons, layerGroups, options } from './constants';
+	import { extraOptions, icons, layerGroups, options } from './constants';
 	import type { MapOption } from './types';
 
 	const email = 'andresilva_ctina@lnec.pt';
@@ -19,7 +19,7 @@
 	// let voteCoords: Coordinate | undefined;
 	let expandedPanel: string | undefined;
 
-	$: if (expandedPanel == 'options') selectedOption = undefined;
+	$: if (expandedPanel == 'options' || expandedPanel == 'extra-options') selectedOption = undefined;
 </script>
 
 <div class="h-screen min-h-[50rem] relative">
@@ -166,7 +166,34 @@
 					</div>
 				</div>
 			</AccordionItem>
-			{#if selectedOption}
+			<AccordionItem label={'Opções adicionadas'} key={'extra-options'}
+				>{#each extraOptions as o}
+					<button
+						on:click={() => {
+							selectedOption = o;
+						}}
+						class="flex flex-row space-x-3 items-center px-2"
+					>
+						<div class="inline-flex flex-row">
+							{#if o.isDual}
+								<div class="relative h-8 w-8 rounded-full border-2 border-blue-light" />
+							{/if}
+							<div class="relative p-2 ml-2 mr-1'} bg-white rounded-full">
+								<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25.87 25.96" class="h-4"
+									><path
+										d="M25.36,.51c-.61-.61-1.67-.67-3.07-.17-.96,.34-1.96,.92-2.44,1.4l-2.56,2.56h-3.59s-1.06-1.05-1.06-1.05l-1.06,1.06-11.58,.02v3.88l9.77,3.61-1.5,1.5-4.82,.28L.09,16.96l5.23,2.52-2.16,2.16,1.07,1.07,2.15-2.15,2.52,5.22,3.37-3.37,.28-4.82,1.44-1.44,3.62,9.79h3.88l.02-11.6,1.12-1.12-1.07-1.07-.04,.04v-3.57s2.62-2.61,2.62-2.61c.48-.48,1.06-1.49,1.4-2.44,.5-1.39,.44-2.45-.17-3.07ZM1.52,7.15v-1.31l14.26-.02-4.82,4.82L1.52,7.15ZM19.98,24.44h-1.31l-3.49-9.46,4.83-4.83-.02,14.29ZM24.11,3.07c-.29,.81-.77,1.61-1.05,1.88l-11.99,11.99-.28,4.82-1.45,1.45-1.83-3.78,1.32-1.32-1.07-1.07-1.32,1.32-3.78-1.82,1.45-1.45,4.82-.28L20.92,2.81c.28-.28,1.08-.76,1.88-1.05,.92-.33,1.4-.26,1.48-.18,.08,.08,.15,.57-.18,1.48Z"
+										style="fill:#0b3b9b;"
+									/>
+								</svg>
+							</div>
+						</div>
+
+						<span class="text-xl">{o.label}</span>
+					</button>
+				{/each}
+				<div class="pb-5" />
+			</AccordionItem>
+			{#if selectedOption && !selectedOption.isSuggestion}
 				<AccordionItem label={selectedOption.label} key={'selected-option-' + selectedOption.id}>
 					{#each selectedOption.info as infoGroup}
 						<div class="pr-10">

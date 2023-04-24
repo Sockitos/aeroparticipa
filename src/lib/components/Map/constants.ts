@@ -17,9 +17,9 @@ export const aeros: MapAero[] = [
         id: 2,
         coords: new Point(transform([-9.031448, 38.869207], 'EPSG:4326', 'EPSG:3857')),
         label: 'Alverca',
-        offsetX: -35,
+        offsetX: 35,
         textBaseline: 'middle',
-        textAlign: 'right'
+        textAlign: 'left'
     },
     {
         id: 3,
@@ -53,9 +53,72 @@ export const aeros: MapAero[] = [
         textAlign: 'right'
     },
     {
-        id: 7,
-        coords: new Point(transform([-8.617701, 39.362707], 'EPSG:4326', 'EPSG:3857')),
-        label: 'Santarém',
+        id: 8,
+        suggestion: true,
+        coords: new Point([-1017629.9014061426, 4658324.456465526]),
+        label: 'Apostiça',
+        offsetX: -35,
+        textBaseline: 'middle',
+        textAlign: 'right'
+    },
+    {
+        id: 9,
+        suggestion: true,
+        coords: new Point([-986362.4175, 4676435.054]),
+        label: 'Rio Frio',
+        offsetX: 35,
+        textBaseline: 'middle',
+        textAlign: 'left'
+    },
+    {
+        id: 10,
+        suggestion: true,
+        coords: new Point([-983433.8448280608, 4667920.736831997]),
+        label: 'Poceirão',
+        offsetX: 35,
+        textBaseline: 'middle',
+        textAlign: 'left'
+    },
+    {
+        id: 11,
+        suggestion: true,
+        coords: new Point([-887954.8327, 4662520.235]),
+        label: 'Évora',
+        offsetX: 35,
+        textBaseline: 'middle',
+        textAlign: 'left'
+    },
+    {
+        id: 12,
+        suggestion: true,
+        coords: new Point([-999103.924, 4731855.097]),
+        label: 'Ota',
+        offsetX: 35,
+        textBaseline: 'middle',
+        textAlign: 'left'
+    },
+    {
+        id: 13,
+        suggestion: true,
+        coords: new Point([-1039956.9300944024, 4697851.979644676]),
+        label: 'Sintra',
+        offsetY: -25,
+        textBaseline: 'bottom'
+    },
+    {
+        id: 14,
+        suggestion: true,
+        coords: new Point([-929269.6430242907, 4793533.030679625]),
+        label: 'Tancos',
+        offsetX: 35,
+        textBaseline: 'middle',
+        textAlign: 'left'
+    },
+    {
+        id: 15,
+        suggestion: true,
+        coords: new Point([-950864.1839095966, 4672178.067326235]),
+        label: 'Pegões',
         offsetX: 35,
         textBaseline: 'middle',
         textAlign: 'left'
@@ -93,10 +156,9 @@ export const options: MapOption[] = [
                 ]
             },
             {
-                label: 'População Afetada pelo Ruído',
+                label: 'População Potencialmente Vulnerável ao Ruído',
                 info: [
-                    { label: 'População total', value: '≈1293000' },
-                    { label: 'População residente', value: '≈835000' }
+                    { label: 'População residente', value: '≈713000' }
                 ]
             }
         ],
@@ -135,10 +197,9 @@ export const options: MapOption[] = [
                 ]
             },
             {
-                label: 'População Afetada pelo Ruído',
+                label: 'População Potencialmente Vulnerável ao Ruído',
                 info: [
-                    { label: 'População total', value: '≈1293000' },
-                    { label: 'População residente', value: '≈835000' }
+                    { label: 'População residente', value: '≈7130000' }
                 ]
             }
         ],
@@ -177,10 +238,9 @@ export const options: MapOption[] = [
                 ]
             },
             {
-                label: 'População Afetada pelo Ruído',
+                label: 'População Potencialmente Vulnerável ao Ruído',
                 info: [
-                    { label: 'População total', value: '≈15000' },
-                    { label: 'População residente', value: '≈6000' }
+                    { label: 'População residente', value: '≈5500' }
                 ]
             }
         ],
@@ -219,10 +279,9 @@ export const options: MapOption[] = [
                 ]
             },
             {
-                label: 'População Afetada pelo Ruído',
+                label: 'População Potencialmente Vulnerável ao Ruído',
                 info: [
-                    { label: 'População total', value: '≈1041500' },
-                    { label: 'População residente', value: '≈607500' }
+                    { label: 'População residente', value: '≈567000' }
                 ]
             }
         ],
@@ -261,10 +320,9 @@ export const options: MapOption[] = [
                 ]
             },
             {
-                label: 'População Afetada pelo Ruído',
+                label: 'População Potencialmente Vulnerável ao Ruído',
                 info: [
-                    { label: 'População total', value: '≈21200' },
-                    { label: 'População residente', value: '≈13200' }
+                    { label: 'População residente', value: '≈11000' }
                 ]
             }
         ],
@@ -303,10 +361,9 @@ export const options: MapOption[] = [
                 ]
             },
             {
-                label: 'População Afetada pelo Ruído',
+                label: 'População Potencialmente Vulnerável ao Ruído',
                 info: [
-                    { label: 'População total', value: '≈647500' },
-                    { label: 'População residente', value: '≈604000' }
+                    { label: 'População residente', value: '≈564000' }
                 ]
             }
         ],
@@ -345,10 +402,9 @@ export const options: MapOption[] = [
                 ]
             },
             {
-                label: 'População Afetada pelo Ruído',
+                label: 'População Potencialmente Vulnerável ao Ruído',
                 info: [
-                    { label: 'População total', value: '≈1312500' },
-                    { label: 'População residente', value: '≈862000' }
+                    { label: 'População residente', value: '≈762000' }
                 ]
             }
         ],
@@ -387,10 +443,9 @@ export const options: MapOption[] = [
                 ]
             },
             {
-                label: 'População Afetada pelo Ruído',
+                label: 'População Potencialmente Vulnerável ao Ruído',
                 info: [
-                    { label: 'População total', value: '≈7700' },
-                    { label: 'População residente', value: '≈5000' }
+                    { label: 'População residente', value: '≈4500' }
                 ]
             }
         ],
@@ -429,10 +484,9 @@ export const options: MapOption[] = [
                 ]
             },
             {
-                label: 'População Afetada pelo Ruído',
+                label: 'População Potencialmente Vulnerável ao Ruído',
                 info: [
-                    { label: 'População total', value: '≈70000' },
-                    { label: 'População residente', value: '≈54000' }
+                    { label: 'População residente', value: '≈49000' }
                 ],
 
             }
@@ -441,6 +495,89 @@ export const options: MapOption[] = [
             { id: 'ca9', label: 'Cones de Aproximação', url: 'layers/cones9.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), stroke: 'rgba(50, 50, 50, 1)', fill: 'rgba(50, 50, 50, 0.2)' },
         ],
         aeros: [4],
+    }
+];
+
+export const extraOptions: MapOption[] = [
+    {
+        id: 9,
+        label: 'Apostiça',
+        isDual: false,
+        isOfficial: false,
+        isSuggestion: true,
+        info: [],
+        layers: [],
+        aeros: [8],
+    },
+    {
+        id: 10,
+        label: 'Rio Frio',
+        isDual: false,
+        isOfficial: false,
+        isSuggestion: true,
+        info: [],
+        layers: [],
+        aeros: [9],
+    },
+    {
+        id: 11,
+        label: 'Poceirão',
+        isDual: false,
+        isOfficial: false,
+        isSuggestion: true,
+        info: [],
+        layers: [],
+        aeros: [10],
+    },
+    {
+        id: 12,
+        label: 'Évora',
+        isDual: false,
+        isOfficial: false,
+        isSuggestion: true,
+        info: [],
+        layers: [],
+        aeros: [11],
+    },
+    {
+        id: 13,
+        label: 'Ota',
+        isDual: false,
+        isOfficial: false,
+        isSuggestion: true,
+        info: [],
+        layers: [],
+        aeros: [12],
+    },
+    {
+        id: 14,
+        label: 'Sintra',
+        isDual: false,
+        isOfficial: false,
+        isSuggestion: true,
+        info: [],
+        layers: [],
+        aeros: [13],
+    },
+    {
+        id: 15,
+        label: 'Tancos',
+        isDual: false,
+        isOfficial: false,
+        isSuggestion: true,
+        info: [],
+        layers: [],
+        aeros: [14],
+    },
+    {
+        id: 16,
+        label: 'Pegões',
+        isDual: false,
+        isOfficial: false,
+        isSuggestion: true,
+        info: [],
+        layers: [],
+        aeros: [15],
     }
 ];
 
@@ -478,5 +615,5 @@ export const icons = new Map<string, string>([
     ['Ferrovia', '<path d="M16.98,0H7.02C4.5,0,2.46,2.04,2.46,4.56v11.44c0,2.52,2.04,4.56,4.56,4.56h9.95c2.52,0,4.56-2.04,4.56-4.56V4.56c0-2.52-2.04-4.56-4.56-4.56ZM6.19,17.28c-.73,0-1.33-.6-1.33-1.33s.6-1.33,1.33-1.33,1.33,.6,1.33,1.33-.6,1.33-1.33,1.33Zm4.98-8.06c0,.62-.51,1.13-1.13,1.13H5.58c-.62,0-1.13-.51-1.13-1.13v-2.83c0-.61,.5-1.11,1.11-1.11h4.49c.61,0,1.11,.5,1.11,1.11v2.83Zm-.5-6.9c0-.73,.6-1.33,1.33-1.33s1.33,.6,1.33,1.33-.6,1.33-1.33,1.33-1.33-.6-1.33-1.33Zm7.14,14.97c-.73,0-1.33-.6-1.33-1.33s.6-1.33,1.33-1.33,1.33,.6,1.33,1.33-.6,1.33-1.33,1.33Zm1.73-8.06c0,.62-.51,1.13-1.13,1.13h-4.45c-.62,0-1.13-.51-1.13-1.13v-2.83c0-.61,.5-1.11,1.11-1.11h4.49c.61,0,1.11,.5,1.11,1.11v2.83Z"/><rect x="7.81" y="22.18" width="8.76" height="1.82"/>'],
     ['Rodovia (nas principais vias)', '<path d="M23.3,12.24l-1.06-2.09h.62c.51,0,.92-.41,.92-.92s-.41-.92-.92-.92h-1.44l-1.64-5.42c-.36-1.18-1.42-1.97-2.65-1.97H6.88c-1.23,0-2.29,.79-2.65,1.97l-1.64,5.42H1.15c-.51,0-.92,.41-.92,.92s.41,.92,.92,.92h.61l-1.06,2.09c-.46,.9-.7,1.92-.7,2.93v2.37c0,1.52,1.25,2.77,2.77,2.77v.92c0,1.02,.83,1.85,1.85,1.85s1.85-.83,1.85-1.85v-.92h11.08v.92c0,1.02,.83,1.85,1.85,1.85s1.85-.83,1.85-1.85v-.92c.71,0,1.36-.27,1.85-.71,.57-.51,.92-1.24,.92-2.06v-2.36c0-1.01-.24-2.03-.7-2.93ZM5.13,14.77H2.9c-.51,0-.92-.41-.92-.92s.41-.92,.92-.92h2.24c.51,0,.92,.41,.92,.92s-.41,.92-.92,.92Zm.62-6.46c-.62,0-1.06-.6-.88-1.19l1.12-3.69c.12-.39,.48-.66,.88-.66h10.25c.41,0,.77,.27,.88,.66l1.12,3.69c.18,.59-.27,1.19-.88,1.19H5.76Zm10.86,10.15H7.38c-.51,0-.92-.41-.92-.92v-.14c0-.94,.76-1.7,1.7-1.7h7.53c1.02,0,1.85,.83,1.85,1.85,0,.51-.41,.92-.92,.92Zm4.57-3.69h-2.32c-.51,0-.92-.41-.92-.92s.41-.92,.92-.92h2.32c.51,0,.92,.41,.92,.92s-.41,.92-.92,.92Z"/>'],
     ['Aeroporto', '<path d="M23.49,.47c-.57-.57-1.55-.62-2.84-.16-.89,.32-1.82,.85-2.26,1.29l-2.37,2.37h-3.32s-.98-.97-.98-.97l-.98,.98L.04,4v3.59l9.03,3.34-1.39,1.39-4.45,.26L.12,15.68l4.83,2.33-1.99,1.99,.99,.99,1.99-1.99,2.33,4.83,3.11-3.11,.26-4.45,1.33-1.33,3.34,9.05h3.59l.02-10.73,1.04-1.04-.99-.99-.04,.04v-3.3s2.42-2.42,2.42-2.42c.44-.44,.98-1.37,1.29-2.26,.46-1.29,.41-2.27-.16-2.84ZM1.44,6.61v-1.21l13.18-.02-4.46,4.46L1.44,6.61Zm17.07,15.99h-1.21l-3.23-8.74,4.47-4.47-.02,13.21Zm-8.23-6.94l-.26,4.45-1.34,1.34-1.69-3.5,1.22-1.22-.99-.99-1.22,1.22-3.5-1.69,1.34-1.34,4.45-.26L19.38,2.59c.26-.26,1-.7,1.74-.97,.85-.3,1.3-.24,1.37-.17,.07,.07,.14,.52-.17,1.37-.27,.75-.71,1.49-.97,1.74"/>'],
-    ['População Afetada pelo Ruído', '<path d="M11.84,21.04c-.36,0-.72-.11-1.04-.32-1.85-1.2-3.71-2.4-5.58-3.59-.03-.02-.13-.05-.23-.05-.87,0-1.32,0-1.92,0h-1.05C.72,17.07,0,16.37,0,15.09,0,13.02,0,10.96,0,8.9c0-1.22,.73-1.96,1.95-1.96h1.17c.56,0,1.02,0,1.85,0,.11,0,.22-.04,.27-.07,1.64-1.04,3.27-2.09,4.9-3.15l.68-.44c.59-.38,1.24-.42,1.83-.1,.62,.33,.96,.91,.96,1.61v14.06c0,.23,0,.37,0,.51-.05,.66-.42,1.23-.98,1.51-.24,.12-.51,.18-.78,.18ZM3.55,15.69c.41,0,.82,0,1.45,0,.34,0,.69,.1,.96,.27,1.87,1.19,3.73,2.39,5.59,3.59,.15,.1,.32,.12,.44,.06,.12-.06,.2-.19,.21-.37,0-.11,0-.21,0-.31V4.79c0-.2-.06-.3-.23-.39-.1-.05-.2-.09-.41,.04l-.68,.44c-1.63,1.05-3.27,2.11-4.9,3.15-.28,.18-.64,.28-1,.29-.84,0-1.31,0-1.87,0H1.95c-.45,0-.56,.11-.56,.57,0,2.06,0,4.12,0,6.19,0,.48,.07,.6,.62,.6h1.05c.17,0,.33,0,.49,0Z"/><path d="M24,12.53c-.19,3.12-1.81,5.85-5.15,7.46-.42,.2-.85,.23-1.25-.07-.35-.26-.48-.61-.43-1.04,.05-.43,.35-.64,.67-.86,.72-.49,1.52-.91,2.13-1.52,2.98-3,2.22-8.09-1.46-10.16-.25-.14-.51-.27-.75-.42-.59-.36-.77-.93-.48-1.47,.29-.53,.88-.72,1.49-.46,1.82,.78,3.18,2.08,4.14,3.8,.73,1.31,1.08,2.72,1.09,4.74Z"/><path d="M19.64,12.03c-.14,1.76-.88,3.14-2.52,3.92-.63,.3-1.2,.15-1.51-.37-.32-.52-.18-1.06,.4-1.49,.15-.11,.3-.21,.45-.31,1.35-.92,1.34-2.63-.01-3.55-.19-.13-.38-.25-.55-.4-.46-.39-.57-.9-.29-1.38,.28-.48,.83-.68,1.38-.46,1.45,.58,2.23,1.71,2.57,3.18,.06,.28,.07,.57,.11,.86Z"/>'],
+    ['População Potencialmente Vulnerável ao Ruído', '<path d="M11.84,21.04c-.36,0-.72-.11-1.04-.32-1.85-1.2-3.71-2.4-5.58-3.59-.03-.02-.13-.05-.23-.05-.87,0-1.32,0-1.92,0h-1.05C.72,17.07,0,16.37,0,15.09,0,13.02,0,10.96,0,8.9c0-1.22,.73-1.96,1.95-1.96h1.17c.56,0,1.02,0,1.85,0,.11,0,.22-.04,.27-.07,1.64-1.04,3.27-2.09,4.9-3.15l.68-.44c.59-.38,1.24-.42,1.83-.1,.62,.33,.96,.91,.96,1.61v14.06c0,.23,0,.37,0,.51-.05,.66-.42,1.23-.98,1.51-.24,.12-.51,.18-.78,.18ZM3.55,15.69c.41,0,.82,0,1.45,0,.34,0,.69,.1,.96,.27,1.87,1.19,3.73,2.39,5.59,3.59,.15,.1,.32,.12,.44,.06,.12-.06,.2-.19,.21-.37,0-.11,0-.21,0-.31V4.79c0-.2-.06-.3-.23-.39-.1-.05-.2-.09-.41,.04l-.68,.44c-1.63,1.05-3.27,2.11-4.9,3.15-.28,.18-.64,.28-1,.29-.84,0-1.31,0-1.87,0H1.95c-.45,0-.56,.11-.56,.57,0,2.06,0,4.12,0,6.19,0,.48,.07,.6,.62,.6h1.05c.17,0,.33,0,.49,0Z"/><path d="M24,12.53c-.19,3.12-1.81,5.85-5.15,7.46-.42,.2-.85,.23-1.25-.07-.35-.26-.48-.61-.43-1.04,.05-.43,.35-.64,.67-.86,.72-.49,1.52-.91,2.13-1.52,2.98-3,2.22-8.09-1.46-10.16-.25-.14-.51-.27-.75-.42-.59-.36-.77-.93-.48-1.47,.29-.53,.88-.72,1.49-.46,1.82,.78,3.18,2.08,4.14,3.8,.73,1.31,1.08,2.72,1.09,4.74Z"/><path d="M19.64,12.03c-.14,1.76-.88,3.14-2.52,3.92-.63,.3-1.2,.15-1.51-.37-.32-.52-.18-1.06,.4-1.49,.15-.11,.3-.21,.45-.31,1.35-.92,1.34-2.63-.01-3.55-.19-.13-.38-.25-.55-.4-.46-.39-.57-.9-.29-1.38,.28-.48,.83-.68,1.38-.46,1.45,.58,2.23,1.71,2.57,3.18,.06,.28,.07,.57,.11,.86Z"/>'],
 ]);
