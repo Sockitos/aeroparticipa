@@ -53,6 +53,14 @@ export const aeros: MapAero[] = [
         textAlign: 'right'
     },
     {
+        id: 7,
+        coords: new Point(transform([-8.617701, 39.362707], 'EPSG:4326', 'EPSG:3857')),
+        label: 'Santarém',
+        offsetX: 28,
+        textBaseline: 'middle',
+        textAlign: 'left',
+    },
+    {
         id: 8,
         suggestion: true,
         coords: new Point([-1017629.9014061426, 4658324.456465526]),
