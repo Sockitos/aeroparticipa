@@ -32,11 +32,11 @@
 			? new Style({
 					image: new Icon({
 						src: feature.getProperties().suggestion ? 'svgs/plane_alt.svg' : 'svgs/plane.svg',
-						height: 50
+						height: 36
 					}),
 					text: new TextStyle({
 						text: feature.getProperties().name,
-						font: 'bold 2rem Sofia-Sans,sans-serif',
+						font: 'bold 1.5rem Sofia-Sans,sans-serif',
 						fill: new Fill({
 							color: '#0b3b9b'
 						}),

@@ -9,7 +9,7 @@ export const aeros: MapAero[] = [
         id: 1,
         coords: new Point(transform([-8.732431991246143, 38.7762478658769], 'EPSG:4326', 'EPSG:3857')),
         label: 'Alcochete',
-        offsetX: 35,
+        offsetX: 28,
         textBaseline: 'middle',
         textAlign: 'left'
     },
@@ -17,7 +17,7 @@ export const aeros: MapAero[] = [
         id: 2,
         coords: new Point(transform([-9.031448, 38.869207], 'EPSG:4326', 'EPSG:3857')),
         label: 'Alverca',
-        offsetX: 35,
+        offsetX: 28,
         textBaseline: 'middle',
         textAlign: 'left'
     },
@@ -25,7 +25,7 @@ export const aeros: MapAero[] = [
         id: 3,
         coords: new Point(transform([-7.930144, 38.078946], 'EPSG:4326', 'EPSG:3857')),
         label: 'Beja',
-        offsetX: -35,
+        offsetX: -28,
         textBaseline: 'middle',
         textAlign: 'right'
     },
@@ -33,7 +33,7 @@ export const aeros: MapAero[] = [
         id: 4,
         coords: new Point(transform([-8.888024, 39.829927], 'EPSG:4326', 'EPSG:3857')),
         label: 'Monte Real',
-        offsetX: 35,
+        offsetX: 28,
         textBaseline: 'middle',
         textAlign: 'left'
     },
@@ -41,14 +41,14 @@ export const aeros: MapAero[] = [
         id: 5,
         coords: new Point(transform([-9.033175, 38.710661], 'EPSG:4326', 'EPSG:3857')),
         label: 'Montijo',
-        offsetY: 25,
+        offsetY: 20,
         textBaseline: 'top'
     },
     {
         id: 6,
         coords: new Point(transform([-9.134984, 38.776773], 'EPSG:4326', 'EPSG:3857')),
         label: 'Portela',
-        offsetX: -35,
+        offsetX: -28,
         textBaseline: 'middle',
         textAlign: 'right'
     },
@@ -57,7 +57,7 @@ export const aeros: MapAero[] = [
         suggestion: true,
         coords: new Point([-1017629.9014061426, 4658324.456465526]),
         label: 'Apostiça',
-        offsetX: -35,
+        offsetX: -28,
         textBaseline: 'middle',
         textAlign: 'right'
     },
@@ -66,7 +66,7 @@ export const aeros: MapAero[] = [
         suggestion: true,
         coords: new Point([-986362.4175, 4676435.054]),
         label: 'Rio Frio',
-        offsetX: 35,
+        offsetX: 28,
         textBaseline: 'middle',
         textAlign: 'left'
     },
@@ -75,16 +75,15 @@ export const aeros: MapAero[] = [
         suggestion: true,
         coords: new Point([-983433.8448280608, 4667920.736831997]),
         label: 'Poceirão',
-        offsetX: 35,
-        textBaseline: 'middle',
-        textAlign: 'left'
+        offsetY: 20,
+        textBaseline: 'top'
     },
     {
         id: 11,
         suggestion: true,
         coords: new Point([-887954.8327, 4662520.235]),
         label: 'Évora',
-        offsetX: 35,
+        offsetX: 28,
         textBaseline: 'middle',
         textAlign: 'left'
     },
@@ -93,7 +92,7 @@ export const aeros: MapAero[] = [
         suggestion: true,
         coords: new Point([-999103.924, 4731855.097]),
         label: 'Ota',
-        offsetX: 35,
+        offsetX: 28,
         textBaseline: 'middle',
         textAlign: 'left'
     },
@@ -102,7 +101,7 @@ export const aeros: MapAero[] = [
         suggestion: true,
         coords: new Point([-1039956.9300944024, 4697851.979644676]),
         label: 'Sintra',
-        offsetY: -25,
+        offsetY: -20,
         textBaseline: 'bottom'
     },
     {
@@ -110,7 +109,7 @@ export const aeros: MapAero[] = [
         suggestion: true,
         coords: new Point([-929269.6430242907, 4793533.030679625]),
         label: 'Tancos',
-        offsetX: 35,
+        offsetX: 28,
         textBaseline: 'middle',
         textAlign: 'left'
     },
@@ -119,7 +118,7 @@ export const aeros: MapAero[] = [
         suggestion: true,
         coords: new Point([-950864.1839095966, 4672178.067326235]),
         label: 'Pegões',
-        offsetX: 35,
+        offsetX: 28,
         textBaseline: 'middle',
         textAlign: 'left'
     }
