@@ -150,8 +150,8 @@ export const options: MapOption[] = [
             {
                 label: 'Rodovia (nas principais vias)',
                 info: [
-                    { label: 'Distância a Lisboa', value: '26 km' },
-                    { label: 'Tempo a Lisboa', value: '30 mins' }
+                    { label: 'Distância a Lisboa', value: '37 km' },
+                    { label: 'Tempo a Lisboa', value: '36 mins' }
                 ]
             },
             {
@@ -191,8 +191,8 @@ export const options: MapOption[] = [
             {
                 label: 'Rodovia (nas principais vias)',
                 info: [
-                    { label: 'Distância a Lisboa', value: '26 km' },
-                    { label: 'Tempo a Lisboa', value: '30 mins' }
+                    { label: 'Distância a Lisboa', value: '37 km' },
+                    { label: 'Tempo a Lisboa', value: '36 mins' }
                 ]
             },
             {
@@ -232,7 +232,7 @@ export const options: MapOption[] = [
             {
                 label: 'Rodovia (nas principais vias)',
                 info: [
-                    { label: 'Distância a Lisboa', value: '38 km' },
+                    { label: 'Distância a Lisboa', value: '42 km' },
                     { label: 'Tempo a Lisboa', value: '39 mins' }
                 ]
             },
@@ -355,7 +355,7 @@ export const options: MapOption[] = [
             {
                 label: 'Rodovia (nas principais vias)',
                 info: [
-                    { label: 'Distância a Lisboa', value: '38 km' },
+                    { label: 'Distância a Lisboa', value: '42 km' },
                     { label: 'Tempo a Lisboa', value: '39 mins' }
                 ]
             },
@@ -389,7 +389,7 @@ export const options: MapOption[] = [
                 label: 'Ferrovia',
                 info: [
                     { label: 'Frequência num sentido', value: '93 mov/dia' },
-                    { label: 'Tempo a Lisboa (atual)', value: '10 mins' },
+                    { label: 'Tempo a Lisboa (atual)', value: '11 mins' },
                     { label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: '10 mins' }
                 ]
             },
@@ -437,7 +437,7 @@ export const options: MapOption[] = [
             {
                 label: 'Rodovia (nas principais vias)',
                 info: [
-                    { label: 'Distância a Lisboa', value: '174 km' },
+                    { label: 'Distância a Lisboa', value: '172 km' },
                     { label: 'Tempo a Lisboa', value: '1h 40 mins' }
                 ]
             },
@@ -478,7 +478,7 @@ export const options: MapOption[] = [
             {
                 label: 'Rodovia (nas principais vias)',
                 info: [
-                    { label: 'Distância a Lisboa', value: '155 km' },
+                    { label: 'Distância a Lisboa', value: '150 km' },
                     { label: 'Tempo a Lisboa', value: '1h 47 mins' }
                 ]
             },
