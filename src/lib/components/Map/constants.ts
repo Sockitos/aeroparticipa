@@ -8,44 +8,20 @@ export const aeros: MapAero[] = [
     {
         id: 1,
         coords: new Point(transform([-8.732431991246143, 38.7762478658769], 'EPSG:4326', 'EPSG:3857')),
-        label: 'Alcochete',
+        label: 'CT Alcochete',
         offsetX: 28,
         textBaseline: 'middle',
         textAlign: 'left'
     },
     {
         id: 2,
-        coords: new Point(transform([-9.031448, 38.869207], 'EPSG:4326', 'EPSG:3857')),
-        label: 'Alverca',
-        offsetX: 28,
-        textBaseline: 'middle',
-        textAlign: 'left'
-    },
-    {
-        id: 3,
-        coords: new Point(transform([-7.930144, 38.078946], 'EPSG:4326', 'EPSG:3857')),
-        label: 'Beja',
-        offsetX: -28,
-        textBaseline: 'middle',
-        textAlign: 'right'
-    },
-    {
-        id: 4,
-        coords: new Point(transform([-8.888024, 39.829927], 'EPSG:4326', 'EPSG:3857')),
-        label: 'Monte Real',
-        offsetX: 28,
-        textBaseline: 'middle',
-        textAlign: 'left'
-    },
-    {
-        id: 5,
         coords: new Point(transform([-9.033175, 38.710661], 'EPSG:4326', 'EPSG:3857')),
         label: 'Montijo',
         offsetY: 20,
         textBaseline: 'top'
     },
     {
-        id: 6,
+        id: 3,
         coords: new Point(transform([-9.134984, 38.776773], 'EPSG:4326', 'EPSG:3857')),
         label: 'Portela',
         offsetX: -28,
@@ -53,7 +29,7 @@ export const aeros: MapAero[] = [
         textAlign: 'right'
     },
     {
-        id: 7,
+        id: 4,
         coords: new Point(transform([-8.617701, 39.362707], 'EPSG:4326', 'EPSG:3857')),
         label: 'Santarém',
         offsetX: 28,
@@ -61,17 +37,7 @@ export const aeros: MapAero[] = [
         textAlign: 'left',
     },
     {
-        id: 8,
-        suggestion: true,
-        coords: new Point([-1017629.9014061426, 4658324.456465526]),
-        label: 'Apostiça',
-        offsetX: -28,
-        textBaseline: 'middle',
-        textAlign: 'right'
-    },
-    {
-        id: 9,
-        suggestion: true,
+        id: 5,
         coords: new Point([-986362.4175, 4676435.054]),
         label: 'Rio Frio',
         offsetX: 28,
@@ -79,53 +45,16 @@ export const aeros: MapAero[] = [
         textAlign: 'left'
     },
     {
-        id: 10,
-        suggestion: true,
+        id: 6,
         coords: new Point([-983433.8448280608, 4667920.736831997]),
         label: 'Poceirão',
         offsetY: 20,
         textBaseline: 'top'
     },
     {
-        id: 11,
-        suggestion: true,
-        coords: new Point([-887954.8327, 4662520.235]),
-        label: 'Évora',
-        offsetX: 28,
-        textBaseline: 'middle',
-        textAlign: 'left'
-    },
-    {
-        id: 12,
-        suggestion: true,
-        coords: new Point([-999103.924, 4731855.097]),
-        label: 'Ota',
-        offsetX: 28,
-        textBaseline: 'middle',
-        textAlign: 'left'
-    },
-    {
-        id: 13,
-        suggestion: true,
-        coords: new Point([-1039956.9300944024, 4697851.979644676]),
-        label: 'Sintra',
-        offsetY: -20,
-        textBaseline: 'bottom'
-    },
-    {
-        id: 14,
-        suggestion: true,
-        coords: new Point([-929269.6430242907, 4793533.030679625]),
-        label: 'Tancos',
-        offsetX: 28,
-        textBaseline: 'middle',
-        textAlign: 'left'
-    },
-    {
-        id: 15,
-        suggestion: true,
+        id: 7,
         coords: new Point([-950864.1839095966, 4672178.067326235]),
-        label: 'Pegões',
+        label: 'Vendas Novas / Pegões',
         offsetX: 28,
         textBaseline: 'middle',
         textAlign: 'left'
@@ -172,7 +101,7 @@ export const options: MapOption[] = [
         layers: [
             { id: 'ca3', label: 'Cones de Aproximação', url: 'layers/cones3-4.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), stroke: 'rgba(50, 50, 50, 1)', fill: 'rgba(50, 50, 50, 0.2)' },
         ],
-        aeros: [5, 6],
+        aeros: [2, 3],
     },
     {
         id: 2,
@@ -213,7 +142,7 @@ export const options: MapOption[] = [
         layers: [
             { id: 'ca4', label: 'Cones de Aproximação', url: 'layers/cones3-4.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), stroke: 'rgba(50, 50, 50, 1)', fill: 'rgba(50, 50, 50, 0.2)' },
         ],
-        aeros: [6, 5],
+        aeros: [3, 2],
     },
     {
         id: 3,
@@ -295,7 +224,7 @@ export const options: MapOption[] = [
         layers: [
             { id: 'ca2', label: 'Cones de Aproximação', url: 'layers/cones2.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), stroke: 'rgba(50, 50, 50, 1)', fill: 'rgba(50, 50, 50, 0.2)' },
         ],
-        aeros: [7, 6],
+        aeros: [3, 4],
     },
     {
         id: 5,
@@ -336,7 +265,7 @@ export const options: MapOption[] = [
         layers: [
             { id: 'ca1', label: 'Cones de Aproximação', url: 'layers/cones1.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), stroke: 'rgba(50, 50, 50, 1)', fill: 'rgba(50, 50, 50, 0.2)' },
         ],
-        aeros: [7],
+        aeros: [4],
     },
     {
         id: 6,
@@ -377,215 +306,125 @@ export const options: MapOption[] = [
         layers: [
             { id: 'ca7', label: 'Cones de Aproximação', url: 'layers/cones7.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), stroke: 'rgba(50, 50, 50, 1)', fill: 'rgba(50, 50, 50, 0.2)' },
         ],
-        aeros: [1, 6],
+        aeros: [1, 3],
     },
     {
         id: 7,
-        label: 'Alverca + Portela',
+        label: 'Portela + Vendas Novas / Pegões',
         isDual: true,
         isOfficial: false,
         info: [
             {
                 label: 'Ferrovia',
                 info: [
-                    { label: 'Frequência num sentido', value: '93 mov/dia' },
-                    { label: 'Tempo a Lisboa (atual)', value: '11 mins' },
-                    { label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: '10 mins' }
+                    { label: 'Frequência num sentido', value: 'Em Análise' },
+                    { label: 'Tempo a Lisboa (atual)', value: 'Em Análise' },
+                    { label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: 'Em Análise' }
                 ]
             },
             {
                 label: 'Rodovia (nas principais vias)',
                 info: [
-                    { label: 'Distância a Lisboa', value: '24 km' },
-                    { label: 'Tempo a Lisboa', value: '24 mins' }
+                    { label: 'Distância a Lisboa', value: 'Em Análise' },
+                    { label: 'Tempo a Lisboa', value: 'Em Análise' }
                 ]
             },
             {
                 label: 'Aeroporto',
                 info: [
-                    { label: 'Nº de pistas', value: '1+1' },
-                    { label: 'Capacidade de Movimentos / Hora', value: '30+20' },
-                    { label: 'Capacidade de Expansão', value: 'Não' }
+                    { label: 'Nº de pistas', value: 'Em Análise' },
+                    { label: 'Capacidade de Movimentos / Hora', value: 'Em Análise0' },
+                    { label: 'Capacidade de Expansão', value: 'Em Análise' }
                 ]
             },
             {
                 label: 'População Potencialmente Vulnerável ao Ruído',
                 info: [
-                    { label: 'População residente', value: '≈762000' }
+                    { label: 'População residente', value: 'Em Análise' }
                 ]
             }
         ],
-        layers: [
-            { id: 'ca5', label: 'Cones de Aproximação', url: 'layers/cones5.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), stroke: 'rgba(50, 50, 50, 1)', fill: 'rgba(50, 50, 50, 0.2)' },
-        ],
-        aeros: [2, 6],
+        layers: [],
+        aeros: [3, 7],
     },
     {
         id: 8,
-        label: 'Beja',
+        label: 'Vendas Novas / Pegões',
         isDual: false,
         isOfficial: false,
         info: [
             {
                 label: 'Ferrovia',
                 info: [
-                    { label: 'Frequência num sentido', value: '5 mov/dia' },
-                    { label: 'Tempo a Lisboa (atual)', value: '2h 13 mins' },
-                    { label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: '1h 25 mins' }
+                    { label: 'Frequência num sentido', value: 'Em Análise' },
+                    { label: 'Tempo a Lisboa (atual)', value: 'Em Análise' },
+                    { label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: 'Em Análise' }
                 ]
             },
             {
                 label: 'Rodovia (nas principais vias)',
                 info: [
-                    { label: 'Distância a Lisboa', value: '172 km' },
-                    { label: 'Tempo a Lisboa', value: '1h 40 mins' }
+                    { label: 'Distância a Lisboa', value: 'Em Análise' },
+                    { label: 'Tempo a Lisboa', value: 'Em Análise' }
                 ]
             },
             {
                 label: 'Aeroporto',
                 info: [
-                    { label: 'Nº de pistas', value: '2' },
-                    { label: 'Capacidade de Movimentos / Hora', value: '80' },
-                    { label: 'Capacidade de Expansão', value: 'Sim (até 4)' }
+                    { label: 'Nº de pistas', value: 'Em Análise' },
+                    { label: 'Capacidade de Movimentos / Hora', value: 'Em Análise' },
+                    { label: 'Capacidade de Expansão', value: 'Em Análise' }
                 ]
             },
             {
                 label: 'População Potencialmente Vulnerável ao Ruído',
                 info: [
-                    { label: 'População residente', value: '≈4500' }
+                    { label: 'População residente', value: 'Em Análise' }
                 ]
             }
         ],
-        layers: [
-            { id: 'ca8', label: 'Cones de Aproximação', url: 'layers/cones8.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), stroke: 'rgba(50, 50, 50, 1)', fill: 'rgba(50, 50, 50, 0.2)' },
-        ],
-        aeros: [3],
+        layers: [],
+        aeros: [7],
     },
     {
         id: 9,
-        label: 'Monte Real',
+        label: 'Rio Frio / Poceirão',
         isDual: false,
         isOfficial: false,
         info: [
             {
                 label: 'Ferrovia',
                 info: [
-                    { label: 'Frequência num sentido', value: '6 mov/dia' },
-                    { label: 'Tempo a Lisboa (atual)', value: '3h 16 mins' },
-                    { label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: '45 mins' }
+                    { label: 'Frequência num sentido', value: 'Em Análise' },
+                    { label: 'Tempo a Lisboa (atual)', value: 'Em Análise' },
+                    { label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: 'Em Análise' }
                 ]
             },
             {
                 label: 'Rodovia (nas principais vias)',
                 info: [
-                    { label: 'Distância a Lisboa', value: '150 km' },
-                    { label: 'Tempo a Lisboa', value: '1h 47 mins' }
+                    { label: 'Distância a Lisboa', value: 'Em Análise' },
+                    { label: 'Tempo a Lisboa', value: 'Em Análise' }
                 ]
             },
             {
                 label: 'Aeroporto',
                 info: [
-                    { label: 'Nº de pistas', value: '1' },
-                    { label: 'Capacidade de Movimentos / Hora', value: '40' },
-                    { label: 'Capacidade de Expansão', value: 'Não' }
+                    { label: 'Nº de pistas', value: 'Em Análise' },
+                    { label: 'Capacidade de Movimentos / Hora', value: 'Em Análise' },
+                    { label: 'Capacidade de Expansão', value: 'Em Análise' }
                 ]
             },
             {
                 label: 'População Potencialmente Vulnerável ao Ruído',
                 info: [
-                    { label: 'População residente', value: '≈49000' }
-                ],
-
+                    { label: 'População residente', value: 'Em Análise' }
+                ]
             }
         ],
-        layers: [
-            { id: 'ca9', label: 'Cones de Aproximação', url: 'layers/cones9.json', style: new Style({ stroke: new Stroke({ color: 'rgba(50, 50, 50, 1)' }), fill: new Fill({ color: 'rgba(50, 50, 50, 0.2)' }), }), stroke: 'rgba(50, 50, 50, 1)', fill: 'rgba(50, 50, 50, 0.2)' },
-        ],
-        aeros: [4],
-    }
-];
-
-export const extraOptions: MapOption[] = [
-    {
-        id: 9,
-        label: 'Apostiça',
-        isDual: false,
-        isOfficial: false,
-        isSuggestion: true,
-        info: [],
         layers: [],
-        aeros: [8],
+        aeros: [5, 6],
     },
-    {
-        id: 10,
-        label: 'Rio Frio',
-        isDual: false,
-        isOfficial: false,
-        isSuggestion: true,
-        info: [],
-        layers: [],
-        aeros: [9],
-    },
-    {
-        id: 11,
-        label: 'Poceirão',
-        isDual: false,
-        isOfficial: false,
-        isSuggestion: true,
-        info: [],
-        layers: [],
-        aeros: [10],
-    },
-    {
-        id: 12,
-        label: 'Évora',
-        isDual: false,
-        isOfficial: false,
-        isSuggestion: true,
-        info: [],
-        layers: [],
-        aeros: [11],
-    },
-    {
-        id: 13,
-        label: 'Ota',
-        isDual: false,
-        isOfficial: false,
-        isSuggestion: true,
-        info: [],
-        layers: [],
-        aeros: [12],
-    },
-    {
-        id: 14,
-        label: 'Sintra',
-        isDual: false,
-        isOfficial: false,
-        isSuggestion: true,
-        info: [],
-        layers: [],
-        aeros: [13],
-    },
-    {
-        id: 15,
-        label: 'Tancos',
-        isDual: false,
-        isOfficial: false,
-        isSuggestion: true,
-        info: [],
-        layers: [],
-        aeros: [14],
-    },
-    {
-        id: 16,
-        label: 'Pegões',
-        isDual: false,
-        isOfficial: false,
-        isSuggestion: true,
-        info: [],
-        layers: [],
-        aeros: [15],
-    }
 ];
 
 export const layerGroups: MapLayerGroup[] = [

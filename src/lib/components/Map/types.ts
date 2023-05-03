@@ -3,7 +3,6 @@ import type { StyleLike } from "ol/style/Style";
 
 export type MapAero = {
     id: number;
-    suggestion?: boolean;
     coords: Point;
     label: string;
     offsetX?: number;
@@ -17,7 +16,6 @@ export type MapOption = {
     label: string;
     isDual: boolean;
     isOfficial: boolean;
-    isSuggestion?: boolean;
     info: MapOptionInfoGroup[];
     layers: MapLayer[];
     aeros: number[];
