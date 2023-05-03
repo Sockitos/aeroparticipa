@@ -46,5 +46,6 @@
 		<li>AHP – Associação dos Hotéis de Portugal</li>
 		<li>APAVT – Associação Portuguesa das Agências de Viagens e Turismo</li>
 		<li>Turismo de Portugal</li>
+		<li>Ryanair</li>
 	</ol>
 </PageContainer>
