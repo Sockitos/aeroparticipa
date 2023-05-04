@@ -7,7 +7,7 @@
 	<title>AeroParticipa - Entidades</title>
 </svelte:head>
 
-<PageHeader>Lista de<br />Entidades</PageHeader>
+<PageHeader>Entidades<br />Envolvidas</PageHeader>
 <PageContainer>
 	<p>
 		Lista de entidades com as quais a CTI já interagiu para explorar perspetivas futuras, e

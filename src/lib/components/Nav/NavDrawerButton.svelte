@@ -36,7 +36,7 @@
 			<NavDrawerItem href="{base}/participacao-publica/" label="Participação Pública" />
 			<NavDrawerItem href="{base}/processo-de-participacao/" label="Processo de Participação" />
 			<NavDrawerItem href="{base}/mesas-tematicas/" label="Mesas Temáticas" />
-			<NavDrawerItem href="{base}/lista-de-entidades/" label="Lista de Entidades" />
+			<NavDrawerItem href="{base}/entidades-envolvidas/" label="Entidades Envolvidas" />
 		</NavDrawerGroup>
 		<NavDrawerGroup label="O que é...">
 			<NavDrawerItem href="{base}/o-que-e-aae/" label="AAE" />

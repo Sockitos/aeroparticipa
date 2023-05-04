@@ -32,7 +32,7 @@
 							label="Processo de Participação"
 						/>
 						<NavBarDropdownItem href="{base}/mesas-tematicas/" label="Mesas Temáticas" />
-						<NavBarDropdownItem href="{base}/lista-de-entidades/" label="Lista de Entidades" />
+						<NavBarDropdownItem href="{base}/entidades-envolvidas/" label="Entidades Envolvidas" />
 					</NavBarDropdown>
 					<NavBarDropdown label="O que é...">
 						<NavBarDropdownItem href="{base}/o-que-e-aae/" label="AAE" />
