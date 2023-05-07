@@ -37,6 +37,7 @@
 			<NavDrawerItem href="{base}/processo-de-participacao/" label="Processo de Participação" />
 			<NavDrawerItem href="{base}/mesas-tematicas/" label="Mesas Temáticas" />
 			<NavDrawerItem href="{base}/entidades-envolvidas/" label="Entidades Envolvidas" />
+			<NavDrawerItem href="{base}/conferencias/" label="Conferências" />
 		</NavDrawerGroup>
 		<NavDrawerGroup label="O que é...">
 			<NavDrawerItem href="{base}/o-que-e-aae/" label="AAE" />

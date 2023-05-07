@@ -33,6 +33,7 @@
 						/>
 						<NavBarDropdownItem href="{base}/mesas-tematicas/" label="Mesas Temáticas" />
 						<NavBarDropdownItem href="{base}/entidades-envolvidas/" label="Entidades Envolvidas" />
+						<NavBarDropdownItem href="{base}/conferencias/" label="Conferências" />
 					</NavBarDropdown>
 					<NavBarDropdown label="O que é...">
 						<NavBarDropdownItem href="{base}/o-que-e-aae/" label="AAE" />
