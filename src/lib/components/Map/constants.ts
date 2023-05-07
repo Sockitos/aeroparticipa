@@ -54,7 +54,7 @@ export const aeros: MapAero[] = [
     {
         id: 7,
         coords: new Point([-950864.1839095966, 4672178.067326235]),
-        label: 'Vendas Novas / Pegões',
+        label: 'Vendas Novas',
         offsetX: 28,
         textBaseline: 'middle',
         textAlign: 'left'
@@ -310,7 +310,7 @@ export const options: MapOption[] = [
     },
     {
         id: 7,
-        label: 'Portela + Vendas Novas / Pegões',
+        label: 'Portela + Vendas Novas',
         isDual: true,
         isOfficial: false,
         info: [
@@ -349,7 +349,7 @@ export const options: MapOption[] = [
     },
     {
         id: 8,
-        label: 'Vendas Novas / Pegões',
+        label: 'Vendas Novas',
         isDual: false,
         isOfficial: false,
         info: [
