@@ -48,11 +48,5 @@
 			name="Professor Fernando Alexandre"
 			description="Doutorado em Economia pela Universidade de Londres. Professor Associado com Agregação da Universidade do Minho e vice-presidente do Conselho Económico e Social. Autor de oito livros sobre a economia portuguesa. Em 2022, recebeu o Prémio de Mérito Científico da Universidade do Minho."
 		/>
-		<TeamMember
-			imageSrc="{base}/images/cti/MC.png"
-			title="PT6"
-			name="Professora Mafalda Carmona"
-			description="Professora Auxiliar da Faculdade de Direito da Universidade de Lisboa desde 2017. Doutora (2017), Mestre (2003) e Licenciada (1998) em Direito pela Faculdade de Direito de Universidade de Lisboa. Investigadora Principal do CIDP – Centro de Investigação de Direito Público do Instituto de Ciências Jurídico-Políticas. Advogada e jurisconsulta."
-		/>
 	</div>
 </PageContainer>
