@@ -48,5 +48,11 @@
 			name="Professor Fernando Alexandre"
 			description="Doutorado em Economia pela Universidade de Londres. Professor Associado com Agregação da Universidade do Minho e vice-presidente do Conselho Económico e Social. Autor de oito livros sobre a economia portuguesa. Em 2022, recebeu o Prémio de Mérito Científico da Universidade do Minho."
 		/>
+		<TeamMember
+			imageSrc="{base}/images/cti/RC.png"
+			title="PT6"
+			name="Professora Raquel Carvalho"
+			description="Professora Associada da Faculdade de Direito, da Universidade Católica Portuguesa. Doutorada em Direito, Ciências Jurídico-Políticas. Investigadora integrada do Centro de Investigação Católica para o Futuro do Direito - Centro de Estudos de Investigação em Direito da Faculdade de Direito da Universidade Católica Portuguesa (CRCFL - CEID), na linha de investigação Reforma do Estado: eficiência e sustentabilidade. Membro fundadora da <i>European Association of the Public-Private Partnership</i> - E.A.P.; membro da <i>RED Iberoamericana de Contratación Pública</i>; membro do Instituto de Direito Europeu."
+		/>
 	</div>
 </PageContainer>
