@@ -5,10 +5,10 @@
 </script>
 
 <svelte:head>
-	<title>AeroParticipa - Conferências</title>
+	<title>AeroParticipa - Conferências CTI</title>
 </svelte:head>
 
-<PageHeader>Conferências</PageHeader>
+<PageHeader>Conferências CTI</PageHeader>
 <PageContainer>
 	<h3 class="text-2xl font-bold">1ª Conferência</h3>
 	<p class="pb-5">

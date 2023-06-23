@@ -24,7 +24,7 @@
 			<div class="w-full hidden md:block md:w-auto">
 				<ul class="flex space-x-4 text-white text-lg whitespace-nowrap">
 					<NavBarItem href="https://participe.aeroparticipa.pt/" label="PARTICIPE!" />
-					<NavBarItem href="{base}/mitos/" label="Mitos" />
+					<NavBarItem href="{base}/relatorios/" label="Relatórios" />
 					<NavBarDropdown label="Estratégia de Participação">
 						<NavBarDropdownItem href="{base}/participacao-publica/" label="Participação Pública" />
 						<NavBarDropdownItem
@@ -33,7 +33,8 @@
 						/>
 						<NavBarDropdownItem href="{base}/mesas-tematicas/" label="Mesas Temáticas" />
 						<NavBarDropdownItem href="{base}/entidades-envolvidas/" label="Entidades Envolvidas" />
-						<NavBarDropdownItem href="{base}/conferencias/" label="Conferências" />
+						<NavBarDropdownItem href="{base}/conferencias/" label="Conferências CTI" />
+						<NavBarDropdownItem href="{base}/mitos/" label="Mitos" />
 					</NavBarDropdown>
 					<NavBarDropdown label="O que é...">
 						<NavBarDropdownItem href="{base}/o-que-e-aae/" label="AAE" />

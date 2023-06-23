@@ -31,13 +31,14 @@
 	</button>
 	<ul class="flex flex-col space-y-4 px-20 pt-4 text-white text-2xl">
 		<NavDrawerItem href="https://participe.aeroparticipa.pt/" label="PARTICIPE!" />
-		<NavDrawerItem href="{base}/mitos/" label="Mitos" />
+		<NavDrawerItem href="{base}/relatorios/" label="Relatórios" />
 		<NavDrawerGroup label="Estratégia de Participação">
 			<NavDrawerItem href="{base}/participacao-publica/" label="Participação Pública" />
 			<NavDrawerItem href="{base}/processo-de-participacao/" label="Processo de Participação" />
 			<NavDrawerItem href="{base}/mesas-tematicas/" label="Mesas Temáticas" />
 			<NavDrawerItem href="{base}/entidades-envolvidas/" label="Entidades Envolvidas" />
-			<NavDrawerItem href="{base}/conferencias/" label="Conferências" />
+			<NavDrawerItem href="{base}/conferencias/" label="Conferências CTI" />
+			<NavDrawerItem href="{base}/mitos/" label="Mitos" />
 		</NavDrawerGroup>
 		<NavDrawerGroup label="O que é...">
 			<NavDrawerItem href="{base}/o-que-e-aae/" label="AAE" />
