@@ -12,10 +12,14 @@ const config = {
 	],
 
 	kit: {
-		adapter: adapter(),
+		adapter: adapter(
+		),
 		alias: {
 			"@": "src/lib",
-		}
+		},
+		paths: {
+			base: process.env.BASE_PATH,
+		},
 	}
 };
 
