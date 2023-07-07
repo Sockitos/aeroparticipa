@@ -38,32 +38,37 @@
 		</h1>
 	</div>
 </div>
+<div class="bg-plane bg-cover bg-center bg-blue bg-blend-multiply">
+	<div class="container py-10 md:py-16">
+		<h2 class="text-3xl font-bold text-white pb-5">2º Conferência CTI</h2>
+		<div class="max-w-3xl text-white text-xl space-y-5">
+			<p>
+				Vai ter lugar no dia 11 de julho de 2023 a 2ª Conferência da CTI para apresentar o Quadro de
+				Avaliação Estratégica, que inclui os Fatores Críticos de Decisão, os Critérios de Avaliação
+				e os indicadores, que vão ser usados na avaliação das opções estratégicas na 3ª fase da
+				Avaliação Ambiental Estratégica. Esta sessão é aberta ao público, mediante inscrição prévia
+				e obrigatória, uma vez que a capacidade do espaço onde se realiza a conferência é limitada.
+			</p>
+			<h3 class="text-2xl font-bold text-white">Aberto o período de Consulta do RFCD</h3>
+			<p>
+				Está aberto o período de consulta pública e institucional, nos termos dos números 3 e 4 do
+				artigo 5º do DL 232/2007, de 15 de junho, na sua redação atual, que encerra a 4 de Agosto.
+				Todos os comentários/pareceres devem ser enviados por email para cti.aeroporto@lnec.pt.
+			</p>
+		</div>
+		<div class="pt-10 pb-8 flex flex-col space-y-4 items-start">
+			<ArrowLink
+				label="Formulário de Inscrição"
+				href="https://forms.gle/eSoVf3nRbE2QqrXc8"
+				isLight
+			/>
+			<ArrowLink label="2º Relatório RFCD" href="{base}/relatorios" isLight />
+		</div>
+	</div>
+</div>
 <div class="bg-blue">
 	<h2 class="text-3xl font-bold text-center text-white p-6">
 		Conheça as opções estratégicas em debate
 	</h2>
 	<IMap />
-</div>
-<div class="bg-plane bg-cover bg-center bg-blue bg-blend-multiply">
-	<div class="container py-10 md:py-16">
-		<img
-			src="{base}/svgs/opiniao.svg"
-			alt="Queremos a sua opinião"
-			height="148.33"
-			width="765.08"
-			class="max-w-xl w-full h-auto pb-10"
-		/>
-		<div class="max-w-3xl text-white text-xl space-y-5">
-			<p>
-				Os estudos técnico-científicos dão-nos factos e evidências, mas a percepção dos problemas,
-				as preferências e as prioridades exprimem-se frequentemente pela opinião dos interessados,
-				que são igualmente importantes quando se trata de decisões estratégicas.
-			</p>
-			<p>Este espaço de diálogo é para falarmos consigo! Dê-nos a sua opinião, participe!</p>
-		</div>
-
-		<div class="pt-10 pb-8 flex justify-start">
-			<ArrowLink label="Quero participar" href="https://aeroparticipa.eu.consider.it/" isLight />
-		</div>
-	</div>
 </div>

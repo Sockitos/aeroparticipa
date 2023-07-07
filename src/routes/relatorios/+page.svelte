@@ -23,4 +23,16 @@
 	>
 		Documento
 	</a>
+	<h3 class="pt-10 text-2xl font-bold">2º Relatório</h3>
+	<p class="pb-5">
+		A comissão técnica independente disponibiliza o Relatório dos Fatores Críticos de Decisão, que
+		será apresentado na 2º conferência da CTI, no dia 11 de junho, entre as 14h30 e as 17h30.
+	</p>
+	<a
+		href="{base}/relatorios/relatorio_2.pdf"
+		download
+		class="text-blue-accent text-xl font-bold underline underline-offset-8 hover:text-blue-light"
+	>
+		Documento
+	</a>
 </PageContainer>
