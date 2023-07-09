@@ -12,9 +12,9 @@
 <PageContainer>
 	<h3 class="text-2xl font-bold">1º Relatório</h3>
 	<p class="pb-5">
-		A comissão técnica independente tem o prazer de enviar o relatório referente à primeira fase da
-		avaliação ambiental estratégia, na sequência da 1ª Conferência da CTI, referente aos resultados
-		obtidos no Reconhecimento e Triagem de opções estratégicas.
+		A comissão técnica independente tem o prazer de disponibilizar o relatório referente à primeira
+		fase da avaliação ambiental estratégia, na sequência da 1ª Conferência da CTI, referente aos
+		resultados obtidos no Reconhecimento e Triagem de opções estratégicas.
 	</p>
 	<a
 		href="{base}/relatorios/relatorio_1.pdf"
@@ -26,7 +26,7 @@
 	<h3 class="pt-10 text-2xl font-bold">2º Relatório</h3>
 	<p class="pb-5">
 		A comissão técnica independente disponibiliza o Relatório dos Fatores Críticos de Decisão, que
-		será apresentado na 2º conferência da CTI, no dia 11 de junho, entre as 14h30 e as 17h30.
+		será apresentado na 2º conferência da CTI, no dia 11 de julho, entre as 14h30 e as 17h30.
 	</p>
 	<a
 		href="{base}/relatorios/relatorio_2.pdf"
