@@ -24,4 +24,21 @@
 	>
 		Apresentação
 	</a>
+	<h3 class="pt-10 text-2xl font-bold">2ª Conferência</h3>
+	<p class="pb-5">
+		A comissão técnica independente realizou a sua segunda conferência no dia 11 de julho, para
+		apresentação dos resultados da segunda fase da AAE. Concluiu-se assim a fase de Focagem - Quadro
+		de Avaliação Estratégica, em que foi criada a ferramenta de avaliação estratégica que inclui os
+		Fatores Críticos para a Decisão, Critérios de Avaliação e Indicadores. Esta ferramenta designada
+		Quadro de Avaliação Estratégica, será usada na 3ª fase para avaliar as cinco opções estratégicas
+		estabelecidas na Resolução do Conselho de Ministros e as quatro opções estratégicas adicionadas
+		pela CTI.
+	</p>
+	<a
+		href="{base}/conferencias/conferencia_2.pdf"
+		download
+		class="text-blue-accent text-xl font-bold underline underline-offset-8 hover:text-blue-light"
+	>
+		Apresentação
+	</a>
 </PageContainer>

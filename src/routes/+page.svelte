@@ -40,23 +40,13 @@
 </div>
 <div class="bg-plane bg-cover bg-center bg-blue bg-blend-multiply">
 	<div class="container py-10 md:py-16">
-		<h2 class="text-3xl font-bold text-white pb-5">2º Conferência CTI</h2>
-		<div class="max-w-3xl text-white text-xl space-y-5">
-			<p>
-				Vai ter lugar no dia 11 de julho de 2023 a 2ª Conferência da CTI para apresentar o Quadro de
-				Avaliação Estratégica, que inclui os Fatores Críticos de Decisão, os Critérios de Avaliação
-				e os indicadores, que vão ser usados na avaliação das opções estratégicas na 3ª fase da
-				Avaliação Ambiental Estratégica. Esta sessão é aberta ao público, mediante inscrição prévia
-				e obrigatória, uma vez que a capacidade do espaço onde se realiza a conferência é limitada.
-			</p>
-			<h3 class="text-2xl font-bold text-white">Aberto o período de Consulta do RFCD</h3>
-			<p>
-				Está aberto o período de consulta pública e institucional, nos termos dos números 3 e 4 do
-				artigo 5º do DL 232/2007, de 15 de junho, na sua redação atual, que encerra a 4 de Agosto.
-				Todos os comentários/pareceres devem ser enviados por email para cti.aeroporto@lnec.pt.
-			</p>
-		</div>
-		<div class="pt-10 pb-8 flex flex-col space-y-4 items-start">
+		<h2 class="text-3xl font-bold text-white pb-6">Aberto o período de Consulta do RFCD</h2>
+		<p class="max-w-3xl text-white text-xl">
+			Está aberto o período de consulta pública e institucional, nos termos dos números 3 e 4 do
+			artigo 5º do DL 232/2007, de 15 de junho, na sua redação atual, que encerra a 4 de Agosto.
+			Todos os comentários/pareceres devem ser enviados por email para cti.aeroporto@lnec.pt.
+		</p>
+		<div class="py-8 flex flex-col space-y-4 items-start">
 			<ArrowLink
 				label="Formulário de Inscrição"
 				href="https://forms.gle/eSoVf3nRbE2QqrXc8"
