@@ -46,12 +46,7 @@
 			artigo 5º do DL 232/2007, de 15 de junho, na sua redação atual, que encerra a 4 de Agosto.
 			Todos os comentários/pareceres devem ser enviados por email para cti.aeroporto@lnec.pt.
 		</p>
-		<div class="py-8 flex flex-col space-y-4 items-start">
-			<ArrowLink
-				label="Formulário de Inscrição"
-				href="https://forms.gle/eSoVf3nRbE2QqrXc8"
-				isLight
-			/>
+		<div class="py-8 flex justify-start">
 			<ArrowLink label="2º Relatório RFCD" href="{base}/relatorios" isLight />
 		</div>
 	</div>
