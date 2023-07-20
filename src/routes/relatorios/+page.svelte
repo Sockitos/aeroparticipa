@@ -31,8 +31,15 @@
 	<a
 		href="{base}/relatorios/relatorio_2.pdf"
 		download
-		class="text-blue-accent text-xl font-bold underline underline-offset-8 hover:text-blue-light"
+		class="block text-blue-accent text-xl font-bold underline underline-offset-8 hover:text-blue-light"
 	>
 		Documento
+	</a>
+	<a
+		href="{base}/relatorios/relatorio_2_sumario.pdf"
+		download
+		class="block text-blue-accent text-xl font-bold underline underline-offset-8 hover:text-blue-light"
+	>
+		Sumário Executivo
 	</a>
 </PageContainer>
