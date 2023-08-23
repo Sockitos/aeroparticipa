@@ -47,5 +47,6 @@
 		<li>APAVT – Associação Portuguesa das Agências de Viagens e Turismo</li>
 		<li>Turismo de Portugal</li>
 		<li>Ryanair</li>
+		<li>Magellan 500</li>
 	</ol>
 </PageContainer>
