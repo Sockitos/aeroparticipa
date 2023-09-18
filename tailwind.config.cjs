@@ -50,6 +50,7 @@ const config = {
 							},
 							h3: {
 								marginTop: '3rem',
+								marginBottom: '1.25rem',
 								fontSize: '1.5rem',
 								lineHeight: '2rem',
 								fontWeight: '700',

@@ -43,7 +43,7 @@
 		estratégicas poderá ser enriquecida com os vossos contributos. Fique atento(a) para saber como
 		poderá vir a colaborar nesta fase mais avançada da avaliação.
 	</p>
-	<div class="py-10">
+	<div class="py-8">
 		<FramedImage
 			src="{base}/images/faseamento_aae.png"
 			alt="Faseamento do processo de participação"

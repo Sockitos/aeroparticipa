@@ -174,7 +174,7 @@
 			aérea desta natureza.
 		</li>
 	</ul>
-	<div class="py-10">
+	<div class="py-8">
 		<FramedImage
 			src="{base}/images/redes_aereas.png"
 			alt="Tipos de redes exploradas pelas companhias aéreas"

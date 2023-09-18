@@ -39,7 +39,7 @@
 		condicionar a localização de um aeroporto e a reflexão sobre que modelo de aeroporto se pretende
 		para a região de Lisboa (ver figura 1).
 	</p>
-	<div class="py-10">
+	<div class="py-8">
 		<FramedImage
 			src="{base}/images/dimensoes_estrategicas.png"
 			alt="Dimensões estratégicas para esta AAE discutidas nas mesas temáticas"
@@ -73,7 +73,7 @@
 			definido na fase 2.
 		</li>
 	</ul>
-	<div class="py-10">
+	<div class="py-8">
 		<FramedImage
 			src="{base}/images/faseamento_aae_alt.png"
 			alt="Faseamento da AAE"
