@@ -38,12 +38,28 @@ const config = {
 				DEFAULT: {
 					css: [
 						{
-							color: '#000',
+							'--tw-prose-body': '#000',
+							'--tw-prose-headings': '#000',
+							'--tw-prose-lead': '#000',
+							'--tw-prose-links': '#1C43DF',
+							'--tw-prose-bold': '#000',
+							'--tw-prose-counters': '#1C43DF',
+							'--tw-prose-bullets': '#1C43DF',
+							'--tw-prose-hr': '#000',
+							'--tw-prose-quotes': '#000',
+							'--tw-prose-quote-borders': '#000',
+							'--tw-prose-captions': '#000',
+							'--tw-prose-kbd': '#000',
+							'--tw-prose-kbd-shadows': '#000',
+							'--tw-prose-code': '#000',
+							'--tw-prose-pre-code': '#000',
+							'--tw-prose-pre-bg': '#000',
+							'--tw-prose-th-borders': '#000',
+							'--tw-prose-td-borders': '#000',
 							maxWidth: '56rem',
 							fontSize: '1.125rem',
 							lineHeight: '1.375',
 							a: {
-								color: '#1C43DF',
 								textUnderlineOffset: '0.125rem',
 							},
 							p: {
@@ -65,7 +81,6 @@ const config = {
 							},
 							'ol > li::marker': {
 								fontWeight: '700',
-								color: '#1C43DF',
 							},
 							'> ol > li': {
 								marginTop: 0,
