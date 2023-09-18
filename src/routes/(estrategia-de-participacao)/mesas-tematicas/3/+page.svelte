@@ -12,7 +12,7 @@
 	Lisboa?</PageHeader
 >
 <PageContainer>
-	<h3 class="text-2xl font-bold">Âmbito e Objetivos</h3>
+	<h3>Âmbito e Objetivos</h3>
 	<p>
 		A expansão da capacidade aeroportuária de uma região deve ser suportada por um conjunto complexo
 		de condições que garantam o mínimo de risco para a atividade aeronáutica, para a segurança das
@@ -36,22 +36,22 @@
 		Nesta mesa temática, serão discutidos que desafios e oportunidades se colocam à expansão
 		aeroportuária na região de Lisboa em matéria de ambiente e alterações climáticas.
 	</p>
-	<h3 class="text-2xl font-bold pt-6">
+	<h3>
 		Resultados 1ª Sessão<br />As grandes questões ambientais e perspetiva de futuro
 	</h3>
-	<h4 class="text-xl font-bold pt-2">
+	<h4>
 		Coordenação: Teresa Fidélis<br />Relatores: José Luís Zêzere e Jorge Cancela
 	</h4>
-	<h4 class="text-xl font-bold pt-2">Síntese das questões abordadas:</h4>
+	<h4>Síntese das questões abordadas:</h4>
 	<p>Primeira ronda pelos participantes: o processo e as grandes questões</p>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<ul>
 		<li>
 			Devem existir ou não linhas vermelhas no processo de seleção dos locais para a implantação da
 			ou das novas infraestruturas aeroportuárias? As opiniões não são unanimes.
 		</li>
 		<li>
 			Foram identificados 4 grandes questões a considerar no domínio do ambiente:
-			<ol class="marker:text-blue-accent marker:font-bold list-[lower-alpha] list-outside pl-10">
+			<ol type="a">
 				<li>Saúde humana (qualidade do ar e ruído).</li>
 				<li>Ambiente, em particular a biodiversidade e as áreas protegidas.</li>
 				<li>
@@ -74,9 +74,9 @@
 			anos (15 anos de construção + 50 anos de utilização), pelo que a abordagem das questões deve
 			ser prospetiva, pese embora a elevada incerteza inerente.
 		</li>
-	</ol>
+	</ul>
 	<p>Segunda ronda pelos participantes: perspetiva de futuro - cenário a 65 anos</p>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<ul>
 		<li>
 			Incerteza sobre evolução de sistemas, variáveis não possíveis de conhecer (ex. modelação de
 			sistemas ecológicos).
@@ -130,15 +130,15 @@
 			escondidos” e externalidades ambientais, prever mecanismos de monitorização e adaptação.
 		</li>
 		<li>Não esquecer as normas internacionais de que o Estado Português é signatário.</li>
-	</ol>
-	<h3 class="text-2xl font-bold pt-6">
+	</ul>
+	<h3>
 		Resultados 2ª Sessão<br />Ponderação de custos escondidos, valorização dos ecossistemas
 		vulneráveis, incerteza e evolução tecnológica e dinâmicas territoriais e sociais
 	</h3>
-	<h4 class="text-xl font-bold pt-2">
+	<h4>
 		Coordenação: Teresa Fidélis<br />Relatores: Jorge Cancela
 	</h4>
-	<h4 class="text-xl font-bold pt-2">Síntese das questões abordadas:</h4>
+	<h4>Síntese das questões abordadas:</h4>
 	<p>
 		Na mesa temática anterior emergiram quatro critérios relevantes para a triagem das opções
 		estratégicas, designadamente a prevenção de riscos naturais, as pegadas sonora e de poluição
@@ -148,9 +148,9 @@
 		alternativas tais como os custos escondidos e valorização dos ecossistemas vulneráveis, a
 		incerteza e evolução tecnológica e as dinâmicas territoriais e sociais.
 	</p>
-	<p class="font-bold">Sobre os custos escondidos e valorização dos sistemas vulneráveis</p>
+	<p><b>Sobre os custos escondidos e valorização dos sistemas vulneráveis</b></p>
 	<p>Como fundamentar a sua importância na triagem das opções estratégicas?</p>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<ul>
 		<li>
 			Foi considerado fundamental estimar os custos de investimento para substituir os serviços dos
 			ecossistemas afetados. São importantes ao nível dos custos ambientais e das escalas
@@ -176,9 +176,9 @@
 			último, custos de manutenção das infraestruturas aeroportuárias e de atividades conexas, para
 			adaptação às alterações climáticas e subida do nível do mar.
 		</li>
-	</ol>
+	</ul>
 	<p>Como analisar e com que indicadores?</p>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<ul>
 		<li>
 			Importa definir as condições de fronteira entre custos visíveis e escondidos. Pode haver
 			variação significativa em função da informação disponível, do tempo de análise e do âmbito
@@ -206,9 +206,9 @@
 			Analisando a incerteza e variabilidade e ponderando impactos, utilizando matrizes de análise
 			multicritério, e recorrendo aos indicadores específicos (objetivos e subjetivos).
 		</li>
-	</ol>
+	</ul>
 	<p>Que cenários futuros devem ser considerados?</p>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<ul>
 		<li>
 			Aqueles em que os custos escondidos se revelem com grau plausível de criticidade. Em
 			particular as projeções demográficas, as emissões poluentes e as alterações climáticas.
@@ -230,10 +230,10 @@
 			de uma carta de aptidão aeroportuária, multicamada, que integrasse toda a informação através
 			de um “heat map”.
 		</li>
-	</ol>
-	<p class="font-bold">Sobre a incerteza e evolução tecnológica</p>
+	</ul>
+	<p><b>Sobre a incerteza e evolução tecnológica</b></p>
 	<p>Como fundamentar a sua importância na triagem das opções estratégicas?</p>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<ul>
 		<li>
 			As incertezas ambientais e climáticas, e as questões tecnológicas, principalmente devido à sua
 			crescente alterabilidade e evolução acelerada, podem modificar condições mais ou menos
@@ -243,9 +243,9 @@
 			tecnologia aeronáutica, a evolução do controlo do espaço aéreo, a evolução climática em termos
 			globais e regionais ou o impacto da localização no ecossistema local.
 		</li>
-	</ol>
+	</ul>
 	<p>Como analisar e com que indicadores?</p>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<ul>
 		<li>Criação de matrizes de risco (com ponderação objetiva e subjetiva).</li>
 		<li>
 			Incluir as incertezas na amplitude dos fatores de impacto (range das entradas nas matrizes de
@@ -268,10 +268,10 @@
 			afetividade coletiva). Em complementaridade, considerar também os cenários laterais extremos,
 			mais otimista e mais pessimista (com estrita relação com os “custos escondidos”).
 		</li>
-	</ol>
-	<p class="font-bold">Sobre as dinâmicas territoriais e sociais</p>
+	</ul>
+	<p><b>Sobre as dinâmicas territoriais e sociais</b></p>
 	<p>Como fundamentar a sua importância na triagem das opções estratégicas?</p>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<ul>
 		<li>
 			É determinante para se perceber o resultado de benefícios e prejuízos para a população
 			circunvizinha. Trata-se de uma dimensão fundamental para determinar estruturas económicas,
@@ -292,9 +292,9 @@
 			Atender à capacidade indutora do processo de revisão dos IGT e correspondentes modelos de
 			desenvolvimento.
 		</li>
-	</ol>
+	</ul>
 	<p>Como analisar e com que indicadores?</p>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<ul>
 		<li>
 			Necessidade de definir limiares que, resultando de dispositivos legais, excluem determinadas
 			opções de localização de novas infraestruturas aeroportuárias tais como, universo de pessoas
@@ -304,9 +304,9 @@
 			ecossistemas afetados, impacto de adaptação climática e esforço de compensação ambiental, solo
 			urbano disponível.
 		</li>
-	</ol>
+	</ul>
 	<p>Que cenários futuros devem ser considerados?</p>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<ul>
 		<li>
 			O desenho de cenários futuros deverá ter em conta diretrizes, planos, compromissos
 			estabelecidos e expetativas de procura.
@@ -321,5 +321,5 @@
 			Cenários de deslocados climáticos, devido a medidas de adaptação (ex.: necessidade de
 			relocalização de populações costeiras para o interior).
 		</li>
-	</ol>
+	</ul>
 </PageContainer>

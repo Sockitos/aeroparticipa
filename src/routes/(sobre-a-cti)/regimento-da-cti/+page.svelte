@@ -14,17 +14,17 @@
 		Análise estratégica e multidisciplinar do aumento da capacidade aeroportuária da região de
 		Lisboa - Resolução do Conselho de Ministros n.o 89/2022
 	</p>
-	<h3 class="text-2xl font-bold text-center pt-6">Artigo 1º<br />Objeto</h3>
+	<h3 class="text-center">Artigo 1º<br />Objeto</h3>
 	<p>
 		O presente regulamento estabelece as normas de organização e funcionamento da Comissão Técnica
 		Independente (CTI), constituída pela Resolução do Conselho de Ministros n.o 89/2022, de 14 de
 		outubro, para avaliar as opções estratégicas para aumentar a capacidade aeroportuária da região
 		de Lisboa e coordenar e realizar a avaliação ambiental estratégica.
 	</p>
-	<h3 class="text-2xl font-bold text-center pt-6">
+	<h3 class="text-center">
 		Artigo 2º<br />Natureza, missões e competências
 	</h3>
-	<ol class="marker:text-blue-accent marker:font-bold list-decimal list-outside pl-10">
+	<ol>
 		<li>A CTI é um órgão colegial, independente, sem personalidade jurídica.</li>
 		<li>
 			A CTI atua de forma independente, não podendo os seus membros solicitar nem receber ordens,
@@ -43,7 +43,7 @@
 		</li>
 		<li>
 			Para o cumprimento da missão prevista no número anterior, compete à CTI:
-			<ol class="marker:text-blue-accent marker:font-bold list-[lower-alpha] list-outside pl-10">
+			<ol type="a">
 				<li>
 					Realizar, rever e avaliar os estudos, projetos e planos sobre as opções estratégicas
 					identificadas para aumentar a capacidade aeroportuária da região de Lisboa.
@@ -62,11 +62,11 @@
 			</ol>
 		</li>
 	</ol>
-	<h3 class="text-2xl font-bold text-center pt-6">Artigo 3º<br />Composição</h3>
-	<ol class="marker:text-blue-accent marker:font-bold list-decimal list-outside pl-10">
+	<h3 class="text-center">Artigo 3º<br />Composição</h3>
+	<ol>
 		<li>
 			A CTI é composta por:
-			<ol class="marker:text-blue-accent marker:font-bold list-[lower-alpha] list-outside pl-10">
+			<ol type="a">
 				<li>
 					Uma Coordenadora-Geral, designada pelo Primeiro-Ministro, sob proposta conjunta do
 					presidente do Conselho Superior de Obras Públicas (CSOP), do Conselho Nacional do Ambiente
@@ -77,9 +77,7 @@
 				<li>
 					Seis coordenadores de projeto que preenchem as qualificações e competências técnicas
 					adequadas nas seguintes áreas de trabalho das seis equipas de projeto:
-					<ol
-						class="marker:text-blue-accent marker:font-bold list-[lower-roman] list-outside pl-10"
-					>
+					<ol type="i">
 						<li>
 							Estudos de procura aeroportuários e de acessibilidades de infraestruturas e
 							transportes;
@@ -102,9 +100,9 @@
 			</ol>
 		</li>
 	</ol>
-	<h3 class="text-2xl font-bold text-center pt-6">Artigo 4º<br />Coordenadora Geral da CTI</h3>
+	<h3 class="text-center">Artigo 4º<br />Coordenadora Geral da CTI</h3>
 	<p>Compete à Coordenadora-Geral da CTI:</p>
-	<ol class="marker:text-blue-accent marker:font-bold list-[lower-alpha] list-outside pl-10">
+	<ol type="a">
 		<li>Representar a CTI;</li>
 		<li>Designar os coordenadores de equipas de projeto e propor o seu nível de remuneração;</li>
 		<li>Convocar as reuniões e fixar a respetiva ordem dos trabalhos;</li>
@@ -137,9 +135,9 @@
 		<li>Assegurar a preparação dos relatórios devidos, de acordo com o plano de trabalhos;</li>
 		<li>Assegurar um processo participado usando ferramentas digitais.</li>
 	</ol>
-	<h3 class="text-2xl font-bold text-center pt-6">Artigo 5º<br />Coordenadores de equipa</h3>
+	<h3 class="text-center">Artigo 5º<br />Coordenadores de equipa</h3>
 	<p>Compete aos coordernadores de equipa:</p>
-	<ol class="marker:text-blue-accent marker:font-bold list-[lower-alpha] list-outside pl-10">
+	<ol type="a">
 		<li>
 			Identificar e coordenar as equipas técnicas na condução dos estudos técnicos necessários;
 		</li>
@@ -166,8 +164,8 @@
 		<li>Contribuir para a condução de um processo participado;</li>
 		<li>Propor à Coordenadora-Geral a contratação de equipas externas.</li>
 	</ol>
-	<h3 class="text-2xl font-bold text-center pt-6">Artigo 6º<br />Reuniões</h3>
-	<ol class="marker:text-blue-accent marker:font-bold list-decimal list-outside pl-10">
+	<h3 class="text-center">Artigo 6º<br />Reuniões</h3>
+	<ol>
 		<li>
 			A CTI funciona com carácter permanente, com a realização de reuniões ordinárias e
 			extraordinárias.
@@ -203,8 +201,8 @@
 		</li>
 		<li>Das reuniões da CTI é sempre lavrada ata.</li>
 	</ol>
-	<h3 class="text-2xl font-bold text-center pt-6">Artigo 7º<br />Quórum e maioria deliberativa</h3>
-	<ol class="marker:text-blue-accent marker:font-bold list-decimal list-outside pl-10">
+	<h3 class="text-center">Artigo 7º<br />Quórum e maioria deliberativa</h3>
+	<ol>
 		<li>
 			A CTI só pode deliberar quando esteja presente a maioria do número legal dos seus membros com
 			direito a voto.
@@ -220,8 +218,8 @@
 		<li>As deliberações são tomadas por maioria absoluta dos membros presentes à reunião.</li>
 		<li>Em caso de empate, a Coordenadora-Geral tem voto de qualidade.</li>
 	</ol>
-	<h3 class="text-2xl font-bold text-center pt-6">Artigo 8º<br />Atas</h3>
-	<ol class="marker:text-blue-accent marker:font-bold list-decimal list-outside pl-10">
+	<h3 class="text-center">Artigo 8º<br />Atas</h3>
+	<ol>
 		<li>
 			Em cada reunião é lavrada ata, a qual contém um resumo sucinto, nomeadamente dos assuntos
 			apreciados, opiniões e das deliberações tomadas.
@@ -231,8 +229,8 @@
 			com substituição por outros coordenadores.
 		</li>
 	</ol>
-	<h3 class="text-2xl font-bold text-center pt-6">Artigo 9º<br />Deveres e impedimentos</h3>
-	<ol class="marker:text-blue-accent marker:font-bold list-decimal list-outside pl-10">
+	<h3 class="text-center">Artigo 9º<br />Deveres e impedimentos</h3>
+	<ol>
 		<li>
 			Os membros da CTI estão sujeitos ao dever de sigilo sobre todos os assuntos que lhe sejam
 			confiados e de que tenham conhecimento por causa do exercício das suas funções.
@@ -242,7 +240,7 @@
 			Procedimento Administrativo.
 		</li>
 	</ol>
-	<h3 class="text-2xl font-bold text-center pt-6">Artigo 10º<br />Entrada em vigor</h3>
+	<h3 class="text-center">Artigo 10º<br />Entrada em vigor</h3>
 	<p>
 		O presente regulamento entra em vigor após ser aprovado pela CTI e publicado no respetivo <i
 			>site</i

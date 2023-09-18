@@ -35,7 +35,7 @@
 		Todos os aeroportos em operação obtiveram essa certificação. Isso significa que cumprem com
 		todas estas regras de segurança.
 	</p>
-	<h3 class="text-2xl font-bold pt-6">O Transporte Aéreo é o modo de transporte mais seguro</h3>
+	<h3>O Transporte Aéreo é o modo de transporte mais seguro</h3>
 	<p>
 		A Taxa Global de Acidentes da ICAO fornece um indicador geral de desempenho de segurança para a
 		operação regular de transporte aéreo. A taxa de acidentes é baseada em operações comerciais

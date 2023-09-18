@@ -9,11 +9,9 @@
 
 <PageHeader>Mitos que têm marcado<br />a opinião pública</PageHeader>
 <PageContainer>
-	<ol class="marker:text-blue-accent marker:font-bold list-decimal list-outside space-y-5">
+	<ol class="space-y-4">
 		<li>
-			<p class="pb-2 font-bold">
-				Portugal não tem capacidade económica para ter um grande aeroporto
-			</p>
+			<p><b>Portugal não tem capacidade económica para ter um grande aeroporto</b></p>
 			<p>
 				<b>Porquê um mito?</b> A posição geográfica de Portugal torna essencial a sua ligação por via
 				aérea à Europa e ao mundo. O crescimento da economia portuguesa passa por uma maior integração
@@ -22,8 +20,11 @@
 			</p>
 		</li>
 		<li>
-			<p class="pb-2 font-bold">
-				O aeroporto internacional tem que ser localizado onde exista uma maior presença populacional
+			<p>
+				<b>
+					O aeroporto internacional tem que ser localizado onde exista uma maior presença
+					populacional
+				</b>
 			</p>
 			<p>
 				<b>Porquê um mito?</b> Não são necessariamente as pessoas que residem mais perto de um aeroporto
@@ -33,9 +34,11 @@
 			</p>
 		</li>
 		<li>
-			<p class="pb-2 font-bold">
-				O aeroporto é para chegar e partir da cidade de Lisboa e é mais atrativo quanto mais perto
-				estiver do centro da cidade
+			<p>
+				<b>
+					O aeroporto é para chegar e partir da cidade de Lisboa e é mais atrativo quanto mais perto
+					estiver do centro da cidade
+				</b>
 			</p>
 			<p>
 				<b>Porquê um mito?</b> O aeroporto não serve apenas a cidade de Lisboa mas a região de Lisboa.
@@ -44,9 +47,11 @@
 			</p>
 		</li>
 		<li>
-			<p class="pb-2 font-bold">
-				As viagens aéreas devem ser substituídas por viagens em ferrovia por isso não vale a pena
-				aumentar a capacidade aeroportuária e sair do AHD
+			<p>
+				<b>
+					As viagens aéreas devem ser substituídas por viagens em ferrovia por isso não vale a pena
+					aumentar a capacidade aeroportuária e sair do AHD
+				</b>
 			</p>
 			<p>
 				<b>Porquê um mito?</b> A alta velocidade só é competitiva até Madrid. Dada a posição geográfica
@@ -54,7 +59,7 @@
 			</p>
 		</li>
 		<li>
-			<p class="pb-2 font-bold">O aeroporto tem que usar infraestruturas viárias existentes</p>
+			<p><b>O aeroporto tem que usar infraestruturas viárias existentes</b></p>
 			<p>
 				<b>Porquê um mito?</b> Há diversas infraestruturas relevantes previstas no Plano Nacional de
 				Investimentos e no Plano Ferroviário Nacional que são compromissos nacionais e internacionais.

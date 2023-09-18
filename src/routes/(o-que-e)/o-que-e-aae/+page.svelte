@@ -39,7 +39,7 @@
 		condicionar a localização de um aeroporto e a reflexão sobre que modelo de aeroporto se pretende
 		para a região de Lisboa (ver figura 1).
 	</p>
-	<div class="py-8">
+	<div class="py-10">
 		<FramedImage
 			src="{base}/images/dimensoes_estrategicas.png"
 			alt="Dimensões estratégicas para esta AAE discutidas nas mesas temáticas"
@@ -49,13 +49,13 @@
 			caption="Dimensões estratégicas para esta AAE discutidas nas mesas temáticas"
 		/>
 	</div>
-	<h3 class="text-2xl font-bold pt-6">Processo e metodologia de AAE</h3>
+	<h3>Processo e metodologia de AAE</h3>
 	<p>
 		A Avaliação Ambiental Estratégica (AAE) tem como objetivo explorar, entender e avaliar as opções
 		estratégicas para o aumento da capacidade aeroportuária da região de Lisboa.
 	</p>
 	<p>Este processo de AAE estrutura-se em três fases (figura 2):</p>
-	<ul class="marker:text-blue-accent list-disc list-inside pl-5">
+	<ul>
 		<li>
 			<span class="text-blue-accent font-bold">Fase 1 –</span> Reconhecimento e triagem: destina-se a
 			mapear as opções estratégicas que têm vindo a ser sugeridas, incluindo opções que não constam da
@@ -73,7 +73,7 @@
 			definido na fase 2.
 		</li>
 	</ul>
-	<div class="py-8">
+	<div class="py-10">
 		<FramedImage
 			src="{base}/images/faseamento_aae_alt.png"
 			alt="Faseamento da AAE"

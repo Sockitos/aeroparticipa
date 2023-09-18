@@ -9,7 +9,7 @@
 
 <PageHeader>Mesa Temática 2<br />Como articular os principais sistemas de transportes?</PageHeader>
 <PageContainer>
-	<h3 class="text-2xl font-bold">Âmbito e Objetivos</h3>
+	<h3>Âmbito e Objetivos</h3>
 	<p>
 		No quadro da reflexão sobre as opções alternativas para a expansão da capacidade aeroportuária
 		da região de Lisboa, a articulação entre os grandes modos e sistemas de transporte pode ser
@@ -45,12 +45,12 @@
 		transportes e a sua relevância para a decisão sobre as opções estratégicas em relação ao
 		aeroporto da região de Lisboa é o objetivo desta mesa temática.
 	</p>
-	<h3 class="text-2xl font-bold pt-6">
+	<h3>
 		Resultados 1ª Sessão<br />As grandes questões que se colocam à acessibilidade
 	</h3>
-	<h4 class="text-xl font-bold pt-2">Coordenação: Paulo Pinho<br />Relator: Filipe Moura</h4>
-	<h4 class="text-xl font-bold pt-2">Ideias chave:</h4>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<h4>Coordenação: Paulo Pinho<br />Relator: Filipe Moura</h4>
+	<h4>Ideias chave:</h4>
+	<ul>
 		<li>
 			Qualquer que seja a sua localização, deve ser garantida uma ligação ferroviária direta ao
 			aeroporto.
@@ -73,8 +73,8 @@
 			Importa assegurar níveis elevados de redundância no funcionamento das infraestruturas, redes e
 			serviços de acesso ao aeroporto, seja em transporte público seja em transporte individual.
 		</li>
-	</ol>
-	<h4 class="text-xl font-bold pt-2">Sumário da discussão dos participantes</h4>
+	</ul>
+	<h4>Sumário da discussão dos participantes</h4>
 	<p>
 		O aumento da capacidade aeroportuária da Região de Lisboa deverá ter em atenção a rede existente
 		de aeroportos, as propostas para a LAV contidas no PFN, bem como a visão estratégica territorial
@@ -138,12 +138,12 @@
 		certo que não se conhecem soluções de sucesso em que um hub se encontre baseado em dois
 		aeroportos.
 	</p>
-	<h3 class="text-2xl font-bold pt-6">
+	<h3>
 		Resultados 2ª Sessão<br />Internacionalização e integração da economia portuguesa no mundo
 	</h3>
-	<h4 class="text-xl font-bold pt-2">Coordenação: Paulo Pinho<br />Relator: Paulo Pinho</h4>
-	<h4 class="text-xl font-bold pt-26">Ideias chave:</h4>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<h4>Coordenação: Paulo Pinho<br />Relator: Paulo Pinho</h4>
+	<h4>Ideias chave:</h4>
+	<ul>
 		<li>
 			Os modelos alternativos, dual (principal mais secundário) e de concentração num único
 			aeroporto, exigem soluções de transporte público diferenciados, que devem ser tidas em
@@ -168,8 +168,8 @@
 			rede rodoviária atual, elevados níveis de redundância, flexibilidade e abrangência territorial
 			à escala da AML.
 		</li>
-	</ol>
-	<h4 class="text-xl font-bold pt-6">Sumário da discussão dos participantes</h4>
+	</ul>
+	<h4>Sumário da discussão dos participantes</h4>
 	<p>Grupo 1 – Transporte Público</p>
 	<p>
 		<b>Nota prévia:</b> Os serviços de transporte público a selecionar para servir um determinado aeroporto
@@ -188,7 +188,7 @@
 		um processo que possivelmente terá diferentes fases de transição, fases essas em que podem
 		coexistir com mais do que um aeroporto.
 	</p>
-	<ol class="marker:text-blue-accent marker:font-bold list-[lower-alpha] list-outside pl-10">
+	<ol type="a">
 		<li>
 			<b>
 				Quais as qualidades fundamentais de um serviço público de transporte destinado a ligar um
@@ -197,7 +197,7 @@
 		</li>
 	</ol>
 	<p>Serviço a um “aeroporto principal” ou “aeroporto único”:</p>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<ul>
 		<li>elevada frequência (máx. 10 min)</li>
 		<li>regularidade e fiabilidade ao longo dos diferentes períodos do dia</li>
 		<li>grande capacidade</li>
@@ -211,23 +211,20 @@
 			serviços diretos e com poucas paragens (máx. 6 de acordo com a literatura, mas variando de
 			acordo com a distância aeroporto – centro da cidade).
 		</li>
-	</ol>
+	</ul>
 	<p>Serviço a um “aeroporto secundário”:</p>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<ul>
 		<li>
 			TP rodoviário coletivo (serviço regular) + serviços partilhados (tipo “van” com menos
 			passageiros mas maior flexibilidade / on-demand porta-a-porta)
 		</li>
 		<li>serviços diretos e com poucas paragens.</li>
-	</ol>
+	</ul>
 	<p>
 		Para ambos: criação de serviços regulares para os trabalhadores do aeroporto e da cidade
 		aeroportuária.
 	</p>
-	<ol
-		start="2"
-		class="marker:text-blue-accent marker:font-bold list-[lower-alpha] list-outside pl-10"
-	>
+	<ol type="a" start="2">
 		<li>
 			<b>
 				Quais os principais fatores competitivos de um serviço público de acesso a um aeroporto,
@@ -270,13 +267,10 @@
 		nomeadamente para o caso de Oslo em que o uso de TP atinge os 60-70%, e perceber quais os
 		fatores que contribuem para esta taxa recorde.
 	</p>
-	<ol
-		start="3"
-		class="marker:text-blue-accent marker:font-bold list-[lower-alpha] list-outside pl-10"
-	>
+	<ol type="a" start="3">
 		<li>
 			<b> Qual o tempo máximo de serviço </b>
-			<ol class="marker:text-blue-accent marker:font-bold list-[lower-roman] list-outside pl-10">
+			<ol type="i">
 				<li>
 					<b> desejável, </b>
 				</li>
@@ -296,7 +290,7 @@
 		conclusão mais consistente.
 	</p>
 	<p>Grupo 2 – Infraestruturas Ferroviárias</p>
-	<ol class="marker:text-blue-accent marker:font-bold list-[lower-alpha] list-outside pl-10">
+	<ol>
 		<li>
 			<b>
 				Quais as qualidades fundamentais de uma ligação ferroviária de um novo aeroporto à cidade de
@@ -305,7 +299,7 @@
 		</li>
 	</ol>
 	<p>A localização de um novo aeroporto de Lisboa</p>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<ul>
 		<li>
 			deve ser dotada de ligações ferroviárias que garantam fiabilidade, conectividade de rede
 			(física e funcional), frequência, e tempo de viagem competitivo com o modo rodoviário
@@ -323,11 +317,8 @@
 			criado em torno da infraestrutura aeroportuária (cidade aeroportuária), o que exige condições
 			para a sua expansão.
 		</li>
-	</ol>
-	<ol
-		start="2"
-		class="marker:text-blue-accent marker:font-bold list-[lower-alpha] list-outside pl-10"
-	>
+	</ul>
+	<ol type="a" start="2">
 		<li>
 			<b>
 				Quais os principais fatores competitivos de uma ligação ferroviária relativamente às
@@ -336,10 +327,7 @@
 		</li>
 	</ol>
 	<p>Fiabilidade dos tempos de percurso, regularidade, externalidades (positivas).</p>
-	<ol
-		start="3"
-		class="marker:text-blue-accent marker:font-bold list-[lower-alpha] list-outside pl-10"
-	>
+	<ol type="a" start="3">
 		<li>
 			<b>
 				Em que condições se poderá justificar um transporte ferroviário em linha dedicada e
@@ -351,10 +339,7 @@
 		Dependente da frequência a instalar deve garantir ligações suburbanas, regionais e de longo
 		curso, sendo sempre necessário comprovar a respetiva viabilidade económica e financeira.
 	</p>
-	<ol
-		start="4"
-		class="marker:text-blue-accent marker:font-bold list-[lower-alpha] list-outside pl-10"
-	>
+	<ol type="a" start="4">
 		<li>
 			<b>
 				Em que circunstâncias é que as ligações ferroviárias a um novo aeroporto de Lisboa
@@ -383,7 +368,7 @@
 		Norte, e o Barreiro, na margem Sul”.
 	</p>
 	<p>Grupo 3 – Infraestruturas Rodoviárias</p>
-	<ol class="marker:text-blue-accent marker:font-bold list-[lower-alpha] list-outside pl-10">
+	<ol type="a">
 		<li>
 			<b>
 				Quais as qualidades fundamentais de uma ligação rodoviária de um novo aeroporto à cidade de
@@ -391,7 +376,7 @@
 			</b>
 		</li>
 	</ol>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<ul>
 		<li>
 			Estabelecer as ligações (mais do que uma, para garantir redundância) à rede existente
 			permitindo com flexibilidade a distribuição pela área metropolitana.
@@ -401,11 +386,8 @@
 			Flexibilidade na rede existente (corredores bus com ligação aos corredores de TC dedicados
 			implementados ou a implementar na área metropolitana).
 		</li>
-	</ol>
-	<ol
-		start="2"
-		class="marker:text-blue-accent marker:font-bold list-[lower-alpha] list-outside pl-10"
-	>
+	</ul>
+	<ol type="a" start="2">
 		<li>
 			<b>
 				Quais os principais fatores competitivos de uma ligação rodoviária relativamente às ligações
@@ -413,7 +395,7 @@
 			</b>
 		</li>
 	</ol>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<ul>
 		<li>
 			Flexibilidade: (TI, partilhado, seamless bus, TC, modelos de negócio públicos ou privados,
 			garantia de alternativas em caso de interrupção).
@@ -421,11 +403,8 @@
 		<li>Redundância.</li>
 		<li>Comodidade.</li>
 		<li>Modelo de negócio mais ágil.</li>
-	</ol>
-	<ol
-		start="3"
-		class="marker:text-blue-accent marker:font-bold list-[lower-alpha] list-outside pl-10"
-	>
+	</ul>
+	<ol type="a" start="3">
 		<li>
 			<b>
 				Em que circunstâncias é que se poderá justificar a construção de uma ligação rodoviária
@@ -434,18 +413,15 @@
 			</b>
 		</li>
 	</ol>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<ul>
 		<li>Dada a densidade da rede já construída não parece justificável.</li>
 		<li>
 			Eventualmente a considerar associado (tabuleiro já preparado para) a investimento ferroviário
 			na área metropolitana (TTT) (sobretudo a abrir dedicado a transporte coletivo rodoviário a
 			prazo).
 		</li>
-	</ol>
-	<ol
-		start="4"
-		class="marker:text-blue-accent marker:font-bold list-[lower-alpha] list-outside pl-10"
-	>
+	</ul>
+	<ol type="a" start="4">
 		<li>
 			<b>
 				Para que distância (km) de um novo aeroporto ao centro da cidade de Lisboa a solução
@@ -454,7 +430,7 @@
 			</b>
 		</li>
 	</ol>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<ul>
 		<li>
 			A distância de cerca de 70 a 80 km (máximo de 45 min em regime livre é um valor demasiado
 			alto).
@@ -463,5 +439,5 @@
 			A solução exclusivamente em TI é durante a maior parte das “horas de trabalho na semana” muito
 			menos efetiva que uma solução ferroviária.
 		</li>
-	</ol>
+	</ul>
 </PageContainer>

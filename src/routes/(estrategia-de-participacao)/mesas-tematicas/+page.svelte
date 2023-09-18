@@ -15,37 +15,32 @@
 		Independente como estratégicos para a avaliação das opções para aumento da capacidade
 		aeroportuária para a região de Lisboa. São quatro as mesas temáticas:
 	</p>
-	<ol class="marker:text-blue-accent marker:font-bold list-decimal list-outside pl-10">
+	<ol>
 		<li>
-			<a
-				href="{base}/mesas-tematicas/1/"
-				class="text-blue-accent font-bold underline underline-offset-2"
-				>Que estratégia de desenvolvimento o aeroporto vai servir?</a
-			><br />Coordenador: Fernando Alexandre, UMInho
+			<a href="{base}/mesas-tematicas/1/">
+				<b>Que estratégia de desenvolvimento o aeroporto vai servir?</b>
+			</a>
+			<br />Coordenador: Fernando Alexandre, UMInho
 		</li>
 		<li>
-			<a
-				href="{base}/mesas-tematicas/2/"
-				class="text-blue-accent font-bold underline underline-offset-2"
-				>Como articular os principais sistemas de transporte na região de Lisboa?</a
-			>
+			<a href="{base}/mesas-tematicas/2/">
+				<b>Como articular os principais sistemas de transporte na região de Lisboa?</b>
+			</a>
 			<br />Coordenador: Paulo Pinho, FEUPorto
 		</li>
 		<li>
-			<a
-				href="{base}/mesas-tematicas/3/"
-				class="text-blue-accent font-bold underline underline-offset-2"
-				>Que fatores ambientais e climáticos condicionam a expansão aeroportuária na região de
-				Lisboa?</a
-			>
+			<a href="{base}/mesas-tematicas/3/">
+				<b
+					>Que fatores ambientais e climáticos condicionam a expansão aeroportuária na região de
+					Lisboa?</b
+				>
+			</a>
 			<br />Coordenador: Teresa Fidélis, UAveiro
 		</li>
 		<li>
-			<a
-				href="{base}/mesas-tematicas/4/"
-				class="text-blue-accent font-bold underline underline-offset-2"
-				>Que modelo de aeroporto queremos?</a
-			>
+			<a href="{base}/mesas-tematicas/4/">
+				<b>Que modelo de aeroporto queremos?</b>
+			</a>
 			<br />Coordenador: Rosário Macário, IST-ULisboa
 		</li>
 	</ol>
@@ -66,7 +61,7 @@
 		técnico-científica que irão permitir a triagem das opções estratégicas, concluindo a fase 1 da
 		AAE.
 	</p>
-	<h3 class="text-2xl font-bold pt-6">Lista de participantes de todas as mesas temáticas</h3>
+	<h3>Lista de participantes de todas as mesas temáticas</h3>
 	<p>
 		<b>Participantes:</b> Acácio Pires, Ana Cristina Dourado, António Menezes, António Ramos Andrade,
 		Augusto Mateus, Cabaço Martins, Carlos Antunes, Carlos Fernandes, Carlos Gaspar, Carlos Matias Ramos,

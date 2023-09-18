@@ -10,4 +10,4 @@
 <div class="p-4 bg-grey">
 	<img {src} {alt} {height} {width} class="w-full h-auto" />
 </div>
-<p class="text-center pt-4">Figura {index} - {@html caption}</p>
+<p class="text-center">Figura {index} - {@html caption}</p>

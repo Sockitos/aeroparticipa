@@ -19,10 +19,7 @@
 		Por isso a CTI abriu espaços de diálogo em Janeiro de 2023 e iniciou sessões de interação com
 		diversos interlocutores públicos e privados para auscultar perspectivas e prioridades. Estes
 		espaços de diálogo incluem reuniões bi-laterais mas também reuniões de reflexão com grupos mais
-		restritos de indivíduos - as <a
-			href="{base}/mesas-tematicas"
-			class="text-blue-accent underline underline-offset-2">mesas temáticas</a
-		>.
+		restritos de indivíduos - as <a href="{base}/mesas-tematicas">mesas temáticas</a>.
 	</p>
 	<p>
 		A presente plataforma digital é um outro espaço de diálogo, o meio de comunicação da CTI com o

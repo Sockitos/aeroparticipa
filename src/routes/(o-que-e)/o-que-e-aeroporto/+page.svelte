@@ -24,7 +24,7 @@
 		diferentes. Estas atividades são necessárias para garantir a segurança e comodidade das pessoas,
 		e que os voos se realizam de forma segura e eficiente. Algumas destas atividades incluem:
 	</p>
-	<ul class="marker:text-blue-accent list-disc list-inside pl-5">
+	<ul>
 		<li>
 			<span class="text-blue-accent font-bold"><i>Check-in</i> –</span> é onde os passageiros
 			entregam a bagagem e obtêm os cartões de embarque antes de embarcar no avião. O
@@ -62,7 +62,7 @@
 		garantir a segurança de todos, mas que melhoram a comodidade das pessoas e podem ser importantes
 		fontes de receitas. Alguns destas atividades incluem:
 	</p>
-	<ul class="marker:text-blue-accent list-disc list-inside pl-5">
+	<ul>
 		<li>
 			<span class="text-blue-accent font-bold">Balcão de Informações e Turismo –</span> onde as pessoas
 			podem perguntar sobre voos, direções, e outras informações relacionadas com o aeroporto, a cidade
@@ -85,9 +85,9 @@
 			(ex.: Uber).
 		</li>
 	</ul>
-	<h3 class="text-2xl font-bold pt-6">Quais são as principais zonas de um aeroporto?</h3>
+	<h3>Quais são as principais zonas de um aeroporto?</h3>
 	<p>Em termos gerais podemos organizar os aeroportos em</p>
-	<ul class="marker:text-blue-accent list-disc list-inside pl-5">
+	<ul>
 		<li>
 			<span class="text-blue-accent font-bold">Lado terra –</span> é a zona correspondente às áreas de
 			livre acesso a todas as pessoas. Como exemplos podemos apontar os parques de estacionamento, as
@@ -139,7 +139,7 @@
 		Como a tecnologia evolui muito rapidamente também temos de pensar que tipo de aviões vamos ter
 		no futuro, para que o aeroporto possa acompanhar essa evolução.
 	</p>
-	<h3 class="text-2xl font-bold pt-6">Como é que as companhias aéreas organizam os voos?</h3>
+	<h3>Como é que as companhias aéreas organizam os voos?</h3>
 	<p>
 		O conjunto de voos e destinos regulares de uma companhia aérea constitui a sua rede aérea. Os
 		voos regulares são aqueles voos que se realizam de acordo com um horário que é publicado. Por
@@ -155,7 +155,7 @@
 		destinos, custos do combustível e outros custos, restrições ambientais, entre muitas outras.
 	</p>
 	<p>As redes aéreas podem ser classificadas em duas categorias principais, ver figura 1:</p>
-	<ul class="marker:text-blue-accent list-disc list-inside pl-5">
+	<ul>
 		<li>
 			Ponto a Ponto é uma rede aérea constituída por voos diretos, isto é, o passageiro viaja
 			diretamente do aeroporto de origem para o aeroporto de destino, sem haver transbordo. Este
@@ -174,7 +174,7 @@
 			aérea desta natureza.
 		</li>
 	</ul>
-	<div class="py-8">
+	<div class="py-10">
 		<FramedImage
 			src="{base}/images/redes_aereas.png"
 			alt="Tipos de redes exploradas pelas companhias aéreas"

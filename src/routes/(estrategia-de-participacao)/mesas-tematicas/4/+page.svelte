@@ -9,7 +9,7 @@
 
 <PageHeader>Mesa Temática 4<br />Que modelo de aeroporto precisamos?</PageHeader>
 <PageContainer>
-	<h3 class="text-2xl font-bold">Âmbito e Objetivos</h3>
+	<h3>Âmbito e Objetivos</h3>
 	<p>
 		Um Aeroporto é uma infraestrutura com grande potencial, influencia o desenvolvimento do
 		território e é por ele influenciado. São vários os tipos ou modelos de aeroportos que podem ser
@@ -34,14 +34,14 @@
 		Esta mesa temática irá discutir os possíveis modelos de aeroporto e o seu papel no
 		desenvolvimento económico, numa perspectiva estratégica.
 	</p>
-	<h3 class="text-2xl font-bold pt-6">
+	<h3>
 		Resultados 1ª Sessão<br />Aeroporto e desenvolvimento terrritorial
 	</h3>
-	<h4 class="text-xl font-bold pt-2">
+	<h4>
 		Coordenação: Rosário Macário<br />Relatores: Eng. Vasco Reis e Eng. Vitor Rocha
 	</h4>
-	<h4 class="text-xl font-bold pt-2">Ideias chave:</h4>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<h4>Ideias chave:</h4>
+	<ul>
 		<li>
 			Necessário estabelecer uma <b>visão estratégica</b> para o setor de transporte aéreo em Portugal.
 		</li>
@@ -57,8 +57,8 @@
 			Destacada a importância de <b>integrar o transporte público de passageiros</b> na rede de transportes
 			terrestres.
 		</li>
-	</ol>
-	<h4 class="text-xl font-bold pt-2">Sumário da discussão dos participantes</h4>
+	</ul>
+	<h4>Sumário da discussão dos participantes</h4>
 	<p>
 		A Sessão de Debate destacou uma série de fatores relevantes. Em primeiro lugar, foi discutida a
 		necessidade de se estabelecer uma visão estratégica para o setor de transporte aéreo em
@@ -121,10 +121,10 @@
 		transportes terrestres, assegurando a integração com a ferrovia e compatibilizando com o plano
 		nacional ferroviário.
 	</p>
-	<h3 class="text-2xl font-bold pt-6">
+	<h3>
 		Resultados 2ª Sessão<br />Modelo Dual versus Modelo Single, quais as opções de transição?
 	</h3>
-	<h4 class="text-xl font-bold pt-2">
+	<h4>
 		Coordenação: Rosário Macário<br />Relatores: Eng. Vasco Reis e Eng. Vitor Rocha
 	</h4>
 	<p>
@@ -132,8 +132,8 @@
 		discutir e identificar as vantagens e inconvenientes das opções consideradas, que foram: um
 		aeroporto Greenfield; uma opção Dual; Solução de transição.
 	</p>
-	<h4 class="text-xl font-bold pt-2">Ideias chave:</h4>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<h4>Ideias chave:</h4>
+	<ol>
 		<li>
 			A construção do novo aeroporto deve seguir uma lógica flexível (isto é, ter as componentes
 			mínimas necessárias para entrar em funcionamento);
@@ -157,8 +157,8 @@
 			funcionamento extremamente reduzido e limitado (à semelhança do aeroporto de London City).
 		</li>
 	</ol>
-	<h4 class="text-xl font-bold pt-2">Sumário da discussão dos participantes</h4>
-	<p class="font-bold">Mesa 1: Opção Green Field</p>
+	<h4>Sumário da discussão dos participantes</h4>
+	<p><b>Mesa 1: Opção Green Field</b></p>
 	<p>
 		Esta mesa debateu se o novo aeroporto de Lisboa deve ser construído como um green field airport.
 		Entre as vantagens de um green field airport estão a visão de longo prazo, que não se limita à
@@ -188,24 +188,32 @@
 		Embora seja necessário ponderar todos os prós e contras, é crucial encontrar soluções para
 		suportar o investimento e garantir o sucesso a longo prazo do novo aeroporto de Lisboa.
 	</p>
-	<p class="font-bold">Mesa 2: Opção Dual</p>
+	<p><b>Mesa 2: Opção Dual</b></p>
 	<p>Esta mesa debateu a opção dual. Várias opções duais foram analisadas, nomeadamente:</p>
-	<ol class="marker:text-blue-accent marker:font-bold list-decimal list-outside pl-10">
+	<ol>
 		<li>
-			<p><b>Hub:</b> Novo Aeroporto</p>
-			<p><b>Secundário:</b> Portela</p>
+			<p>
+				<b>Hub:</b> Novo Aeroporto<br />
+				<b>Secundário:</b> Portela
+			</p>
 		</li>
 		<li>
-			<p><b>Hub:</b> Portela</p>
-			<p><b>Secundário:</b> Novo Aeroporto</p>
+			<p>
+				<b>Hub:</b> Portela<br />
+				<b>Secundário:</b> Novo Aeroporto
+			</p>
 		</li>
 		<li>
-			<p><b>Hub:</b> Novo Aeroporto</p>
-			<p><b>Secundário:</b> Portela (com phase out após construção do Novo Aeroporto)</p>
+			<p>
+				<b>Hub:</b> Novo Aeroporto<br />
+				<b>Secundário:</b> Portela (com phase out após construção do Novo Aeroporto)
+			</p>
 		</li>
 		<li>
-			<p><b>Hub:</b> Novo Aeroporto</p>
-			<p><b>Secundário:</b> Portela mais 1 temporário enquanto Novo Aeroporto é construído</p>
+			<p>
+				<b>Hub:</b> Novo Aeroporto<br />
+				<b>Secundário:</b> Portela mais 1 temporário enquanto Novo Aeroporto é construído
+			</p>
 		</li>
 	</ol>
 	<p>
@@ -252,7 +260,7 @@
 		A única opção para a manutenção da Portela seria como vertiport ou com um horário de
 		funcionamento extremamente reduzido e limitado (à semelhança do aeroporto de London City).
 	</p>
-	<p class="font-bold">Mesa 3: Transição</p>
+	<p><b>Mesa 3: Transição</b></p>
 	<p>
 		Nesta mesa foi debatida o modelo de transição do atual aeroporto da Portela para a solução
 		futura, independentemente de ser greenfield ou dual.
@@ -305,21 +313,21 @@
 		dos intervenientes do turismo poderiam também fazer surgir riscos. Finalmente, atrair
 		investidores seria um desafio em ambos os casos, mas por diferentes razões.
 	</p>
-	<h3 class="text-2xl font-bold pt-6">
+	<h3>
 		Resultados 3ª Sessão<br />Conectividade na rede aérea e dependência do hinterland
 	</h3>
-	<h4 class="text-xl font-bold pt-2">
+	<h4>
 		Coordenação: Rosário Macário<br />Relatores: Vasco Reis e Sofia Kalakou
 	</h4>
-	<h4 class="text-xl font-bold pt-2">Ideias chave:</h4>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<h4>Ideias chave:</h4>
+	<ul>
 		<li>O hub permite ligações diretas (conectividade) a um maior número de destinos.</li>
 		<li>
 			O atual contexto de privatização da TAP terá impacte sobre o desenvolvimento do hub em Lisboa.
 		</li>
-	</ol>
-	<h4 class="text-xl font-bold pt-2">Sumário da discussão dos participantes</h4>
-	<p class="font-bold">O hub é bom ou mau para o caso português?</p>
+	</ul>
+	<h4>Sumário da discussão dos participantes</h4>
+	<p><b>O hub é bom ou mau para o caso português?</b></p>
 	<p>O hub é a melhor opção e positiva para o caso português.</p>
 	<p>
 		O hub permite ligações diretas (conetividade) a maior número de destinos. O hub da TAP em Lisboa

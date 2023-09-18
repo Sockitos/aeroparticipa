@@ -13,7 +13,7 @@
 		Lista de entidades com as quais a CTI já interagiu para explorar perspetivas futuras, e
 		expectativas, sobre a futura capacidade aeroportuária da região de Lisboa:
 	</p>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<ul>
 		<li>ANA - Aeroportos de Portugal</li>
 		<li>TAP Air Portugal</li>
 		<li>NAV Portugal - Navegação Aérea</li>
@@ -48,5 +48,5 @@
 		<li>Turismo de Portugal</li>
 		<li>Ryanair</li>
 		<li>Magellan 500</li>
-	</ol>
+	</ul>
 </PageContainer>

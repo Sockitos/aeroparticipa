@@ -11,7 +11,7 @@
 
 <PageHeader>Composição da<br />Comissão Técnica Independente</PageHeader>
 <PageContainer>
-	<div class="space-y-14">
+	<div class="not-prose space-y-14">
 		<TeamMember
 			imageSrc="{base}/images/cti/MRP.png"
 			title="Coordenação-Geral"

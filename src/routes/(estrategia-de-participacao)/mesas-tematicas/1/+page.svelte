@@ -11,7 +11,7 @@
 	>Mesa Temática 1<br />Que estratégia de desenvolvimento o aeroporto vai servir?</PageHeader
 >
 <PageContainer>
-	<h3 class="text-2xl font-bold">Âmbito e Objetivos</h3>
+	<h3>Âmbito e Objetivos</h3>
 	<p>
 		Portugal é uma pequena economia, com elevado endividamento e com uma dinâmica demográfica muito
 		negativa. Estas circunstâncias tornam as exportações de bens e serviços essenciais para o
@@ -28,14 +28,14 @@
 		contexto estratégico para decisão sobre as opções estratégicas em relação ao aeroporto da região
 		de Lisboa é o objetivo desta mesa temática.
 	</p>
-	<h3 class="text-2xl font-bold pt-6">
+	<h3>
 		Resultados 1ª Sessão<br />A posição de Portugal na economia mundial
 	</h3>
-	<h4 class="text-xl font-bold pt-2">
+	<h4>
 		Coordenação: Fernando Alexandre<br />Relator: Fernando Alexandre
 	</h4>
-	<h4 class="text-xl font-bold pt-2">Ideias chave:</h4>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<h4>Ideias chave:</h4>
+	<ul>
 		<li>Portugal é um país periférico na Europa, mas central no Atlântico.</li>
 		<li>
 			A política externa portuguesa teve sempre três prioridades: a Atlântica, a Europeia e a
@@ -62,8 +62,8 @@
 			A fragilidade financeira do país das últimas décadas determinou que as infraestruturas mais
 			relevantes para a conectividade internacional do país sejam hoje controladas por estrangeiros.
 		</li>
-	</ol>
-	<h4 class="text-xl font-bold pt-2">Sumário da discussão dos participantes</h4>
+	</ul>
+	<h4>Sumário da discussão dos participantes</h4>
 	<p>
 		Portugal é um país periférico na Europa, mas central no Atlântico. Para garantir a independência
 		face a Espanha, Portugal tornou-se um especialista no multilateralismo, procurando sempre
@@ -137,14 +137,14 @@
 		O aeroporto de Lisboa é fundamental para dar projeção internacional à região de Lisboa, que pode
 		ser entendida numa perspetiva mais ampla.
 	</p>
-	<h3 class="text-2xl font-bold pt-6">
+	<h3>
 		Resultados 2ª Sessão<br />Internacionalização e integração da economia portuguesa no mundo
 	</h3>
-	<h4 class="text-xl font-bold pt-2">
+	<h4>
 		Coordenação: Fernando Alexandre<br />Relator: João Fragoso Januário
 	</h4>
-	<h4 class="text-xl font-bold pt-26">Ideias chave:</h4>
-	<ol class="marker:text-blue-accent marker:font-bold list-disc list-outside pl-10">
+	<h4>Ideias chave:</h4>
+	<ul>
 		<li>É fundamental alinhar a estratégia do aeroporto com a estratégia do país e da cidade.</li>
 		<li>
 			O crescimento da globalização abrandou a nível mundial. Portugal tem estado em contraciclo,
@@ -192,8 +192,8 @@
 		<li>
 			A tendência <i>bleisure</i> ou <i>blended</i> travel aumenta a importância da facilidade de viajar.
 		</li>
-	</ol>
-	<h4 class="text-xl font-bold pt-6">Sumário da discussão dos participantes</h4>
+	</ul>
+	<h4>Sumário da discussão dos participantes</h4>
 	<p>
 		A Mesa Temática subordinada ao tema da “Internacionalização e integração da economia Portuguesa
 		no mundo” abordou a evolução da globalização a nível global e na economia portuguesa, a

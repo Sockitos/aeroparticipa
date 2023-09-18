@@ -19,7 +19,7 @@
 		O <i>hub</i> aeroportuário é assim um ponto de concentração estruturada de operações de voos comerciais,
 		num determinado período de tempo.
 	</p>
-	<div class="py-8">
+	<div class="py-10">
 		<FramedImage
 			src="{base}/images/hub_1.png"
 			alt="Esquema representativo de um hub"
@@ -29,7 +29,7 @@
 			caption="Esquema representativo de um <i>hub</i>"
 		/>
 	</div>
-	<h3 class="text-2xl font-bold pt-6">
+	<h3>
 		Como se define a estrutura funcional de um <i>hub</i> aeroportuário?
 	</h3>
 	<p>
@@ -48,7 +48,7 @@
 		suas viagens em função do <i>hub</i>
 		onde querem fazer a transferência.
 	</p>
-	<h3 class="text-2xl font-bold pt-6">Porque é que um <i>hub</i> é importante?</h3>
+	<h3>Porque é que um <i>hub</i> é importante?</h3>
 	<p>
 		Os <i><i>hub</i>s</i> são os nós da rede mundial de transporte aéreo, onde se realizam as
 		transferências de tráfego (passageiros e mercadorias). Na Europa as cidades que detêm os
@@ -60,7 +60,7 @@
 		receita aeroportuária, e aumenta a conectividade. Um aeroporto <i>hub</i> com muito movimento oferece
 		várias ondas de transferência de tráfego ao longo do dia. A figura 2 pretende mostrar esse efeito.
 	</p>
-	<div class="py-8">
+	<div class="py-10">
 		<FramedImage
 			src="{base}/images/hub_2.png"
 			alt="Pontos de concentração de tráfego num hub"
