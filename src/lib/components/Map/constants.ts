@@ -395,7 +395,7 @@ export const options: MapOption[] = [
 			},
 			{
 				label: 'População Potencialmente Vulnerável ao Ruído',
-				info: [{ label: 'População residente', value: '≈1200' }]
+				info: [{ label: 'População residente', value: '≈560200' }]
 			}
 		],
 		layers: [],
