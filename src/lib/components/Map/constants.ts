@@ -388,9 +388,9 @@ export const options: MapOption[] = [
 			{
 				label: 'Aeroporto',
 				info: [
-					{ label: 'Nº de pistas', value: '2' },
-					{ label: 'Capacidade de Movimentos / Hora', value: '80' },
-					{ label: 'Capacidade de Expansão', value: 'Sim (até 4)' }
+					{ label: 'Nº de pistas', value: '1+1' },
+					{ label: 'Capacidade de Movimentos / Hora', value: '20+40' },
+					{ label: 'Capacidade de Expansão', value: 'Sim' }
 				]
 			},
 			{
@@ -410,32 +410,32 @@ export const options: MapOption[] = [
 			{
 				label: 'Ferrovia',
 				info: [
-					{ label: 'Frequência num sentido', value: 'Em Análise' },
-					{ label: 'Tempo a Lisboa (atual)', value: 'Em Análise' },
+					{ label: 'Frequência num sentido', value: '5' },
+					{ label: 'Tempo a Lisboa (atual)', value: '39 mins' },
 					{
 						label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)',
-						value: 'Em Análise'
+						value: '44 mins'
 					}
 				]
 			},
 			{
 				label: 'Rodovia (nas principais vias)',
 				info: [
-					{ label: 'Distância a Lisboa', value: 'Em Análise' },
-					{ label: 'Tempo a Lisboa', value: 'Em Análise' }
+					{ label: 'Distância a Lisboa', value: '70 km' },
+					{ label: 'Tempo a Lisboa', value: '53 mins' }
 				]
 			},
 			{
 				label: 'Aeroporto',
 				info: [
-					{ label: 'Nº de pistas', value: 'Em Análise' },
-					{ label: 'Capacidade de Movimentos / Hora', value: 'Em Análise' },
-					{ label: 'Capacidade de Expansão', value: 'Em Análise' }
+					{ label: 'Nº de pistas', value: '2' },
+					{ label: 'Capacidade de Movimentos / Hora', value: '80' },
+					{ label: 'Capacidade de Expansão', value: 'Sim (até 4)' }
 				]
 			},
 			{
 				label: 'População Potencialmente Vulnerável ao Ruído',
-				info: [{ label: 'População residente', value: 'Em Análise' }]
+				info: [{ label: 'População residente', value: '≈1230' }]
 			}
 		],
 		layers: [],
@@ -451,7 +451,7 @@ export const options: MapOption[] = [
 				label: 'Ferrovia',
 				info: [
 					{ label: 'Frequência num sentido', value: '1' },
-					{ label: 'Tempo a Lisboa (atual)', value: '48 mins' },
+					{ label: 'Tempo a Lisboa (atual)', value: '53 mins' },
 					{ label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: '28 mins' }
 				]
 			},
@@ -472,7 +472,7 @@ export const options: MapOption[] = [
 			},
 			{
 				label: 'População Potencialmente Vulnerável ao Ruído',
-				info: [{ label: 'População residente', value: '≈11800' }]
+				info: [{ label: 'População residente', value: '≈11900' }]
 			}
 		],
 		layers: [],
