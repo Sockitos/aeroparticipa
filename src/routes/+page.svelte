@@ -40,15 +40,15 @@
 </div>
 <div class="bg-plane bg-cover bg-center bg-blue bg-blend-multiply">
 	<div class="container py-10 md:py-16">
-		<h2 class="text-3xl font-bold text-white pb-6">Relatório de Fatores Críticos para a Decisão pós Consulta Pública</h2>
-		<h2 class="text-3xl font-bold text-white pb-6">JÁ DISPONÍVEL</h2>
+		<h2 class="text-3xl font-bold text-white pb-6">JÁ DISPONÍVEL!</h2>
+		<h2 class="text-3xl font-bold text-white pb-6">Relatório de Fatores Críticos para a Decisão (FCD) pós Consulta Pública</h2>
 		<p class="max-w-3xl text-white text-xl">
 			Está disponível o 2º Relatório FCD revisto com os comentários da consulta e participação pública.
-			Em anexo ao RFCD consta a Sistematização dos comentários recebido na consulta pública formal ao 
+			Em anexo ao RFCD consta a sistematização dos comentários recebido na consulta pública formal ao 
 			Relatório de FCD e respostas ou observações da CTI.
 		</p>
 		<div class="py-8 flex justify-start">
-			<ArrowLink label="2º Relatório RFCD" href="{base}/relatorios" isLight />
+			<ArrowLink label="2º Relatório FCD" href="{base}/relatorios" isLight />
 		</div>
 	</div>
 </div>
