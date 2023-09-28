@@ -27,6 +27,7 @@
 	</p>
 	<div class="flex flex-col gap-4 mt-5">
 		<DocumentLink href="{base}/relatorios/relatorio_2.pdf">Documento</DocumentLink>
-		<DocumentLink href="{base}/relatorios/relatorio_2.pdf">Sumário Executivo</DocumentLink>
+		<DocumentLink href="{base}/relatorios/relatorio_sumario.pdf">Sumário Executivo</DocumentLink>
+		<DocumentLink href="{base}/relatorios/relatorio_2_1.pdf">Documento pós Consulta Pública</DocumentLink>
 	</div>
 </PageContainer>
