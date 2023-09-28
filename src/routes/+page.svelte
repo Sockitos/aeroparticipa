@@ -40,11 +40,12 @@
 </div>
 <div class="bg-plane bg-cover bg-center bg-blue bg-blend-multiply">
 	<div class="container py-10 md:py-16">
-		<h2 class="text-3xl font-bold text-white pb-6">Aberto o período de Consulta do RFCD</h2>
+		<h2 class="text-3xl font-bold text-white pb-6">Relatório de Fatores Críticos para a Decisão pós Consulta Pública</h2>
+		<h2 class="text-3xl font-bold text-white pb-6">JÁ DISPONÍVEL</h2>
 		<p class="max-w-3xl text-white text-xl">
-			Está aberto o período de consulta pública e institucional, nos termos dos números 3 e 4 do
-			artigo 5º do DL 232/2007, de 15 de junho, na sua redação atual, que encerra a 4 de Agosto.
-			Todos os comentários/pareceres devem ser enviados por email para cti.aeroporto@lnec.pt.
+			Está disponível o 2º Relatório FCD revisto com os comentários da consulta e participação pública.
+			Em anexo ao RFCD consta a Sistematização dos comentários recebido na consulta pública formal ao 
+			Relatório de FCD e respostas ou observações da CTI.
 		</p>
 		<div class="py-8 flex justify-start">
 			<ArrowLink label="2º Relatório RFCD" href="{base}/relatorios" isLight />
