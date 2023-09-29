@@ -40,7 +40,7 @@
 			imageSrc="{base}/images/cti/TF.png"
 			title="PT4"
 			name="Professora Teresa Fidelis"
-			description="Professora Auxiliar com Agregação em Ciências e Engenharia do Ambiente (ramo Planeamento e Governação Ambiental) no Dep. de Ambiente e Ordenamento, Universidade de Aveiro e investigadora no GOVCOPP. Foi Presidente da ARH do Centro, IP., do Polis Litoral Ria de Aveiro, SA., e Diretora Regional do Centro do ICNF, IP. Integrou projetos internacionais de investigação sobre território e recursos hídricos, avaliações ambientais estratégicas e avaliações ex-ante."
+			description="Professora Associada com Agregação em Ciências e Engenharia do Ambiente (ramo Planeamento e Governação Ambiental) no Dep. de Ambiente e Ordenamento, Universidade de Aveiro e investigadora no GOVCOPP. Foi Presidente da ARH do Centro, IP., do Polis Litoral Ria de Aveiro, SA., e Diretora Regional do Centro do ICNF, IP. Integrou projetos internacionais de investigação sobre território e recursos hídricos, avaliações ambientais estratégicas e avaliações ex-ante."
 		/>
 		<TeamMember
 			imageSrc="{base}/images/cti/FA.png"
