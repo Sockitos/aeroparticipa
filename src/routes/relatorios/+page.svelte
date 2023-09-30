@@ -29,6 +29,12 @@
 		<DocumentLink href="{base}/relatorios/relatorio_2.pdf">Documento</DocumentLink>
 		<DocumentLink href="{base}/relatorios/relatorio_2.pdf">Sumário Executivo</DocumentLink>
 		<DocumentLink href="{base}/relatorios/relatorio_2_1.pdf">Documento pós Consulta Pública</DocumentLink>
-
 	</div>
+	<h3>Relatório da Análise de Curto Prazo</h3>
+    <p>
+		A comissão técnica independente disponibiliza o Relatório da Análise de Curto Prazo da situação atual do 
+		Aeroporto Humberto Delgado (AHD), onde consta uma proposta de ações de melhoria da sua eficiência e eficácia operacional.
+    </p>
+    <div class="flex flex-col gap-4 mt-5">
+        <DocumentLink href="{base}/relatorios/relatorio_AHD.pdf">Documento</DocumentLink>
 </PageContainer>

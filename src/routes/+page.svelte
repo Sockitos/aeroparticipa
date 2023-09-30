@@ -47,8 +47,13 @@
 			Em anexo ao RFCD consta a sistematização dos comentários recebido na consulta pública formal ao 
 			Relatório de FCD e respostas ou observações da CTI.
 		</p>
+		<h2 class="text-3xl font-bold text-white pb-6"> </h2>
+		<h2 class="text-3xl font-bold text-white pb-6">Relatório da Análise de Curto Prazo</h2>
+		<p class="max-w-3xl text-white text-xl">
+			A comissão técnica independente disponibiliza o Relatório da Análise de Curto Prazo da situação atual do 
+			Aeroporto Humberto Delgado (AHD), onde consta uma proposta de ações de melhoria da sua eficiência e eficácia operacional.
 		<div class="py-8 flex justify-start">
-			<ArrowLink label="2º Relatório FCD" href="{base}/relatorios" isLight />
+			<ArrowLink label="Relatórios" href="{base}/relatorios" isLight />
 		</div>
 	</div>
 </div>
