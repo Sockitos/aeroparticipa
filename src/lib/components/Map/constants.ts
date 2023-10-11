@@ -451,7 +451,7 @@ export const options: MapOption[] = [
 				label: 'Ferrovia',
 				info: [
 					{ label: 'Frequência num sentido', value: '1' },
-					{ label: 'Tempo a Lisboa (atual)', value: '53 mins' },
+					{ label: 'Tempo a Lisboa (atual)', value: '48 mins' },
 					{ label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: '28 mins' }
 				]
 			},
