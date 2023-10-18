@@ -6,7 +6,7 @@
 </script>
 
 <svelte:head>
-    <title>AeroParticipa - Composição da Comissão Técnica Independente</title>
+    <title>AeroParticipa - Equipas Técnicas</title>
 </svelte:head>
 
 <PageHeader>Equipas Técnicas<br />Comissão Técnica Independente</PageHeader>
@@ -33,27 +33,27 @@
         <TeamMember
             imageSrc="{base}/images/bios/PT2JOAO.png"       
             name="João Mendonça"
-            description="36 anos de experiência aeronáutica. Atualmente técnico de Informação e Comunicações Aeronáuticas no Centro de Controlo Oceânico de Santa Maria e Centro de Controlo de Lisboa. 15 anos de experiência como Flight Procedure Designer na NAV Portugal."/>
+            description="36 anos de experiência Aeronáutica. Atualmente técnico de Informação e Comunicações Aeronáuticas no Centro de Controlo Oceânico de Santa Maria e Centro de Controlo de Lisboa. 15 anos de experiência como Flight Procedure Designer na NAV Portugal."/>
         <TeamMember
             imageSrc="{base}/images/bios/PT2MANUEL.png"
             name="Manuel Araújo"
-            description="36 anos de experiência aeronáutica. Controlador de tráfego Aéreo da NAV Portugal tendo exercido funções na Área Oceânica de Santa Maria, Torre de Lisboa e Aproximação Radar de Lisboa. Actual responsável pelo Serviço de Procedimentos Aeronáuticos e de Espaço Aéreo da NAV Portugal."/>
+            description="36 anos de experiência Aeronáutica. Controlador de tráfego Aéreo da NAV Portugal tendo exercido funções na Área Oceânica de Santa Maria, Torre de Lisboa e Aproximação Radar de Lisboa. Actual responsável pelo Serviço de Procedimentos Aeronáuticos e de Espaço Aéreo da NAV Portugal."/>
         <TeamMember
             imageSrc="{base}/images/bios/PT2PATRICIA.png"       
-            name="Patricia Ferreira "
-            description="Arq. Urbanista, com mais de 10 anos de experiência. Trabalhou a nível nacional e internacional, para países como Angola, Gabão, Namíbia e Marrocos, na elaboração de Projetos de Loteamento, Planos de Urbanização e de Pormenor, participando pontualmente em Projetos de Arquitetura. Experiência em Estudos de Viabilidade de Ocupação do Solo, Estudos Urbanísticos, Propostas de Ocupação de Unidades de Execução e Projetos de Loteamento. "/>
+            name="Patrícia Ferreira"
+            description="Arquiteta Urbanista, com mais de 10 anos de experiência. Trabalhou a nível nacional e internacional, para países como Angola, Gabão, Namíbia e Marrocos, na elaboração de Projetos de Loteamento, Planos de Urbanização e de Pormenor, participando pontualmente em Projetos de Arquitetura. Experiência em Estudos de Viabilidade de Ocupação do Solo, Estudos Urbanísticos, Propostas de Ocupação de Unidades de Execução e Projetos de Loteamento. "/>
         <TeamMember
             imageSrc="{base}/images/bios/PT2SARA.png"
             name="Sara Silva"
-            description="12 anos de experiência aeronáutica. 10 anos como Controladora de Tráfego Aéreo. 2 anos como Flight Procedure Designer na NAV Portugal;."/>
+            description="12 anos de experiência Aeronáutica. 10 anos como Controladora de Tráfego Aéreo. 2 anos como Flight Procedure Designer na NAV Portugal."/>
         <TeamMember
             imageSrc="{base}/images/bios/PT2VASCO.png"      
             name="Vasco Afonso"
-            description="Engenheiro civil, tem mais de 40 anos de experiência em desenvolvimento de infraestrutura aeronautica e fiscalização da sua construção, em Portugal e no estrangeiro. Especializado pela Universidade de Loughborough no Reino Unido. "/>
+            description="Engenheiro Civil, tem mais de 40 anos de experiência em desenvolvimento de infraestrutura aeronautica e fiscalização da sua construção, em Portugal e no estrangeiro. Especializado pela Universidade de Loughborough no Reino Unido. "/>
         <TeamMember
             imageSrc="{base}/images/bios/PT2VASCOM.png"
             name="Vasco Martins"
-            description="Engenheiro Civil e Arquitecto, especialista em medição e orçamentação de projectos de construção, com mais de 30 anos de experiência."/>
+            description="Engenheiro Civil e Arquiteto, especialista em medição e orçamentação de projectos de construção, com mais de 30 anos de experiência."/>
         <TeamMember
             imageSrc="{base}/images/bios/PT2VASCOR.png"     
             name="Vasco Reis"
@@ -61,7 +61,7 @@
         <TeamMember
             imageSrc="{base}/images/bios/PT2VITOR.png"
             name="Vitor Rocha"
-            description="Engenheiro Civil, Mestre em Investigação Operacional, especializado em Infraetsruturas aeroportuárias pelas Universidades de Loughborough e Westminster no Reino Unido, tem mais de  40 anos de experiência em planeamento e desenvolvimento aeroportuário aplicada em Portugal e no estrangeiro.  "/>
+            description="Engenheiro Civil, Mestre em Investigação Operacional, especializado em Infraestruturas aeroportuárias pelas Universidades de Loughborough e Westminster no Reino Unido, tem mais de  40 anos de experiência em planeamento e desenvolvimento aeroportuário aplicada em Portugal e no estrangeiro.  "/>
         <h2 class="text-2xl font-bold text-blue pb-6">PT3 - Acessibilidades</h2>
         <TeamMember
             imageSrc="{base}/images/bios/PT3ANTONIO.png"        
@@ -70,28 +70,28 @@
         <TeamMember
             imageSrc="{base}/images/bios/PT3ANTONIOC.png"
             name="António Couto"
-            description="Professor Catedrático da FEUP. Licenciado em Engª Civil, Doutorado e Agregado em Vias de Comunicação e Transportes, é atualmente Diretor do Centro de Investigação do Território, Transportes e Ambiente (CITTA-UP/UC). Foi desde 2018 Diretor do Mestrado em Gestão da Mobilidade Urbana. Entre 2019 e 2023 foi Membro da Direcção Laboratório de Ensaio de Materiais de Construção. É desde 2007 responsável pedagógico da área de sistemas ferroviários da licenciatura e atual Mestrado em Engenharia Civil. Como consultor do instituto de interface da FEUP, Instituto da Construção, colaborou e coordenou diversos projetos na área dos transportes, com especial foco em estudos no âmbito do transporte ferroviário. "/>
+            description="Professor Catedrático da Faculdade de Engenharia da Universidade do Porto. Licenciado em Engenharia Civil, Doutorado e Agregado em Vias de Comunicação e Transportes, é atualmente Diretor do Centro de Investigação do Território, Transportes e Ambiente (CITTA-UP/UC). Foi desde 2018 Diretor do Mestrado em Gestão da Mobilidade Urbana. Entre 2019 e 2023 foi Membro da Direcção Laboratório de Ensaio de Materiais de Construção. É desde 2007 responsável pedagógico da área de sistemas ferroviários da licenciatura e atual Mestrado em Engenharia Civil. Como consultor do instituto de interface da Faculdade de Engenharia da Universidade do Porto, Instituto da Construção, colaborou e coordenou diversos projetos na área dos transportes, com especial foco em estudos no âmbito do transporte ferroviário. "/>
         <TeamMember
             imageSrc="{base}/images/bios/PT3JOAO.png"       
             name="José Pedro Tavares"
-            description="licenciado em Engenharia Civil pela FEUP (1989), mestre em Transportes pelo Instituto Superior Técnico (1995) e doutorado em Engenharia Civil pela FEUP, 2004. Ingressou na FEUP, na Secção de Vias de Comunicação do Departamento de Engenharia Civil (!993), tendo estado envolvido na docência, onde tem lecionado diferentes unidades curriculares da área dos Transportes e Vias de Comunicação nos diferentes ciclos. Foi Diretor do Laboratório de Análise de Tráfego sendo o atual coordenador da Secção de Vias de Comunicação e Transportes. Na sua investigação, dedica-se à área da Modelação de Sistemas de Transporte com principal enfoque à Gestão e Controlo de Tráfego, tendo colaborado/coordenado vários projetos de investigação nacionais e europeus. A nível profissional realizou diferentes estudos e consultorias no âmbito da mobilidade e tráfego, designadamente nas áreas de modelação de redes e de gestão e controlo de tráfego, tendo colaborado com diversas entidades públicas e privadas."/>
+            description="licenciado em Engenharia Civil pela Faculdade de Engenharia da Universidade do Porto (1989), mestre em Transportes pelo Instituto Superior Técnico (1995) e doutorado em Engenharia Civil pela Faculdade de Engenharia da Universidade do Porto, 2004. Ingressou na Faculdade de Engenharia da Universidade do Porto, na Secção de Vias de Comunicação do Departamento de Engenharia Civil (!993), tendo estado envolvido na docência, onde tem lecionado diferentes unidades curriculares da área dos Transportes e Vias de Comunicação nos diferentes ciclos. Foi Diretor do Laboratório de Análise de Tráfego sendo o atual coordenador da Secção de Vias de Comunicação e Transportes. Na sua investigação, dedica-se à área da Modelação de Sistemas de Transporte com principal enfoque à Gestão e Controlo de Tráfego, tendo colaborado/coordenado vários projetos de investigação nacionais e europeus. A nível profissional realizou diferentes estudos e consultorias no âmbito da mobilidade e tráfego, designadamente nas áreas de modelação de redes e de gestão e controlo de tráfego, tendo colaborado com diversas entidades públicas e privadas."/>
         <TeamMember
             imageSrc="{base}/images/bios/PT3MIGUEL.png"
             name="Miguel Serra"
-            description="Licenciado em Arquitetura pela FAUP (1999), Mestre em Planeamento e Projecto do Ambiente Urbano (2008) e Doutorado em Engª Civil – Planeamento do Território e Ambiente (2014), graus conferidos pela FEUP. Foi Senior Research Associate no Space Syntax Laboratory, University College London (2013-2016) e, posteriormente (2016-2020), Honorary Research Associate no mesmo laboratório. Entre 2016 e 2022 foi Bolseiro de Pos-Doutoramento FCT no Centro de Investigação do Território, Transportes e Ambiente (CITTA-UP/UC), onde é atualmente Investigador Integrado. O seu trabalho centra-se na análise quantitativa de formas urbanas, através de sistemas de informação geográfica associados a técnicas de reconhecimento de padrões.."/>
+            description="Licenciado em Arquitetura pela FAUP (1999), Mestre em Planeamento e Projecto do Ambiente Urbano (2008) e Doutorado em Engenharia Civil – Planeamento do Território e Ambiente (2014), graus conferidos pela Faculdade de Engenharia da Universidade do Porto. Foi Senior Research Associate no Space Syntax Laboratory, University College London (2013-2016) e, posteriormente (2016-2020), Honorary Research Associate no mesmo laboratório. Entre 2016 e 2022 foi Bolseiro de Pos-Doutoramento FCT no Centro de Investigação do Território, Transportes e Ambiente (CITTA-UP/UC), onde é atualmente Investigador Integrado. O seu trabalho centra-se na análise quantitativa de formas urbanas, através de sistemas de informação geográfica associados a técnicas de reconhecimento de padrões.."/>
         <TeamMember
             imageSrc="{base}/images/bios/PT3NELSOL.png"     
             name="Nelson Vila Pouca"
-            description="licenciado em Engenharia Civil pela FEUP (1983), Mestre em Estruturas (1992) e Doutorado em Engenharia Civil (2002) pela FEUP. Ingressou na atividade docente na FEUP em 1983 sendo atualmente Professor Auxiliar do DEC-FEUP. É Diretor do Núcleo de Reabilitação do Instituto para a Construção Sustentável (ICS) da UP e foi membro da Direção da Sociedade Portuguesa de Engenharia Sísmica (SPES) entre 2018 e 2022. Desenvolve trabalho de investigação aplicada na área das estruturas, especialmente dirigida para as áreas da engenharia sísmica e da reabilitação e reforço de estruturas, tendo colaborado em diversos projetos de investigação nacionais e internacionais. Na componente de consultoria na área de estruturas esteve envolvido em diversas obras relevantes com estruturas especiais, tais como, Metro Ligeiro do Porto (MP), Reabilitação da Linha Ferroviária da Beira Alta (IP) e Terminal de Cruzeiros de Lisboa (APL)."/>
+            description="Licenciado em Engenharia Civil pela Faculdade de Engenharia da Universidade do Porto (1983), Mestre em Estruturas (1992) e Doutorado em Engenharia Civil (2002) pela Faculdade de Engenharia da Universidade do Porto. Ingressou na atividade docente na Faculdade de Engenharia da Universidade do Porto em 1983 sendo atualmente Professor Auxiliar do DEC-Faculdade de Engenharia da Universidade do Porto. É Diretor do Núcleo de Reabilitação do Instituto para a Construção Sustentável (ICS) da UP e foi membro da Direção da Sociedade Portuguesa de Engenharia Sísmica (SPES) entre 2018 e 2022. Desenvolve trabalho de investigação aplicada na área das estruturas, especialmente dirigida para as áreas da engenharia sísmica e da reabilitação e reforço de estruturas, tendo colaborado em diversos projetos de investigação nacionais e internacionais. Na componente de consultoria na área de estruturas esteve envolvido em diversas obras relevantes com estruturas especiais, tais como, Metro Ligeiro do Porto (MP), Reabilitação da Linha Ferroviária da Beira Alta (IP) e Terminal de Cruzeiros de Lisboa (APL)."/>
         <TeamMember
             imageSrc="{base}/images/bios/PT3PEDRO.png"
             name="Pedro Mêda"
-            description="Pedro Nuno Mêda Magalhães é Investigador no Instituto para a Construção Sustentável e Professor Convidado da FEUP. Licenciado em Eng. Civil, Mestre Integrado em Eng. Civil e PhD Candidate, desenvolve atividade de investigação, consultoria e formação na área da gestão de projetos, contratação pública, custos ciclo de vida, gestão da informação e sustentabilidade das construções. É membro do comité de normalização da ISO (TC 59 SC 13) e é autor e coautor de várias publicações na área da ferrovia."/>
+            description="Pedro Nuno Mêda Magalhães é Investigador no Instituto para a Construção Sustentável e Professor Convidado da Faculdade de Engenharia da Universidade do Porto. Licenciado em Eng. Civil, Mestre Integrado em Eng. Civil e PhD Candidate, desenvolve atividade de investigação, consultoria e formação na área da gestão de projetos, contratação pública, custos ciclo de vida, gestão da informação e sustentabilidade das construções. É membro do comité de normalização da ISO (TC 59 SC 13) e é autor e coautor de várias publicações na área da ferrovia."/>
         <h2 class="text-2xl font-bold text-blue pb-6">PT4 - Ambiente</h2>
         <TeamMember
             imageSrc="{base}/images/bios/PT4ALEX.png"       
             name="Alexandre Domingos"
-            description="Mestrando em SIG e Modelação Territorial aplicados ao Ordenamento, no IGOT-UL. Integra o Centro de Estudos Geográficos como bolseiro de investigação do grupo RISKam. As suas áreas de atuação incidem na modelação espacial e análise de risco nos domínios da hidrologia, climatologia e geomorfologia"/>
+            description="Mestrando em SIG e Modelação Territorial aplicados ao Ordenamento, no Instituto de Geografia e Ordenamento do Território. Integra o Centro de Estudos Geográficos como bolseiro de investigação do grupo RISKam. As suas áreas de atuação incidem na modelação espacial e análise de risco nos domínios da hidrologia, climatologia e geomorfologia"/>
         <TeamMember
             imageSrc="{base}/images/bios/PT4ANA.png"
             name="Ana Isabel Miranda"
@@ -99,11 +99,11 @@
         <TeamMember
             imageSrc="{base}/images/bios/PT4BEA.png"        
             name="Beatriz Rufino"
-            description="Licenciada em Geografia e Planeamento Regional pela Faculdade de Ciências Sociais e Humanas e Mestranda em SIG e Modelação Territorial Aplicados ao Ordenamento, pelo Instituto de Geografia e Ordenamento do Território (IGOT). Tem desempenhado funções na área dos Sistemas de Informação Geográfica e do Ordenamento do Território, nomeadamente na produção de cartografia temática ambiental e territorial"/>
+            description="Licenciada em Geografia e Planeamento Regional pela Faculdade de Ciências Sociais e Humanas e Mestranda em SIG e Modelação Territorial Aplicados ao Ordenamento, pelo Instituto de Geografia e Ordenamento do Território (IGOT). Tem desempenhado funções na área dos Sistemas de Informação Geográfica e do Ordenamento do Território, nomeadamente na produção de cartografia temática ambiental e territorial."/>
         <TeamMember
             imageSrc="{base}/images/bios/PT4EDU.png"
             name="Eduardo Silva"
-            description="Professor Catedrático do Departamento de Geociências da Universidade de Aveiro (IGOT-UL) e Investigador do Centro de Investigação GeoBioTec – Geobiociências, Geotecnologias e Geoengenharias; Licenciado em Engenharia Geológica; Doutor em Geociências; Coordenador do Grupo de Investigação Sistemas Ambientais Complexos do Centro de Investigação GeoBioTec; Coordenador do Observatório OHM – Estarreja financiado pelo CNRS (França) e do Portuguese Chapter on Medical Geology."/>
+            description="Professor Catedrático do Departamento de Geociências da Universidade de Aveiro e Investigador do Centro de Investigação GeoBioTec – Geobiociências, Geotecnologias e Geoengenharias; Licenciado em Engenharia Geológica; Doutor em Geociências; Coordenador do Grupo de Investigação Sistemas Ambientais Complexos do Centro de Investigação GeoBioTec; Coordenador do Observatório OHM – Estarreja financiado pelo CNRS (França) e do Portuguese Chapter on Medical Geology."/>
         <TeamMember
             imageSrc="{base}/images/bios/PT4HELDER.png"     
             name="Helder Relvas"
@@ -140,7 +140,7 @@
         <TeamMember
             imageSrc="{base}/images/bios/PT5AMILCAR.png"        
             name="Amilcar Arantes"
-            description="Professor Auxiliar do IST-UL da área de Sistemas e Gestão do Departamento de Engenharia Civil, Arquitetura e Georrecursos. Foi Professor Convidado da UNL/FE (1999-2010) e do ISCTE-IUL (2017-2019), e Vogal do Conselho Diretivo do Instituto Nacional de Administração, I.P. (2006-2007). As suas áreas de investigação incluem Políticas Públicas, Processos de decisão, Gestão de projetos, Gestão logística, Gestão da cadeia de abastecimento e Compras. Tem desempenhado atividades de cooperação e consultoria em vários projetos com instituições nacionais e estrangeiras. "/>
+            description="Professor Auxiliar do Instituto Superior Técnico da Universidade de Lisboa da área de Sistemas e Gestão do Departamento de Engenharia Civil, Arquitetura e Georrecursos. Foi Professor Convidado da UNL/FE (1999-2010) e do ISCTE-IUL (2017-2019), e Vogal do Conselho Diretivo do Instituto Nacional de Administração, I.P. (2006-2007). As suas áreas de investigação incluem Políticas Públicas, Processos de decisão, Gestão de projetos, Gestão logística, Gestão da cadeia de abastecimento e Compras. Tem desempenhado atividades de cooperação e consultoria em vários projetos com instituições nacionais e estrangeiras. "/>
         <TeamMember
             imageSrc="{base}/images/bios/PT5CARLOS.png"
             name="Carlos Oliveira Cruz"
@@ -182,10 +182,10 @@
         <TeamMember
             imageSrc="{base}/images/bios/PT7NUNO.png"       
             name="Nuno Jardim Nunes"
-            description="Professor Catedrático do Tecnico da Universidade de Lisboa onde preside ao Instituto de Tecnologias Interactivas (ITI) do LARSyS uma unidade de investigação de excelência na interseção entre o design, a interação e as tecnologias digitais. Nuno é co-Director da parceria internacional com a Universidade de Carnegie Mellon onde é professor convidado no Human-Computer Interaction Institute (HCII). Nuno é um defensor do papel do design na cultura participada e na sustentabilidade. A sua investigação influencia como as tecnologias digitais (de sensores a inteligência artificial, histórias interactivas e realidade mista) podem envolver e inspirar a cidadania inclusiva e sustentável. Os seus contributos levaram à criação da visão para uma Bauhaus do Mar que será proposta como uma das cinco redes temáticas Europeias."/>
+            description="Professor Catedrático do Técnico da Universidade de Lisboa onde preside ao Instituto de Tecnologias Interactivas (ITI) do LARSyS uma unidade de investigação de excelência na interseção entre o design, a interação e as tecnologias digitais. Nuno é co-Director da parceria internacional com a Universidade de Carnegie Mellon onde é professor convidado no Human-Computer Interaction Institute (HCII). Nuno é um defensor do papel do design na cultura participada e na sustentabilidade. A sua investigação influencia como as tecnologias digitais (de sensores a inteligência artificial, histórias interactivas e realidade mista) podem envolver e inspirar a cidadania inclusiva e sustentável. Os seus contributos levaram à criação da visão para uma Bauhaus do Mar que será proposta como uma das cinco redes temáticas Europeias."/>
         <TeamMember
             imageSrc="{base}/images/bios/PT7TRAVIS.png"     
             name="Travis Kriplean"
-            description="Travis has been working in the democratic / consensus-building space for 18 years. His primary contribution is the open source deliberation and opinion visualization platform Consider.it, which has been used by thousands of communities worldwide, from cities like Seattle and Denver engaging the public on contentious planning issues to organizations like Mozilla Foundation engaging their community on strategic pivots. Travis created Consider.it and several other tools as part of his Computer Science dissertation at the University of Washington where he explored Designing for Reflective Public Dialogue. The animating spirit of his work is the observation that we've largely designed our communication technology to be easy to speak into, but difficult to actively listen through, missing out on the important roles that listening plays in creating common ground. Prior to Consider.it, Travis was part of the UrbanSim research team where he worked on techniques for incorporating large-scale transportation and landuse simulation data into public deliberation. He also published a number of computational social science academic studies about consensus dynamics in the largest consensus-based project the world has ever seen: Wikipedia."/>
+            description="Travis has been working in the democratic / consensus-building space for 18 years. His primary contribution is the open source deliberation and opinion visualization platform Consider.it, which has been used by thousands of communities worldwide, from cities like Seattle and Denver engaging the public on contentious planning issues to organizations like Mozilla Foundation engaging their community on strategic pivots. Travis created Consider.it and several other tools as part of his Computer Science dissertation at the University of Washington where he explored Designing for Reflective Public Dialogue. The animating spirit of his work is the observation that we've largely designed our communication technology to be easy to speak into, but difficult to actively listen through, missing out on the important roles that listening plays in creating common ground."/>
             </div>
 </PageContainer>
