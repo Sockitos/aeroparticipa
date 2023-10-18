@@ -45,6 +45,7 @@
 					<NavBarDropdown label="Sobre a CTI">
 						<NavBarDropdownItem href="{base}/composicao-da-cti/" label="Composição" />
 						<NavBarDropdownItem href="{base}/regimento-da-cti/" label="Regimento" />
+						<NavBarDropdownItem href="{base}/equipas-tecnicas/" label="Equipas Técnicas" />
 					</NavBarDropdown>
 				</ul>
 			</div>
