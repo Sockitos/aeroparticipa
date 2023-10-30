@@ -3,6 +3,7 @@
     import PageContainer from '@/components/PageContainer.svelte';
     import PageHeader from '@/components/PageHeader.svelte';
     import TeamMember from '@/components/TeamMember.svelte';
+    import DocumentLink from '@/components/DocumentLink.svelte';
 </script>
 
 <svelte:head>
@@ -177,7 +178,7 @@
         <h2 class="text-2xl font-bold text-blue pb-6">PT7 – Organização Geral da AAE</h2>
         <TeamMember
             imageSrc="{base}/images/bios/PT7MARTA.png"      
-            name="Marta"
+            name="Marta Ferreira"
             description="Designer de comunicação e investigadora em design. Em 2016, decidiu dedicar-se à sua prática independente (studio-m.design) e à investigação. É licenciada em Design de Comunicação e mestre em Práticas Tipográficas e Editoriais pela Faculdade de Belas Artes, U. Lisboa. Encontra-se a terminar o doutoramento em Digital Media pelo Técnico, U. Lisboa, no Interactive Technologies Institute (ITI). Os seus interesses de investigação residem na intersecção entre diferentes meios e o seu potencial comunicacional. O seu doutoramento foca-se em projetos de interação relacionados com a sustentabilidade, concentrando-se particularmente em comunicar as alterações climáticas de forma positiva, personalizada, e focada em acção."/>
         <TeamMember
             imageSrc="{base}/images/bios/PT7NUNO.png"       
@@ -187,5 +188,5 @@
             imageSrc="{base}/images/bios/PT7TRAVIS.png"     
             name="Travis Kriplean"
             description="Travis has been working in the democratic / consensus-building space for 18 years. His primary contribution is the open source deliberation and opinion visualization platform Consider.it, which has been used by thousands of communities worldwide, from cities like Seattle and Denver engaging the public on contentious planning issues to organizations like Mozilla Foundation engaging their community on strategic pivots. Travis created Consider.it and several other tools as part of his Computer Science dissertation at the University of Washington where he explored Designing for Reflective Public Dialogue. The animating spirit of his work is the observation that we've largely designed our communication technology to be easy to speak into, but difficult to actively listen through, missing out on the important roles that listening plays in creating common ground."/>
-            </div>
-</PageContainer>
+            <DocumentLink href="{base}/relatorios/tabela_contratos.pdf">Lista de contratos celebrados no âmbito dos trabalhos da CTI</DocumentLink>
+        </PageContainer>
