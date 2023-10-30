@@ -188,5 +188,5 @@
             imageSrc="{base}/images/bios/PT7TRAVIS.png"     
             name="Travis Kriplean"
             description="Travis has been working in the democratic / consensus-building space for 18 years. His primary contribution is the open source deliberation and opinion visualization platform Consider.it, which has been used by thousands of communities worldwide, from cities like Seattle and Denver engaging the public on contentious planning issues to organizations like Mozilla Foundation engaging their community on strategic pivots. Travis created Consider.it and several other tools as part of his Computer Science dissertation at the University of Washington where he explored Designing for Reflective Public Dialogue. The animating spirit of his work is the observation that we've largely designed our communication technology to be easy to speak into, but difficult to actively listen through, missing out on the important roles that listening plays in creating common ground."/>
-            <DocumentLink href="{base}/relatorios/tabela_contratos.pdf">Lista de contratos celebrados no âmbito dos trabalhos da CTI</DocumentLink>
+            <DocumentLink href="{base}/relatorios/relatorio_contr.pdf">Lista de contratos celebrados no âmbito dos trabalhos da CTI</DocumentLink>
         </PageContainer>
