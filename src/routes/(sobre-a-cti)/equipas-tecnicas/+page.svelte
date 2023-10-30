@@ -7,10 +7,10 @@
 </script>
 
 <svelte:head>
-    <title>AeroParticipa - Equipas Técnicas</title>
+    <title>AeroParticipa - Equipas Técnicas e Contratos</title>
 </svelte:head>
 
-<PageHeader>Equipas Técnicas<br />Comissão Técnica Independente</PageHeader>
+<PageHeader>Equipas Técnicas e Contratos<br />Comissão Técnica Independente</PageHeader>
 <PageContainer>
     <div class="not-prose space-y-14">
         <h2 class="text-2xl font-bold text-blue pb-6">PT1 - Estudos de Procura</h2>

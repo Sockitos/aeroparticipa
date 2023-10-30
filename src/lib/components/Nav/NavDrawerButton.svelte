@@ -49,7 +49,7 @@
 		<NavDrawerGroup label="Sobre a CTI">
 			<NavDrawerItem href="{base}/composicao-da-cti/" label="Composição" />
 			<NavDrawerItem href="{base}/regimento-da-cti/" label="Regimento" />
-			<NavDrawerItem href="{base}/equipas-tecnicas/" label="Equipas Técnicas" />
+			<NavDrawerItem href="{base}/equipas-tecnicas/" label="Equipas e Contratos" />
 		</NavDrawerGroup>~
 	</ul>
 </div>
