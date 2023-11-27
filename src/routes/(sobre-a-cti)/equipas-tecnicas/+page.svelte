@@ -32,9 +32,17 @@
             description="Licenciado em Geografia e Planeamento Regional e Mestre em Transportes (1995). Integra a equipa da TIS desde 1992, assumindo atualmente a Coordenação do Núcleo de Planeamento de Transportes. Ao longo da sua carreira tem desenvolvido as suas competências técnicas e profissionais na coordenação e execução de projetos em Portugal, Europa, Argélia e Brasil em áreas como: planeamento de redes de transportes, planos estratégicos de ordenamento do território e de mobilidade, modelação de procura e impactos de tráfego, estudos de procura para vários modos de transporte, incluindo a estimativa de benefícios sociais e ambientais de projetos de transporte."/>
         <h2 class="text-2xl font-bold text-blue pb-6">PT2 - Planeamento Aeroportuario</h2>
         <TeamMember
+            imageSrc="{base}/images/bios/PT2FILIPA.png"       
+            name="Filipa Dinis"
+            description="Licenciada em Arquitetura de Gestão Urbanística na Faculdade de Arquitetura da Universidade Técnica de Lisboa. 22 anos de experiência como arquiteta urbanista e de coordenação de equipas multidisciplinares. Projetista na elaboração de Instrumentos de Gestão do Território (PDM, PU e PP), Loteamentos, Unidades de Execução, Estudos Urbanísticos, entre outros projetas similares, desde o contacto com o cliente, trabalho de campo, caracterização, definição de propostas, regulamento, relatórios, até à fase de programação e execução; Abordagem transversal em diversas temáticas setoriais: contextos territorial, sociodemográfico e urbano; história e património, análise e elaboração de regulamentação técnica, definição de estratégias de desenvolvimento municipal, elaboração da programação e execução dos planos e de outros aspetos que se relacionem com a vertente urbana."/>
+        <TeamMember
             imageSrc="{base}/images/bios/PT2JOAO.png"       
             name="João Mendonça"
             description="36 anos de experiência Aeronáutica. Atualmente técnico de Informação e Comunicações Aeronáuticas no Centro de Controlo Oceânico de Santa Maria e Centro de Controlo de Lisboa. 15 anos de experiência como Flight Procedure Designer na NAV Portugal."/>
+        <TeamMember
+            imageSrc="{base}/images/bios/PT2JORGE.png"       
+            name="Jorge Carvalho"
+            description="Licenciado e Mestre em Engenharia Civil pelo Instituto Superior de Engenharia de Lisboa. experiência profissional como técnico administrativo de produção, controlo económico, aprovisionamento medições, orçamentos e planeamento gestão de subempreitadas, diretor de obra, consultor como gestão de projeto, gestão contratual e gestão do risco."/>
         <TeamMember
             imageSrc="{base}/images/bios/PT2MANUEL.png"
             name="Manuel Araújo"
@@ -143,6 +151,10 @@
             name="Amilcar Arantes"
             description="Professor Auxiliar do Instituto Superior Técnico da Universidade de Lisboa da área de Sistemas e Gestão do Departamento de Engenharia Civil, Arquitetura e Georrecursos. Foi Professor Convidado da UNL/FE (1999-2010) e do ISCTE-IUL (2017-2019), e Vogal do Conselho Diretivo do Instituto Nacional de Administração, I.P. (2006-2007). As suas áreas de investigação incluem Políticas Públicas, Processos de decisão, Gestão de projetos, Gestão logística, Gestão da cadeia de abastecimento e Compras. Tem desempenhado atividades de cooperação e consultoria em vários projetos com instituições nacionais e estrangeiras. "/>
         <TeamMember
+            imageSrc="{base}/images/bios/PT5ARTUR.png"
+            name="Artur Rodrigues"
+            description="Professor Associado com Agregação em Gestão (Finanças) da Escola de Economia e Gestão da Universidade do Minho, especialista em finanças empresarias, em particular em avaliação de projetos e empresas com a metodologia das opções reais. Participou em diversos projetos de consultoria nesta área. Foi Vice-presidente da Escola de Economia e Gestão e Diretor Adjunto do Departamento de Gestão da Universidade do Minho."/>
+         <TeamMember
             imageSrc="{base}/images/bios/PT5CARLOS.png"
             name="Carlos Oliveira Cruz"
             description="Professor Associado com Agregação no Departamento de Engenharia Civil do Instituto Superior Técnico (Universidade de Lisboa) e Professor Convidado da Fundação Getúlio Vargas (Rio de Janeiro). Consultor de entidades nacionais e internacionais em projetos de avaliação de investimentos em transportes. Foi Visiting Scholar na Kennedy School of Government (Harvard University) e coordenou em 2021 o estudo sobre Sistema de Transportes em Portugal da Fundação Francisco Manuel dos Santos."/>
@@ -158,11 +170,19 @@
             imageSrc="{base}/images/bios/PT5MIGUEL.png"
             name="Miguel Portela"
             description="Doutorado em Economia pela Universidade de Amesterdão. É Professor Catedrático na Universidade do Minho, Diretor do Núcleo de Investigação em Políticas Económicas e Empresariais (NIPE) e Coeditor do Portuguese Economic Journal. É consultor do Banco de Portugal e é membro do Conselho Português para a Produtividade. Produziu também relatórios de avaliação e de apoio à definição de políticas públicas."/>
+        <TeamMember
+            imageSrc="{base}/images/bios/PT5VITOR.png"
+            name="Vitor Sousa"
+            description="doutorado em Engenharia Civil, na temática da gestão do risco, pelo Instituto Superior Técnico, e antigo bolseiro Fulbright na UCDavis. É Professor Auxiliar no Grupo de Gestão da Construção do Departamento de Engenharia Civil e Ambiente do Instituto Superior Técnico, Universidade Lisboa, e membro integrado do CERIS - Civil Engineering Research and Innovation for Sustainability. Colaborou e foi responsável pela elaboração de análises custo benefício para infraestruturas públicas, para além de outras colaborações em projetos de engenharia e consultoria a nível nacional e internacional (Angola e Moçambique)."/> 
         <h2 class="text-2xl font-bold text-blue pb-6">PT6 - Juridico</h2>
         <TeamMember
             imageSrc="{base}/images/bios/PT6JOANA.png"      
             name="Joana Neto dos Anjos"
             description="Assistente Convidada da Faculdade de Direito da Universidade de Coimbra onde leciona, desde 2016, as disciplinas de Direito Constitucional e Direito Fiscal. Leciona ainda, desde 2023, a disciplina de Direito Administrativo na Faculdade de Direito da Universidade Católica Portuguesa – Escola do Porto. Doutoranda em Direito Público, conta com várias participações em congressos e conferências, com obra publicada no domínio do direito administrativo regulatório, direito ambiental, direito constitucional e direito tributário."/>
+        <TeamMember
+            imageSrc="{base}/images/bios/PT6LUIS.png"
+            name="Luís Moitinho de Almeida"
+            description="Licenciou-se na Faculdade de Direito da Universidade Católica Portuguesa, em Lisboa, onde também concluiu o Mestrado em Direito Europeu e Internacional (LL.M., Law in a Global and European Context). Entre 2013 e 2015, foi adjunto do Secretário de Estado para a Modernização Administrativa do XIX Governo Constitucional.Leccionou, enquanto assistente convidado, a disciplina de Direito Internacional Privado no âmbito da licenciatura em Direito na Faculdade de Direito da Universidade Católica Portuguesa. Trabalha em todos os domínios da advocacia do Território, em especial nos sectores do urbanismo, ambiente, energia e licenciamentos.."/>   
         <TeamMember
             imageSrc="{base}/images/bios/PT6MANUEL.png"
             name="Manuel Fontaine Campos"
@@ -175,7 +195,22 @@
             imageSrc="{base}/images/bios/PT6PEDRO.png"
             name="Pedro Santos Azevedo"
             description="Licenciado, Mestre e Doutorando na Faculdade de Direito da Universidade de Lisboa. É assistente convidado na referida instituição e investigador do Lisbon Public Law Research Centre. Tem vasta obra publicada nas áreas do direito administrativo e da contratação pública, disciplinas nas quais intervém frequentemente como orador em conferências e cursos."/>
-        <h2 class="text-2xl font-bold text-blue pb-6">PT7 – Organização Geral da AAE</h2>
+        <TeamMember
+            imageSrc="{base}/images/bios/PT6SOFIA.png"
+            name="Sofia Galvão"
+            description="Licenciou-se na Faculdade de Direito da Universidade de Lisboa, onde concluiu o Mestrado em Ciências Jurídicas. Desempenhou funções docentes, como assistente, na mesma Faculdade de
+            Direito, com a qual mantém uma colaboração assídua em pós-graduações e seminários até hoje. Foi professora convidada na Faculdade de Direito da Universidade Nova de Lisboa. É
+            oradora em diversas conferências e cursos sobre matérias da sua especialidade. Tem vasta experiência em Direito do Urbanismo, na assessoria a procedimentos de elaboração e
+            aprovação de instrumentos de gestão territorial, a procedimentos administrativos de licenciamento (urbanístico, comercial, industrial, ambiental), em procedimentos de avaliação
+            de impacte ambiental, bem como na assessoria à concepção, planeamento, licenciamento e gestão de empreendimentos turísticos, nomeadamente hotéis e resorts, à estruturação de
+            operações de regeneração e reabilitação urbanas, à concretização de operações imobiliárias (promotores nacionais e internacionais, fundos de investimento imobiliário, banca e outros
+            financiadores, private equity, etc.), ao licenciamento e instalação de infra-estruturas ou, ainda, ao licenciamento de atividades ligadas ao mar (portos, náutica de recreio, utilização do
+            domínio público marítimo, instalação de atividades de natureza industrial).."/>
+         <h2 class="text-2xl font-bold text-blue pb-6">PT7 – Organização Geral da AAE</h2>
+         <TeamMember
+            imageSrc="{base}/images/bios/PT7DANIEL.png"      
+            name="Daniel André da Silva"
+            description="Mestrando em Ordenamento do Território e Urbanismo, pelo Instituto Superior Técnico da Universidade de Lisboa, Licenciado em Planeamento e Gestão do Território, pelo Instituto de Geografia e Ordenamento do Território (IGOT). Bolseiro de Investigação no âmbito da Avaliação Ambiental Estratégica, tendo funções de apoio geral e organização da Comissão Técnica Independente, apoiando ainda na produção de cartografia (SIG), manutenção e gestão da pagina web e canais de participação pública."/>
         <TeamMember
             imageSrc="{base}/images/bios/PT7MARTA.png"      
             name="Marta Ferreira"

@@ -70,19 +70,19 @@ export const options: MapOption[] = [
 			{
 				label: 'Ferrovia',
 				info: [
-					{ label: 'Frequência num sentido', value: 'Não Existe' },
+					{ label: 'Frequência num sentido (atual)', value: 'Não Existe' },
 					{ label: 'Tempo a Lisboa (atual)', value: 'Não Existe' },
 					{
 						label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)',
-						value: 'Não existe'
+						value: '16 mins (AV)/ 21 mins (CV)'
 					}
 				]
 			},
 			{
 				label: 'Rodovia (nas principais vias)',
 				info: [
-					{ label: 'Distância a Lisboa', value: '37 km' },
-					{ label: 'Tempo a Lisboa', value: '36 mins' }
+					{ label: 'Distância a Lisboa', value: '29 km' },
+					{ label: 'Tempo a Lisboa', value: '21 mins' }
 				]
 			},
 			{
@@ -122,19 +122,19 @@ export const options: MapOption[] = [
 			{
 				label: 'Ferrovia',
 				info: [
-					{ label: 'Frequência num sentido', value: 'Não Existe' },
+					{ label: 'Frequência num sentido (atual)', value: 'Não Existe' },
 					{ label: 'Tempo a Lisboa (atual)', value: 'Não Existe' },
 					{
 						label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)',
-						value: 'Não existe'
+						value: '16 mins (AV) / 21 mins (CV)'
 					}
 				]
 			},
 			{
 				label: 'Rodovia (nas principais vias)',
 				info: [
-					{ label: 'Distância a Lisboa', value: '37 km' },
-					{ label: 'Tempo a Lisboa', value: '36 mins' }
+					{ label: 'Distância a Lisboa', value: '29 km' },
+					{ label: 'Tempo a Lisboa', value: '21 mins' }
 				]
 			},
 			{
@@ -174,16 +174,16 @@ export const options: MapOption[] = [
 			{
 				label: 'Ferrovia',
 				info: [
-					{ label: 'Frequência num sentido', value: 'Não Existe' },
+					{ label: 'Frequência num sentido (atual)', value: 'Não Existe' },
 					{ label: 'Tempo a Lisboa (atual)', value: 'Não Existe' },
-					{ label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: '22 mins' }
+					{ label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: '18 mins (AV) / 22 mins (CV)' }
 				]
 			},
 			{
 				label: 'Rodovia (nas principais vias)',
 				info: [
-					{ label: 'Distância a Lisboa', value: '42 km' },
-					{ label: 'Tempo a Lisboa', value: '39 mins' }
+					{ label: 'Distância a Lisboa', value: '51 km' },
+					{ label: 'Tempo a Lisboa', value: '37 mins' }
 				]
 			},
 			{
@@ -223,16 +223,16 @@ export const options: MapOption[] = [
 			{
 				label: 'Ferrovia',
 				info: [
-					{ label: 'Frequência num sentido', value: '93 mov/dia' },
+					{ label: 'Frequência num sentido (atual)', value: '93 mov/dia' },
 					{ label: 'Tempo a Lisboa (atual)', value: '1h 23 mins' },
-					{ label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: '29 mins' }
+					{ label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: '32 mins (AV)' }
 				]
 			},
 			{
 				label: 'Rodovia (nas principais vias)',
 				info: [
-					{ label: 'Distância a Lisboa', value: '91 km' },
-					{ label: 'Tempo a Lisboa', value: '1h 01 mins' }
+					{ label: 'Distância a Lisboa', value: '94 km' },
+					{ label: 'Tempo a Lisboa', value: '1h 07 mins' }
 				]
 			},
 			{
@@ -272,16 +272,16 @@ export const options: MapOption[] = [
 			{
 				label: 'Ferrovia',
 				info: [
-					{ label: 'Frequência num sentido', value: '25 mov/dia' },
+					{ label: 'Frequência num sentido (atual)', value: '25 mov/dia' },
 					{ label: 'Tempo a Lisboa (atual)', value: '1h 23 mins' },
-					{ label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: '29 mins' }
+					{ label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: '32 mins (AV)' }
 				]
 			},
 			{
 				label: 'Rodovia (nas principais vias)',
 				info: [
-					{ label: 'Distância a Lisboa', value: '91 km' },
-					{ label: 'Tempo a Lisboa', value: '1h 01 mins' }
+					{ label: 'Distância a Lisboa', value: '94 km' },
+					{ label: 'Tempo a Lisboa', value: '1h 05 mins' }
 				]
 			},
 			{
@@ -321,16 +321,16 @@ export const options: MapOption[] = [
 			{
 				label: 'Ferrovia',
 				info: [
-					{ label: 'Frequência num sentido', value: 'Não Existe' },
+					{ label: 'Frequência num sentido (atual)', value: 'Não Existe' },
 					{ label: 'Tempo a Lisboa (atual)', value: 'Não Existe' },
-					{ label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: '22 mins' }
+					{ label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: '18 mins (AV) / 22 mins (CV)' }
 				]
 			},
 			{
 				label: 'Rodovia (nas principais vias)',
 				info: [
-					{ label: 'Distância a Lisboa', value: '42 km' },
-					{ label: 'Tempo a Lisboa', value: '39 mins' }
+					{ label: 'Distância a Lisboa', value: '51 km' },
+					{ label: 'Tempo a Lisboa', value: '37 mins' }
 				]
 			},
 			{
@@ -370,11 +370,11 @@ export const options: MapOption[] = [
 			{
 				label: 'Ferrovia',
 				info: [
-					{ label: 'Frequência num sentido', value: '5 mov/dia' },
+					{ label: 'Frequência num sentido (atual)', value: '5 mov/dia' },
 					{ label: 'Tempo a Lisboa (atual)', value: '59 mins' },
 					{
 						label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)',
-						value: '39 mins'
+						value: '19 mins (AV) / 25 mins (CV)'
 					}
 				]
 			},
@@ -382,7 +382,7 @@ export const options: MapOption[] = [
 				label: 'Rodovia (nas principais vias)',
 				info: [
 					{ label: 'Distância a Lisboa', value: '70 km' },
-					{ label: 'Tempo a Lisboa', value: '53 mins' }
+					{ label: 'Tempo a Lisboa', value: '49 mins' }
 				]
 			},
 			{
@@ -410,11 +410,11 @@ export const options: MapOption[] = [
 			{
 				label: 'Ferrovia',
 				info: [
-					{ label: 'Frequência num sentido', value: '5 mov/dia' },
+					{ label: 'Frequência num sentido (atual)', value: '5 mov/dia' },
 					{ label: 'Tempo a Lisboa (atual)', value: '59 mins' },
 					{
 						label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)',
-						value: '39 mins'
+						value: '19 mins (AV) / 25 mins (CV)'
 					}
 				]
 			},
@@ -422,7 +422,7 @@ export const options: MapOption[] = [
 				label: 'Rodovia (nas principais vias)',
 				info: [
 					{ label: 'Distância a Lisboa', value: '70 km' },
-					{ label: 'Tempo a Lisboa', value: '53 mins' }
+					{ label: 'Tempo a Lisboa', value: '48 mins' }
 				]
 			},
 			{
@@ -450,7 +450,7 @@ export const options: MapOption[] = [
 			{
 				label: 'Ferrovia',
 				info: [
-					{ label: 'Frequência num sentido', value: '1 mov/dia' },
+					{ label: 'Frequência num sentido (atual)', value: '1 mov/dia' },
 					{ label: 'Tempo a Lisboa (atual)', value: '48 mins' },
 					{ label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: '21 mins' }
 				]
