@@ -50,7 +50,7 @@
 		voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
 		non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 	</p>
-	<DocumentAccordion>
+	<DocumentAccordion label="Ver Documentos">
 		<div class="flex flex-col gap-4 mt-5">
 			<DocumentLink href="{base}/relatorios/relatorio_AHD.pdf">Documento</DocumentLink>
 			<DocumentLink href="{base}/relatorios/relatorio_AHD.pdf">Documento</DocumentLink>

@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { slide } from 'svelte/transition';
 
+	export let label: string;
 	let expanded = false;
 </script>
 
@@ -8,7 +9,7 @@
 	on:click={() => (expanded = !expanded)}
 	class="text-blue-accent text-xl font-bold hover:text-blue-light flex flex-row items-center justify-center gap-x-2"
 >
-	Ver Documentos
+	{label}
 	<svg
 		xmlns="http://www.w3.org/2000/svg"
 		viewBox="0 96 960 960"
