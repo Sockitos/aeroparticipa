@@ -40,20 +40,14 @@
 </div>
 <div class="bg-plane bg-cover bg-center bg-blue bg-blend-multiply">
 	<div class="container py-10 md:py-16">
-		<h2 class="text-3xl font-bold text-white pb-6">JÁ DISPONÍVEL!</h2>
-		<h2 class="text-3xl font-bold text-white pb-6">Relatório de Fatores Críticos para a Decisão (FCD) pós Consulta Pública</h2>
-		<p class="max-w-3xl text-white text-xl">
-			Está disponível o 2º Relatório FCD revisto com os comentários da consulta e participação pública.
-			Em anexo ao RFCD consta a sistematização dos comentários recebido na consulta pública formal ao 
-			Relatório de FCD e respostas ou observações da CTI.
+		<h2 class="text-3xl font-bold text-white pb-6">3º Conferência CTI<h2>
+			<p class="max-w-4xl text-white text-xl mt-5">
+			Comissão Técnica Independente (CTI) tem a honra de o(a) convidar para a apresentação do relatório preliminar da análise estratégica e multidisciplinar 
+			do aumento da capacidade aeroportuária da região de Lisboa. A 3ª Conferência terá lugar no dia 5 de Dezembro de 2023,
+			às 15h00 e será transmitida em Streeming no Canal de Youtube do LNEC. Brevemente será disponibilizado o link direto para assistir à Conferência.
 		</p>
-		<h2 class="text-3xl font-bold text-white pb-6"> </h2>
-		<h2 class="text-3xl font-bold text-white pb-6">Relatório da Análise de Curto Prazo</h2>
-		<p class="max-w-3xl text-white text-xl">
-			A comissão técnica independente disponibiliza o Relatório da Análise de Curto Prazo da situação atual do 
-			Aeroporto Humberto Delgado (AHD), onde consta uma proposta de ações de melhoria da sua eficiência e eficácia operacional.
-		<div class="py-8 flex justify-start">
-			<ArrowLink label="Relatórios" href="{base}/relatorios" isLight />
+			<div class="py flex justify-start mt-5">
+			<ArrowLink label="Canal de Youtube do LNEC" isLight href="https://www.youtube.com/@laboratorionacionaldeengen1229"/>
 		</div>
 	</div>
 </div>

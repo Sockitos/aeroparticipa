@@ -19,7 +19,7 @@
 		resultados obtidos no Reconhecimento e Triagem de opções estratégicas.
 	</p>
 	<div class="flex flex-col gap-4 mt-5">
-		<DocumentLink href="{base}/relatorios/relatorio_1.pdf">Documento</DocumentLink>
+		<DocumentLink href="{base}/relatorios/relatorio_1.pdf">Relatório de Reconhecimento e Triagem</DocumentLink>
 	</div>
 	<h3>2º Relatório</h3>
 	<p>
@@ -27,11 +27,9 @@
 		será apresentado na 2º conferência da CTI, no dia 11 de julho, entre as 14h30 e as 17h30.
 	</p>
 	<div class="flex flex-col gap-4 mt-5">
-		<DocumentLink href="{base}/relatorios/relatorio_2.pdf">Documento</DocumentLink>
+		<DocumentLink href="{base}/relatorios/relatorio_2.pdf">Relatório dos Fatores Críticos de Decisão</DocumentLink>
 		<DocumentLink href="{base}/relatorios/relatorio_2.pdf">Sumário Executivo</DocumentLink>
-		<DocumentLink href="{base}/relatorios/relatorio_2_1.pdf"
-			>Documento pós Consulta Pública</DocumentLink
-		>
+		<DocumentLink href="{base}/relatorios/relatorio_2_1.pdf">Relatório dos Fatores Críticos de Decisão pós Consulta Pública</DocumentLink>
 	</div>
 	<h3>Relatório da Análise de Curto Prazo</h3>
 	<p>
@@ -40,22 +38,6 @@
 		eficiência e eficácia operacional.
 	</p>
 	<div class="flex flex-col gap-4 mt-5">
-		<DocumentLink href="{base}/relatorios/relatorio_AHD.pdf">Documento</DocumentLink>
+		<DocumentLink href="{base}/relatorios/relatorio_AHD.pdf">Relatório da Análise de Curto Prazo</DocumentLink>
 	</div>
-	<h3>Relatório Exemplo</h3>
-	<p>
-		Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-		labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-		laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-		voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-		non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-	</p>
-	<DocumentAccordion label="Ver Documentos">
-		<div class="flex flex-col gap-4 mt-5">
-			<DocumentLink href="{base}/relatorios/relatorio_AHD.pdf">Documento</DocumentLink>
-			<DocumentLink href="{base}/relatorios/relatorio_AHD.pdf">Documento</DocumentLink>
-			<DocumentLink href="{base}/relatorios/relatorio_AHD.pdf">Documento</DocumentLink>
-			<DocumentLink href="{base}/relatorios/relatorio_AHD.pdf">Documento</DocumentLink>
-		</div>
-	</DocumentAccordion>
 </PageContainer>
