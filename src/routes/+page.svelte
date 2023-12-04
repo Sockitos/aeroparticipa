@@ -42,12 +42,19 @@
 	<div class="container py-10 md:py-16">
 		<h2 class="text-3xl font-bold text-white pb-6">3º Conferência CTI<h2>
 			<p class="max-w-4xl text-white text-xl mt-5">
-			Comissão Técnica Independente (CTI) tem a honra de o(a) convidar para a apresentação do relatório preliminar da análise estratégica e multidisciplinar 
-			do aumento da capacidade aeroportuária da região de Lisboa. A 3ª Conferência terá lugar no dia 5 de Dezembro de 2023,
-			às 15h00 e será transmitida em Streeming no Canal de Youtube do LNEC.
+				A comissão técnica independente realizou a sua terceira conferência no dia 05 de dezembro de 2023, 
+				para apresentação dos resultados da terceira fase da AAE, a fase de Avaliação de opções - Oportunidades e Riscos das Opções Estratégicas. 
+				Nesta fase foi aplicada a ferramenta de avaliação estratégica que inclui os Fatores Críticos para a Decisão, Critérios de Avaliação e Indicadores, 
+				que foram adoptados, após ampla participação, na segunda fase pela CTI.
+			</p>
+			<p class="max-w-4xl text-white text-xl mt-5">
+				Está aberto o período de consulta pública e institucional, nos termos dos números 3 e 4 do
+				artigo 5º do DL 232/2007, de 15 de junho, na sua redação atual, que encerra a 19 de Janeiro de 2024.
+				Todos os pareceres/comentários devem ser enviados por email para cti.aeroporto@lnec.pt. 
+				Encontra-se disponível no separador PARTICIPE uma ferramenta de discussão sobre o Relatório Ambiental.
 		</p>
 			<div class="py flex justify-start mt-5">
-			<ArrowLink label="Canal de Youtube do LNEC" isLight href="https://www.youtube.com/@laboratorionacionaldeengen1229"/>
+			<ArrowLink label="Relatório Ambiental" href="{base}/relatorios" isLight />
 		</div>
 	</div>
 </div>
