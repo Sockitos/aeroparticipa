@@ -1,6 +1,5 @@
 <script>
 	import { base } from '$app/paths';
-	import DocumentAccordion from '@/components/DocumentAccordion.svelte';
 	import DocumentLink from '@/components/DocumentLink.svelte';
 	import PageContainer from '@/components/PageContainer.svelte';
 	import PageHeader from '@/components/PageHeader.svelte';
