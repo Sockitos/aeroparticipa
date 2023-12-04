@@ -47,7 +47,7 @@
 	</p>
 	
 	<div class="flex flex-col gap-4 mt-5">
-		<DocumentLink href="{base}/relatorios/Relatorio_Ambiental.zip">Relatório Ambiental Preliminar Completo (inclui RTC e anexos)</DocumentLink>
+		<DocumentLink href="{base}/relatorios/relatorio_ambiental.pdf">Relatório Ambiental Preliminar Completo (inclui RTC e anexos)</DocumentLink>
 		<DocumentLink href="{base}/relatorios/relatorio_ambiental.pdf">Relatório Ambiental Preliminar</DocumentLink>
 		<DocumentLink href="{base}/relatorios/resumo_nao_tecnico.pdf">Resumo Não Técnico</DocumentLink>
 		<DocumentLink href="{base}/relatorios/relatorio_ambiental_sumario.pdf">Sumário Executivo</DocumentLink>
