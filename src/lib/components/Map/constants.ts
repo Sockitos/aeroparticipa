@@ -36,21 +36,6 @@ export const aeros: MapAero[] = [
 		textAlign: 'left'
 	},
 	{
-		id: 5,
-		coords: new Point([-986362.4175, 4676435.054]),
-		label: 'Rio Frio',
-		offsetX: 28,
-		textBaseline: 'middle',
-		textAlign: 'left'
-	},
-	{
-		id: 6,
-		coords: new Point([-983433.8448280608, 4667920.736831997]),
-		label: 'Poceirão',
-		offsetY: 20,
-		textBaseline: 'top'
-	},
-	{
 		id: 7,
 		coords: new Point([-950864.1839095966, 4672178.067326235]),
 		label: 'Vendas Novas',
@@ -441,43 +426,6 @@ export const options: MapOption[] = [
 		layers: [],
 		aeros: [7]
 	},
-	{
-		id: 9,
-		label: 'Rio Frio / Poceirão',
-		isDual: false,
-		isOfficial: false,
-		info: [
-			{
-				label: 'Ferrovia',
-				info: [
-					{ label: 'Frequência num sentido (atual)', value: '1 mov/dia' },
-					{ label: 'Tempo a Lisboa (atual)', value: '48 mins' },
-					{ label: 'Tempo a Lisboa (infraestrutura prevista em PNI 2030 e PFN)', value: '21 mins' }
-				]
-			},
-			{
-				label: 'Rodovia (nas principais vias)',
-				info: [
-					{ label: 'Distância a Lisboa', value: '43 km' },
-					{ label: 'Tempo a Lisboa', value: '42 mins' }
-				]
-			},
-			{
-				label: 'Aeroporto',
-				info: [
-					{ label: 'Nº de pistas', value: '2' },
-					{ label: 'Capacidade de Movimentos / Hora', value: '80' },
-					{ label: 'Capacidade de Expansão', value: 'Sim (até 4)' }
-				]
-			},
-			{
-				label: 'População Potencialmente Vulnerável ao Ruído',
-				info: [{ label: 'População residente', value: '≈11900' }]
-			}
-		],
-		layers: [],
-		aeros: [5, 6]
-	}
 ];
 
 export const layerGroups: MapLayerGroup[] = [
