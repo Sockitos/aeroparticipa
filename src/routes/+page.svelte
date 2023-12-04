@@ -44,7 +44,7 @@
 			<p class="max-w-4xl text-white text-xl mt-5">
 			Comissão Técnica Independente (CTI) tem a honra de o(a) convidar para a apresentação do relatório preliminar da análise estratégica e multidisciplinar 
 			do aumento da capacidade aeroportuária da região de Lisboa. A 3ª Conferência terá lugar no dia 5 de Dezembro de 2023,
-			às 15h00 e será transmitida em Streeming no Canal de Youtube do LNEC. Brevemente será disponibilizado o link direto para assistir à Conferência.
+			às 15h00 e será transmitida em Streeming no Canal de Youtube do LNEC.
 		</p>
 			<div class="py flex justify-start mt-5">
 			<ArrowLink label="Canal de Youtube do LNEC" isLight href="https://www.youtube.com/@laboratorionacionaldeengen1229"/>
