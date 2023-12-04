@@ -35,7 +35,7 @@ export const aeros: MapAero[] = [
 		textBaseline: 'middle',
 		textAlign: 'left'
 	},
-	{
+	/*{
 		id: 5,
 		coords: new Point([-986362.4175, 4676435.054]),
 		label: 'Rio Frio',
@@ -49,7 +49,7 @@ export const aeros: MapAero[] = [
 		label: 'Poceirão',
 		offsetY: 20,
 		textBaseline: 'top'
-	},
+	},*/
 	{
 		id: 7,
 		coords: new Point([-950864.1839095966, 4672178.067326235]),
@@ -441,7 +441,7 @@ export const options: MapOption[] = [
 		layers: [],
 		aeros: [7]
 	},
-	{
+	/*{
 		id: 9,
 		label: 'Rio Frio / Poceirão',
 		isDual: false,
@@ -477,7 +477,7 @@ export const options: MapOption[] = [
 		],
 		layers: [],
 		aeros: [5, 6]
-	}
+	}*/
 ];
 
 export const layerGroups: MapLayerGroup[] = [
