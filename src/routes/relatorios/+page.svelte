@@ -21,13 +21,13 @@
 	<div class="flex flex-col gap-4 mt-5">
 		<DocumentLink href="https://drive.google.com/file/d/1Gtqb67bjaBYwefQPKkhqLxth4lOONv_-/view?usp=sharing">Relatório Preliminar Completo (inclui RTC e anexos)</DocumentLink>
 	</div>
-	<h4>Relatório Ambiental Preliminar</h4>
+	<h3>Relatório Ambiental Preliminar</h3>
 	<div class="flex flex-col gap-4 mt-5">
 		<DocumentLink href="{base}/relatorios/relatorio_ambiental.pdf">Relatório Ambiental Preliminar</DocumentLink>
 		<DocumentLink href="{base}/relatorios/resumo_nao_tecnico.pdf">Resumo Não Técnico</DocumentLink>
 		<DocumentLink href="{base}/relatorios/relatorio_ambiental_sumario.pdf">Sumário Executivo</DocumentLink>
 	</div>
-<h4>Relatório Técnicos Complementáres (RTC) ao Relatório Ambiental</h4>
+<h3>Relatório Técnicos Complementáres (RTC) ao Relatório Ambiental</h3>
 		<div class="flex flex-col gap-4 mt-5">
 		<DocumentLink href="{base}/relatorios/PT1_Relatorio_Sintese.pdf">PT1 - Relatório Sintese (sem Anexos)</DocumentLink>
 	</div>
