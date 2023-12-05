@@ -51,7 +51,7 @@
 				Encontra-se disponível no separador PARTICIPE uma ferramenta de discussão sobre o Relatório Ambiental
 		</p>
 			<div class="py flex justify-start mt-5">
-			<ArrowLink label="Relatório Ambiental" href="{base}/relatorios" isLight />
+			<ArrowLink label="Relatório Preliminar CTI" href="{base}/relatorios" isLight />
 		</div>
 		<div class="py flex justify-start mt-5">
 			<ArrowLink label="PARTICIPE" href=https://participe.aeroparticipa.pt/ isLight />
