@@ -42,19 +42,19 @@
 	<div class="container py-10 md:py-16">
 		<h2 class="text-3xl font-bold text-white pb-6">3º Conferência CTI<h2>
 			<p class="max-w-4xl text-white text-xl mt-5">
-				A comissão técnica independente realizou a sua terceira conferência no dia 05 de dezembro de 2023, 
-				para apresentação dos resultados da terceira fase da AAE, a fase de Avaliação de opções - Oportunidades e Riscos das Opções Estratégicas. 
-				Nesta fase foi aplicada a ferramenta de avaliação estratégica que inclui os Fatores Críticos para a Decisão, Critérios de Avaliação e Indicadores, 
-				que foram adoptados, após ampla participação, na segunda fase pela CTI.
+				A comissão técnica independente realizou a sua terceira conferência no dia 5 de dezembro de 2023, para apresentação dos resultados da terceira fase da AAE - Avaliação de Oportunidades e Riscos das Opções Estratégicas. Nesta fase foi aplicada a ferramenta de avaliação estratégica que inclui os Fatores Críticos para a Decisão, Critérios de Avaliação e Indicadores, que foram adoptados pela CTI, após ampla participação, na segunda fase do processo de avaliação.
 			</p>
 			<p class="max-w-4xl text-white text-xl mt-5">
 				Está aberto o período de consulta pública e institucional, nos termos dos números 3 e 4 do
 				artigo 5º do DL 232/2007, de 15 de junho, na sua redação atual, que encerra a 19 de Janeiro de 2024.
 				Todos os pareceres/comentários devem ser enviados por email para cti.aeroporto@lnec.pt. 
-				Encontra-se disponível no separador PARTICIPE uma ferramenta de discussão sobre o Relatório Ambiental.
+				Encontra-se disponível no separador PARTICIPE uma ferramenta de discussão sobre o Relatório Ambiental
 		</p>
 			<div class="py flex justify-start mt-5">
 			<ArrowLink label="Relatório Ambiental" href="{base}/relatorios" isLight />
+		</div>
+		<div class="py flex justify-start mt-5">
+			<ArrowLink label="PARTICIPE" href=https://participe.aeroparticipa.pt/ isLight />
 		</div>
 	</div>
 </div>
