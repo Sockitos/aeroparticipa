@@ -19,7 +19,7 @@
 	</p>
 	
 	<div class="flex flex-col gap-4 mt-5">
-		<DocumentLink href="https://drive.google.com/file/d/1Gtqb67bjaBYwefQPKkhqLxth4lOONv_-/view?usp=sharing">Relatório Preliminar Completo (inclui RTC e anexos)</DocumentLink>
+		<DocumentLink href="https://drive.google.com/file/d/17gQXvazcGkpMkvFwgCHDSB6LKBGtEAvK/view?usp=sharing">Relatório Preliminar Completo (inclui RTC e anexos)</DocumentLink>
 	</div>
 	<h3>Relatório Ambiental Preliminar</h3>
 	<div class="flex flex-col gap-4 mt-5">
