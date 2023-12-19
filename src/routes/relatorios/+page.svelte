@@ -27,9 +27,9 @@
 		<DocumentLink href="{base}/relatorios/resumo_nao_tecnico.pdf">Resumo Não Técnico</DocumentLink>
 		<DocumentLink href="{base}/relatorios/relatorio_ambiental_sumario.pdf">Sumário Executivo</DocumentLink>
 	</div>
-<h3>Relatório Técnicos Complementares (RTC) ao Relatório Ambiental</h3>
+<h3>Relatório Técnicos Complementáres (RTC) ao Relatório Ambiental</h3>
 		<div class="flex flex-col gap-4 mt-5">
-		<DocumentLink href="{base}/relatorios/PT1_Relatorio_Sintese.pdf">PT1 - Relatório Síntese (sem Anexos)</DocumentLink>
+		<DocumentLink href="{base}/relatorios/PT1_Relatorio_Sintese.pdf">PT1 - Relatório Sintese (sem Anexos)</DocumentLink>
 	</div>
 			<ul class="flex flex-col gap-2 mt-5">
 				<DocumentLink href="{base}/relatorios/PT1-Anexo1.pdf">PT1 - Anexo 1 - Estudo da evolução histórica AHD</DocumentLink>
@@ -38,7 +38,7 @@
 				<DocumentLink href="{base}/relatorios/PT1-Anexo4.pdf">PT1 - Anexo 4 - Projeções da procura nos acessos terrestres </DocumentLink>
 			</ul>
 			<div class="flex flex-col gap-4 mt-5">
-		<DocumentLink href="{base}/relatorios/PT2_Relatorio_Sintese.pdf">PT2 - Relatório Síntese (PACARL) (sem Anexos)</DocumentLink>
+		<DocumentLink href="{base}/relatorios/PT2_Relatorio_Sintese.pdf">PT2 - Relatório Sintese (PACARL) (sem Anexos)</DocumentLink>
 			</div>
 			<ul class="flex flex-col gap-2 mt-5"> 
 				<DocumentLink href="{base}/relatorios/PT2-Anexo1.pdf">PT2 - Anexo 1 - Análise de Ventos</DocumentLink>
@@ -55,14 +55,14 @@
 				<DocumentLink href="{base}/relatorios/PT2-Anexo12.pdf">PT2 - Anexo 12 - Layouts </DocumentLink>
 			</ul>
 					<div class="flex flex-col gap-4 mt-5">
-		<DocumentLink href="{base}/relatorios/PT3_relatorio_sintese.pdf">PT3 - Relatório Síntese (sem Anexos)</DocumentLink>
+		<DocumentLink href="{base}/relatorios/PT3_relatorio_sintese.pdf">PT3 - Relatório Sintese (sem Anexos)</DocumentLink>
 			</div>
 			<ul class="flex flex-col gap-2 mt-5">
 				<DocumentLink href="{base}/relatorios/PT3-Anexo1.pdf">PT3 - Anexo 1 - Território e Acessibilidades Rodo e Ferroviárias 1 </DocumentLink>
 				<DocumentLink href="{base}/relatorios/PT3-Anexo2.pdf">PT3 - Anexo 2 - Território e Acessibilidades Rodo e Ferroviárias 2 </DocumentLink>
 			</ul>
 			<div class="flex flex-col gap-4 mt-5">
-		<DocumentLink href="{base}/relatorios/PT4_relatorio_sintese.pdf">PT4 - Relatório Síntese (sem Anexos)</DocumentLink>
+		<DocumentLink href="{base}/relatorios/PT4_relatorio_sintese.pdf">PT4 - Relatório Sintese (sem Anexos)</DocumentLink>
 			</div>
 			<ul class="flex flex-col gap-2 mt-5">
 				<DocumentLink href="{base}/relatorios/PT4-Anexo1.pdf">PT4 - Anexo 1 - Condicionalismos nos domínios das dinâmicas sociais </DocumentLink>
@@ -72,7 +72,7 @@
 				<DocumentLink href="{base}/relatorios/PT4-Anexo5.pdf">PT4 - Anexo 5 - Estrutura e conteúdos do sistema de informação geográfica de suporte </DocumentLink>
 			</ul>
 			<div class="flex flex-col gap-4 mt-5">
-		<DocumentLink href="{base}/relatorios/PT5_relatorio_sintese.pdf">PT5 - Relatório Síntese (sem Anexos)</DocumentLink>
+		<DocumentLink href="{base}/relatorios/PT5_relatorio_sintese.pdf">PT5 - Relatório Sintese (sem Anexos)</DocumentLink>
 			</div>
 			<ul class="flex flex-col gap-2 mt-5">
 				<DocumentLink href="{base}/relatorios/PT5-Anexo1.pdf">PT5 - Anexo 1 - Conectividade Aeroportuária e Comércio Internacional </DocumentLink>
@@ -84,7 +84,7 @@
 				<DocumentLink href="{base}/relatorios/PT5-Anexo7.pdf">PT5 - Anexo 7 - Análise custo-benefício </DocumentLink>
 			</ul>
 			<div class="flex flex-col gap-4 mt-5">
-		<DocumentLink href="{base}/relatorios/PT6_relatorio_sintese.pdf">PT6 - Relatório Síntese (sem Anexos)</DocumentLink>
+		<DocumentLink href="{base}/relatorios/PT6_relatorio_sintese.pdf">PT6 - Relatório Sintese (sem Anexos)</DocumentLink>
 					</div>
 			<ul class="flex flex-col gap-2 mt-5">
 				<DocumentLink href="{base}/relatorios/PT6-AnexoA.pdf">PT6 - Anexo A - Análise legal do modelo de financiamento face aos regulamentos europeus </DocumentLink>
