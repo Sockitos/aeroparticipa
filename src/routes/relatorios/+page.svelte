@@ -14,7 +14,7 @@
 	<h3>Relatório Preliminar da CTI</h3>
 	<p>
 		A Comissão Técnica Independente disponibiliza o Relatório Ambiental preliminar que foi apresentado na 3º conferência da CTI, 
-		no dia 05 de dezembro de 2023. Está aberta a consulta pública até ao dia 26 de Janeiro de 2024. 
+		no dia 05 de dezembro de 2023. Está aberta a consulta pública até ao dia 19 de Janeiro de 2024. 
 		Os pareceres e comentários deverão ser enviados para cti.aeroporto@lnec.pt
 	</p>
 	
@@ -38,7 +38,7 @@
 				<DocumentLink href="{base}/relatorios/PT1-Anexo4.pdf">PT1 - Anexo 4 - Projeções da procura nos acessos terrestres </DocumentLink>
 			</ul>
 			<div class="flex flex-col gap-4 mt-5">
-		<DocumentLink href="{base}/relatorios/PT2_Relatorio_Sintese.pdf">PT2 - Relatório Sintese (PACARL) (sem Anexos)</DocumentLink>
+		<DocumentLink href="{base}/relatorios/PT2_relatorio_sintese.pdf">PT2 - Relatório Sintese (PACARL) (sem Anexos)</DocumentLink>
 			</div>
 			<ul class="flex flex-col gap-2 mt-5"> 
 				<DocumentLink href="{base}/relatorios/PT2-Anexo1.pdf">PT2 - Anexo 1 - Análise de Ventos</DocumentLink>
