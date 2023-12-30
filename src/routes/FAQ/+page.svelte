@@ -1,5 +1,4 @@
 <script>
-	import { base } from '$app/paths';
 	import PageContainer from '@/components/PageContainer.svelte';
 	import PageHeader from '@/components/PageHeader.svelte';
 </script>

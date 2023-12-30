@@ -30,7 +30,7 @@
 		</svg>
 	</button>
 	<ul class="flex flex-col space-y-4 px-20 pt-4 text-white text-2xl">
-		<NavDrawerItem href="{base}/faq/" label="FAQ" />
+		<NavDrawerItem href="{base}/FAQ/" label="FAQ" />
 		<NavDrawerItem href="https://participe.aeroparticipa.pt/" label="PARTICIPE!" />
 		<NavDrawerItem href="{base}/relatorios/" label="Relatórios" />
 		<NavDrawerGroup label="Estratégia de Participação">
@@ -51,6 +51,6 @@
 			<NavDrawerItem href="{base}/composicao-da-cti/" label="Composição" />
 			<NavDrawerItem href="{base}/regimento-da-cti/" label="Regimento" />
 			<NavDrawerItem href="{base}/equipas-tecnicas/" label="Equipas e Contratos" />
-		</NavDrawerGroup>
+		</NavDrawerGroup>~
 	</ul>
 </div>
