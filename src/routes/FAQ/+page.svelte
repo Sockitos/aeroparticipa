@@ -141,7 +141,7 @@ Acresce que esta reduzida vida útil nos conduzirá a um cenário em que teremos
 				</b>
 			</p>
 			<p>
-				O sucesso da TAP enquanto companhia aérea depende da sua possibilidade de desenvolver o hub. O argumento da conectividade, e seus impactos, está explicado nos relatórios do PT5. O desenvolvimento de um hub implica assegurar tempos mínimos de ligação para os passageiros em trânsito, e capacidade de expansão.
+				O sucesso da TAP enquanto companhia aérea depende da sua possibilidade de desenvolver o hub.  A importância da conectividade, nomeadamente os seus impactos na economia naccional, está demonstrada no relatório do PT5. O desenvolvimento de um hub implica assegurar tempos mínimos de ligação para os passageiros em trânsito, e capacidade de expansão.
 			</p>
 		</li>
 	</ol>
