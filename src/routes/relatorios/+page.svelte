@@ -9,23 +9,20 @@
 	<title>AeroParticipa - Relatórios</title>
 </svelte:head>
 
-<PageHeader>Relatórios</PageHeader>
+<PageHeader>Relatórios CTI</PageHeader>
 <PageContainer>
-	<h3>Relatório Preliminar da CTI</h3>
+	<h3>Relatório da CTI</h3>
 	<p>
-		A Comissão Técnica Independente disponibiliza o Relatório Ambiental preliminar que foi apresentado na 3º conferência da CTI, 
-		no dia 05 de dezembro de 2023. Está aberta a consulta pública até ao dia 26 de Janeiro de 2024. 
-		Os pareceres e comentários deverão ser enviados para cti.aeroporto@lnec.pt
+		No dia 11 de março 2024 foi formalmente entregue à Comissão de Acompanhamento o conjunto de documentos que integram o Relatório final da Comissão Técnica Independente, para que a Comissão de Acompanhamento possa preparar o seu parecer final. Do mesmo foi dado conhecimento ao Gabinete do Sr. Primeiro-Ministro e ao Gabinete do Sr. Secretário de Estado das Infraestruturas.
+Com o parecer da Comissão de Acompanhamento a Comissão Técnica Independente entregará formalmente o Relatório final ao Governo.
 	</p>
 	
+	<h3>Relatório Ambintal</h3>
 	<div class="flex flex-col gap-4 mt-5">
-		<DocumentLink href="https://drive.google.com/file/d/17gQXvazcGkpMkvFwgCHDSB6LKBGtEAvK/view?usp=sharing">Relatório Preliminar Completo (inclui RTC e anexos)</DocumentLink>
-	</div>
-	<h3>Relatório Ambiental Preliminar</h3>
-	<div class="flex flex-col gap-4 mt-5">
-		<DocumentLink href="{base}/relatorios/relatorio_ambiental.pdf">Relatório Ambiental Preliminar</DocumentLink>
-		<DocumentLink href="{base}/relatorios/resumo_nao_tecnico.pdf">Resumo Não Técnico</DocumentLink>
 		<DocumentLink href="{base}/relatorios/relatorio_ambiental_sumario.pdf">Sumário Executivo</DocumentLink>
+		<DocumentLink href="{base}/relatorios/relatorio_ambiental.pdf">Relatório Ambiental</DocumentLink>
+		<DocumentLink href="{base}/relatorios/resumo_nao_tecnico.pdf">Resumo Não Técnico</DocumentLink>
+		<DocumentLink href="{base}/relatorios/relatorio_ambiental_sumario.pdf">Relatório da Consulta Pública</DocumentLink>
 	</div>
 <h3>Relatório Técnicos Complementares (RTC) ao Relatório Ambiental</h3>
 		<div class="flex flex-col gap-4 mt-5">
@@ -53,6 +50,7 @@
 				<DocumentLink href="{base}/relatorios/PT2-Anexo10.pdf">PT2 - Anexo 10 - Relatório da Análise de Curto Prazo</DocumentLink>
 				<DocumentLink href="{base}/relatorios/PT2-Anexo11.pdf">PT2 - Anexo 11 - Vertiport</DocumentLink>
 				<DocumentLink href="{base}/relatorios/PT2-Anexo12.pdf">PT2 - Anexo 12 - Layouts </DocumentLink>
+				<DocumentLink href="{base}/relatorios/PT2-Anexo13.pdf">PT2 - Anexo 13 - Oficio EMFA </DocumentLink>
 			</ul>
 					<div class="flex flex-col gap-4 mt-5">
 		<DocumentLink href="{base}/relatorios/PT3_relatorio_sintese.pdf">PT3 - Relatório Síntese (sem Anexos)</DocumentLink>
@@ -94,33 +92,6 @@
 				<DocumentLink href="{base}/relatorios/PT6-AnexoE.pdf">PT6 - Anexo E - Estudo dos direitos dos antigos proprietários dos terrenos do AHD </DocumentLink>
 				<DocumentLink href="{base}/relatorios/PT6-AnexoF.pdf">PT6 - Anexo F - Ações necessárias ao nível governamental e a legislação aplicável para o desenvolvimento do Projeto </DocumentLink>
 			</ul>
-	<h3>Relatório da Fase I - Reconhecimento e Triagem</h3>
-	<p>
-		A comissão técnica independente tem o prazer de disponibilizar o relatório referente à primeira
-		fase da avaliação ambiental estratégia, na sequência da 1ª Conferência da CTI, referente aos
-		resultados obtidos no Reconhecimento e Triagem de opções estratégicas.
-	</p>
-	<div class="flex flex-col gap-4 mt-5">
-		<DocumentLink href="{base}/relatorios/relatorio_1.pdf">Relatório de Reconhecimento e Triagem</DocumentLink>
-	</div>
-	<h3>Relatório da Fase II - Fatores Críticos de Decisão</h3>
-	<p>
-		A comissão técnica independente disponibiliza o Relatório dos Fatores Críticos de Decisão, que
-		será apresentado na 2º conferência da CTI, no dia 11 de julho, entre as 14h30 e as 17h30.
-	</p>
-	<div class="flex flex-col gap-4 mt-5">
-		<DocumentLink href="{base}/relatorios/relatorio_2.pdf">Relatório dos Fatores Críticos de Decisão</DocumentLink>
-		<DocumentLink href="{base}/relatorios/relatorio_2_sumario.pdf">Sumário Executivo</DocumentLink>
-		<DocumentLink href="{base}/relatorios/relatorio_2_1.pdf">Relatório dos Fatores Críticos de Decisão pós Consulta Pública</DocumentLink>
-	</div>
-	<h3>Relatório da Análise de Curto Prazo</h3>
-	<p>
-		A comissão técnica independente disponibiliza o Relatório da Análise de Curto Prazo da situação
-		atual do Aeroporto Humberto Delgado (AHD), onde consta uma proposta de ações de melhoria da sua
-		eficiência e eficácia operacional.
-	</p>
-	<div class="flex flex-col gap-4 mt-5">
-		<DocumentLink href="{base}/relatorios/relatorio_AHD.pdf">Relatório da Análise de Curto Prazo</DocumentLink>
-	</div>
+	
 	
 </PageContainer>

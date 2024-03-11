@@ -40,25 +40,12 @@
 </div>
 <div class="bg-plane bg-cover bg-center bg-blue bg-blend-multiply">
 	<div class="container py-10 md:py-16">
-		<h2 class="text-3xl font-bold text-white pb-6">Perguntas frequentes (FAQ)<h2>
-			<p class="max-w-4xl text-white text-xl mt-5">
-				Durante o período de consulta e discussão pública a CTI disponibiliza respostas a perguntas frequentes no separador FAQ (frequently asked questions em inglês). 
-				Com as FAQ procuramos manter os cidadãos informados e esclarecidos.
-				As FAQ irão sendo atualizadas até final de Janeiro.
-				Sugerimos a consulta das FAQ sempre que tenha uma dúvida – a resposta que procura pode já estar disponível.
-							</p>
+					<h2 class="text-3xl font-bold text-white pb-6">Relatório da CTI<h2>
 				<p class="max-w-4xl text-white text-xl mt-5">
-					
-			</p>
-			<h2 class="text-3xl font-bold text-white pb-6">Prorrogação do prazo da Consulta Pública sobre o Relatório Ambiental<h2>
-				<p class="max-w-4xl text-white text-xl mt-5">
-					Devido ao período de Natal e Fim de Ano, e considerando a tolerância de ponto hoje anunciada, a CTI prorroga o prazo da consulta pública do Relatório Ambiental, o qual tendo tido início em 6 de Dez de 2023 terminará a 26 de Janeiro de 2024.
-				</p>
+					A Comissão Técnica Independente disponibiliza o Relatório final, revisto e melhorado com os comentários recebidos na consulta pública que decorreu entre 6 de dezembro e 26 de janeiro de 2024
+					Cumprindo o espírito de transparência e abertura, entendeu a CTI divulgar desde já o relatório publicamente.</p>
 			<div class="py flex justify-start mt-5">
-			<ArrowLink label="FAQ" href="{base}/FAQ" isLight />
-		</div>
-			<div class="py flex justify-start mt-5">
-			<ArrowLink label="Relatório Preliminar CTI" href="{base}/relatorios" isLight />
+			<ArrowLink label="Relatório Final da CTI" href="{base}/relatorios" isLight />
 		</div>
 		
 	</div>
