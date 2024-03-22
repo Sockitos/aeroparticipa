@@ -17,8 +17,9 @@
 Com o parecer da Comissão de Acompanhamento a Comissão Técnica Independente entregará formalmente o Relatório final ao Governo.
 	</p>
 	
-	<h3>Relatório Ambintal</h3>
+	<h3>Relatório Ambintal</h3> 
 	<div class="flex flex-col gap-4 mt-5">
+		<DocumentLink href="{base}/relatorios/Parecer_CA.pdf">Parecer da Comissão de Acomp</DocumentLink>
 		<DocumentLink href="{base}/relatorios/relatorio_ambiental_sumario.pdf">Sumário Executivo</DocumentLink>
 		<DocumentLink href="{base}/relatorios/relatorio_ambiental.pdf">Relatório Ambiental</DocumentLink>
 		<DocumentLink href="{base}/relatorios/resumo_nao_tecnico.pdf">Resumo Não Técnico</DocumentLink>

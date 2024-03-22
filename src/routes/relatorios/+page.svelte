@@ -23,11 +23,11 @@
 
 	<h3>Relatório Ambiental</h3>
 	<div class="flex flex-col gap-4 mt-5">
+		<DocumentLink href="{base}/relatorios/Parecer_CA.pdf">Parecer da Comissão de Acompanhamento</DocumentLink>
 		<DocumentLink href="{base}/relatorios/relatorio_ambiental_sumario.pdf"
 			>Sumário Executivo</DocumentLink
 		>
-		<DocumentLink href="{base}/relatorios/relatorio_ambiental.pdf">Relatório Ambiental</DocumentLink
-		>
+		<DocumentLink href="{base}/relatorios/relatorio_ambiental.pdf">Relatório Ambiental</DocumentLink>	
 		<DocumentLink href="{base}/relatorios/resumo_nao_tecnico.pdf">Resumo Não Técnico</DocumentLink>
 		<DocumentLink href="{base}/relatorios/relatorio_consulta_publica.pdf"
 			>Relatório da Consulta Pública</DocumentLink
